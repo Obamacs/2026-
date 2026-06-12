@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(python3 generate_predictions.py)",
-      "Bash(pkill -f \"http.server\")"
+      "Bash(pkill -f \"http.server\")",
+      "Bash(chmod +x /Users/hubin/Downloads/AI世界杯/pull_updates.sh)",
+      "Bash(python3 /tmp/verify_weights.py)"
     ]
   }
 }
