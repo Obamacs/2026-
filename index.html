@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>世界杯 2026 AI 预测面板</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; margin: 0; background: radial-gradient(circle at top, rgba(51, 97, 255, 0.18), transparent 30%), #0b1220; color: #f5f7ff; }
+    .container { max-width: 1160px; margin: 0 auto; padding: 24px 20px 40px; }
+    h1, h2, h3, h4 { margin: 0 0 14px; }
+    h1 { font-size: clamp(2rem, 2.5vw, 3rem); letter-spacing: -0.03em; }
+    .panel { background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.12); border-radius: 22px; padding: 24px; margin-bottom: 24px; box-shadow: 0 24px 80px rgba(0, 0, 0, 0.16); }
+    .panel.dark { background: rgba(10, 16, 32, 0.9); border-color: rgba(255,255,255,0.08); }
+    .section-title { border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 10px; margin-bottom: 18px; color: #e8efff; }
+    .group-card { background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; padding: 20px; margin-bottom: 24px; }
+    .group-meta { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 16px; }
+    .group-meta span { font-size: 0.95rem; color: #c5cee8; }
+    .grid { display: grid; gap: 18px; }
+    .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; margin-top: 12px; min-width: 700px; }
+    th, td { padding: 12px 14px; border-bottom: 1px solid rgba(255,255,255,0.08); text-align: left; vertical-align: top; }
+    th { color: #b8c4e6; font-weight: 600; font-size: 0.95rem; letter-spacing: 0.02em; }
+    tr:hover { background: rgba(255,255,255,0.04); }
+    td small { color: #aab3d8; }
+    .badge { display: inline-flex; align-items: center; gap: 8px; padding: 5px 12px; border-radius: 999px; font-size: 0.86rem; letter-spacing: 0.01em; }
+    .badge-success { background: rgba(97, 187, 123, 0.16); color: #b8f0b3; }
+    .badge-warning { background: rgba(246, 190, 66, 0.16); color: #ffe79c; }
+    .badge-danger { background: rgba(246, 110, 110, 0.16); color: #ffb0b0; }
+    .button { border: none; border-radius: 999px; background: linear-gradient(135deg, #6d7dff, #5b70ff); color: white; padding: 12px 22px; cursor: pointer; font-size: 1rem; transition: transform .15s ease, opacity .15s ease; }
+    .button:hover { transform: translateY(-1px); opacity: 0.96; }
+    .button-group { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-top: 14px; }
+    .small { font-size: 0.94rem; color: #c9d0f3; }
+    .note { margin-top: 16px; color: #c2c9e6; line-height: 1.8; }
+    code { background: rgba(255,255,255,0.08); padding: 3px 6px; border-radius: 6px; }
+    .time-line { display: block; margin-top: 6px; color: #b0bde7; }
+    .match-summary { display: flex; flex-direction: column; gap: 6px; }
+    .match-title { font-weight: 600; color: #eef3ff; }
+    .prob-list { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 8px; }
+    .prob-item { display: inline-flex; flex-direction: column; align-items: flex-start; gap: 2px; padding: 8px 10px; border-radius: 12px; background: rgba(255,255,255,0.05); color: #eef3ff; font-size: 0.88rem; }
+    .prob-item span:first-child { color: #a8b5dd; font-size: 0.78rem; }
+    .status-pill { display: inline-flex; padding: 5px 12px; border-radius: 999px; background: rgba(255,255,255,0.08); color: #c5cee8; font-size: 0.88rem; }
+    .today-matches { display: grid; gap: 12px; }
+    .match-card { background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; padding: 16px; transition: all 0.3s ease; }
+    .match-card:hover { background: rgba(255,255,255,0.06); border-color: rgba(255,255,255,0.15); }
+    .match-card.high-draw { border-color: rgba(255, 100, 100, 0.3); background: rgba(255, 100, 100, 0.05); }
+    .match-time { color: #6d7dff; font-weight: 600; font-size: 1.1rem; }
+    .match-teams { display: flex; justify-content: space-between; align-items: center; margin: 12px 0; gap: 16px; }
+    .team-box { flex: 1; text-align: center; }
+    .team-name { font-weight: 600; font-size: 0.95rem; color: #eef3ff; margin-bottom: 6px; }
+    .team-prob { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
+    .vs-text { color: #6d7dff; font-weight: 600; padding: 0 8px; }
+    .match-info { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 12px; font-size: 0.85rem; }
+    .info-item { display: inline-flex; gap: 4px; align-items: center; padding: 4px 8px; background: rgba(255,255,255,0.05); border-radius: 8px; color: #c2c9e6; }
+    .high-draw-badge { background: rgba(255, 100, 100, 0.2); color: #ffb0b0; padding: 2px 8px; border-radius: 6px; font-size: 0.8rem; font-weight: 600; }
+    @media (max-width: 920px) {
+      .grid-2 { grid-template-columns: 1fr; }
+      table { min-width: 100%; }
+      .match-teams { flex-direction: column; }
+      .vs-text { padding: 4px 0; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>AI 预测面板：世界杯 2026 小组赛</h1>
+    <p class="small">本面板使用真实历史世界杯数据与公开 2026 赛程 API，构建 XGBoost + 上下文融合预测。</p>
+
+    <div class="panel">
+      <h2>面板说明</h2>
+      <p class="small">请先运行 <code>python3 generate_predictions.py</code> 生成 <code>predictions.json</code>，然后通过本地服务器访问此页面。</p>
+      <div class="button-group">
+        <button class="button" onclick="renderDashboard()">刷新预测面板</button>
+        <button class="button" id="toggle-pending" onclick="togglePending()">仅显示需预测比赛</button>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2 id="today-title">📅 北京时间今日比赛预测</h2>
+      <div id="today-matches-container" class="today-matches"></div>
+    </div>
+
+    <div id="groups-container"></div>
+
+    <div class="panel">
+      <h2>关键预测说明</h2>
+      <div id="analysis"></div>
+    </div>
+  </div>
+
+  <script>
+    async function loadPredictions() {
+      const response = await fetch('predictions.json');
+      if (!response.ok) {
+        throw new Error(`无法读取 predictions.json：${response.status}`);
+      }
+      return response.json();
+    }
+
+    function formatProbability(value) {
+      return `${(value * 100).toFixed(1)}%`;
+    }
+
+    function formatBeijingTime(datetime) {
+      const date = new Date(datetime);
+      return date.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai', hour12: false });
+    }
+
+    let showOnlyPending = false;
+
+    function togglePending() {
+      showOnlyPending = !showOnlyPending;
+      document.getElementById('toggle-pending').textContent = showOnlyPending ? '显示全部比赛' : '仅显示需预测比赛';
+      renderDashboard();
+    }
+
+    function getTodayMatches(groups) {
+      // 获取北京时间的今天日期
+      const today = new Date();
+      const bjToday = new Date(today.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' }));
+      const todayStart = new Date(bjToday.getFullYear(), bjToday.getMonth(), bjToday.getDate(), 0, 0, 0);
+      const todayEnd = new Date(bjToday.getFullYear(), bjToday.getMonth(), bjToday.getDate(), 23, 59, 59);
+
+      let allMatches = [];
+      groups.forEach(group => {
+        group.predictions.forEach(match => {
+          const matchDate = new Date(match.datetime);
+          const bjDate = new Date(matchDate.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' }));
+          if (bjDate >= todayStart && bjDate <= todayEnd) {
+            allMatches.push({...match, group: group.group});
+          }
+        });
+      });
+
+      // 按时间排序
+      allMatches.sort((a, b) => new Date(a.datetime) - new Date(b.datetime));
+      return allMatches;
+    }
+
+    async function renderDashboard() {
+      const data = await loadPredictions();
+      const groupsContainer = document.getElementById('groups-container');
+      const todayContainer = document.getElementById('today-matches-container');
+      const todayTitle = document.getElementById('today-title');
+      const analysis = document.getElementById('analysis');
+      const groups = data.groups || [{group: 'Group A', standings: data.standings, predictions: data.predictions}];
+
+      // 显示当天比赛
+      const todayMatches = getTodayMatches(groups);
+      if (todayMatches.length === 0) {
+        todayContainer.innerHTML = '<p class="small" style="color: #c2c9e6; padding: 20px; text-align: center;">今日暂无比赛</p>';
+        todayTitle.textContent = '📅 北京时间今日比赛预测 (无比赛)';
+      } else {
+        const bjToday = new Date(new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' }));
+        const dateStr = bjToday.toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' });
+        todayTitle.textContent = `📅 北京时间 ${dateStr} 比赛预测 (${todayMatches.length}场)`;
+
+        let todayHTML = '';
+        todayMatches.forEach(match => {
+          const bjDate = formatBeijingTime(match.datetime);
+          const timeOnly = bjDate.split(' ')[1] || bjDate;
+          const isHighDraw = match.probabilities.draw > 0.25;
+          const probHome = formatProbability(match.probabilities.home);
+          const probDraw = formatProbability(match.probabilities.draw);
+          const probAway = formatProbability(match.probabilities.away);
+          const highDrawBadge = isHighDraw ? '<span class="high-draw-badge">⚠️ 高平率</span>' : '';
+          const predictedScore = `${match.predicted_score.home}:${match.predicted_score.away}`;
+          const actual = match.actual_score ? `${match.actual_score.home}:${match.actual_score.away}` : '—';
+          const cardClass = isHighDraw ? 'match-card high-draw' : 'match-card';
+
+          todayHTML += `
+            <div class="${cardClass}">
+              <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div class="match-time">${timeOnly}</div>
+                <div>${highDrawBadge}</div>
+              </div>
+              <div class="match-teams">
+                <div class="team-box">
+                  <div class="team-name">${match.home_team}</div>
+                  <div style="font-size: 0.85rem; color: #aab3d8;">${probHome}</div>
+                </div>
+                <div style="text-align: center;">
+                  <div class="vs-text">VS</div>
+                  <div style="font-size: 0.85rem; color: #6d7dff; font-weight: 600;">${predictedScore}</div>
+                </div>
+                <div class="team-box">
+                  <div class="team-name">${match.away_team}</div>
+                  <div style="font-size: 0.85rem; color: #aab3d8;">${probAway}</div>
+                </div>
+              </div>
+              <div style="text-align: center; color: #6d7dff; font-weight: 600; margin: 8px 0;">平 ${probDraw}</div>
+              <div class="match-info">
+                <span class="info-item">📍 ${match.venue}</span>
+                <span class="info-item">🏆 ${match.group}</span>
+                <span class="info-item">📊 ${match.best_outcome}</span>
+                ${match.actual_score ? `<span class="info-item" style="background: rgba(97, 187, 123, 0.1); color: #b8f0b3;">✓ 已完赛 ${actual}</span>` : ''}
+              </div>
+            </div>
+          `;
+        });
+        todayContainer.innerHTML = todayHTML;
+      }
+
+      groupsContainer.innerHTML = '';
+      groups.forEach(group => {
+        const pendingMatches = group.predictions.filter(match => !match.actual_score);
+        const visibleMatches = showOnlyPending ? pendingMatches : group.predictions;
+        const summaryText = showOnlyPending ? `需预测 ${pendingMatches.length} 场，已完赛 ${group.predictions.length - pendingMatches.length} 场` : `共 ${group.predictions.length} 场预测`;
+        let standingsRows = '';
+        group.standings.forEach((row, index) => {
+          const badge = row.points >= 6 ? 'badge-success' : row.points >= 4 ? 'badge-warning' : 'badge-danger';
+          standingsRows += `
+            <tr>
+              <td>${index + 1}</td>
+              <td>${row.team}</td>
+              <td>${row.win}</td>
+              <td>${row.draw}</td>
+              <td>${row.loss}</td>
+              <td>${row.goals_for}</td>
+              <td>${row.goals_against}</td>
+              <td>${row.points}</td>
+              <td><span class="badge ${badge}">${row.points >= 6 ? '高' : row.points >= 4 ? '中' : '低'}</span></td>
+            </tr>
+          `;
+        });
+
+        let matchRows = '';
+        if (visibleMatches.length === 0) {
+          matchRows = `
+            <tr>
+              <td colspan="5" class="small">${showOnlyPending ? '当前组已无需预测比赛，已全部有实际结果。' : '当前组暂无比赛。'}</td>
+            </tr>
+          `;
+        } else {
+          visibleMatches.forEach(match => {
+            const localDate = new Date(match.datetime).toLocaleString('zh-CN', { hour12: false });
+            const bjDate = formatBeijingTime(match.datetime);
+            const actual = match.actual_score ? `${match.actual_score.home} - ${match.actual_score.away}` : '—';
+            const odds = match.bookmaker_odds ? `${match.bookmaker_odds.home.toFixed(2)} / ${match.bookmaker_odds.draw.toFixed(2)} / ${match.bookmaker_odds.away.toFixed(2)}` : '未提供';
+            const probHome = formatProbability(match.probabilities.home);
+            const probDraw = formatProbability(match.probabilities.draw);
+            const probAway = formatProbability(match.probabilities.away);
+            matchRows += `
+              <tr>
+                <td>
+                  <div class="match-summary">
+                    <div class="match-title">${match.home_team} vs ${match.away_team}</div>
+                    <div class="time-line">北京时间：${bjDate}</div>
+                    <div class="time-line">原时区：${localDate} · ${match.venue}</div>
+                    <div class="time-line">最佳预测：${match.best_outcome}</div>
+                  </div>
+                </td>
+                <td>${match.predicted_score.home} - ${match.predicted_score.away}</td>
+                <td>${actual}</td>
+                <td>${odds}</td>
+                <td>
+                  <div class="prob-list">
+                    <div class="prob-item"><span>主胜</span>${probHome}</div>
+                    <div class="prob-item"><span>平局</span>${probDraw}</div>
+                    <div class="prob-item"><span>客胜</span>${probAway}</div>
+                  </div>
+                </td>
+              </tr>
+            `;
+          });
+        }
+
+        groupsContainer.innerHTML += `
+          <div class="group-card">
+            <div class="group-meta">
+              <h3>${group.group}</h3>
+              <span>共 ${group.standings.length} 支球队 · ${summaryText}</span>
+              <span>权重融合：模型 50% / 上下文 20% / 赔率 30%</span>
+            </div>
+            <div class="grid grid-2">
+              <div>
+                <h4>小组排名预测</h4>
+                <div class="table-wrap">
+                  <table>
+                    <thead>
+                      <tr><th>排名</th><th>球队</th><th>胜</th><th>平</th><th>负</th><th>进</th><th>失</th><th>积分</th><th>出线</th></tr>
+                    </thead>
+                    <tbody>${standingsRows}</tbody>
+                  </table>
+                </div>
+              </div>
+              <div>
+                <h4>比赛结果预测</h4>
+                <div class="table-wrap">
+                  <table>
+                    <thead>
+                      <tr><th>比赛</th><th>预测比分</th><th>实际结果</th><th>赔率(H/D/A)</th><th>概率(H/D/A)</th></tr>
+                    </thead>
+                    <tbody>${matchRows}</tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        `;
+      });
+
+      analysis.innerHTML = `
+        <p class="note">该面板直接展示实际生成的预测数据文件 <code>predictions.json</code>。</p>
+        <p class="note">历史数据由 openfootball 世界杯数据集提供，2026 赛程来自本地 openfootball 2026 赛程文件。</p>
+        <p class="note">模型使用 XGBoost 训练真实比赛结果标签，融合实时上下文概率与博彩公司赔率。</p>
+        <p class="note">当前赔率优先从 The Odds API 获取，失败时回退到内置示例赔率。</p>
+      `;
+    }
+
+    renderDashboard().catch(err => {
+      document.body.innerHTML = `<div class="container"><div class="panel"><h2>加载失败</h2><pre>${err}</pre><p class="small">请确认已生成 <code>predictions.json</code>，并通过 HTTP 服务器打开页面。</p></div></div>`;
+    });
+  </script>
+</body>
+</html>

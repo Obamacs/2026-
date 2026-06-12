@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 generate_predictions.py)",
+      "Bash(pkill -f \"http.server\")"
+    ]
+  }
+}

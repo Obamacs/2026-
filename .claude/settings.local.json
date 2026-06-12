@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pkill -f \"http.server 8888\")",
+      "Bash(python3 -m http.server 8888)",
+      "Skill(run)",
+      "Skill(run:*)",
+      "Bash(curl -s http://localhost:8888/predictions.json)",
+      "Bash(python3 -m json.tool)",
+      "Bash(open http://localhost:8888)"
+    ]
+  }
+}

@@ -1,0 +1,8336 @@
+{
+  "USA|Paraguay": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.15,
+      "draw": 3.23,
+      "away": 4.02
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 2.18,
+      "draw": 3.3,
+      "away": 4.1
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.1,
+      "draw": 3.15,
+      "away": 3.85
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 2.13,
+      "draw": 3.28,
+      "away": 4.03
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 2.0,
+      "draw": 3.1,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 2.05,
+      "draw": 3.2,
+      "away": 3.7
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 2.08,
+      "draw": 3.25,
+      "away": 4.2
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 2.1,
+      "draw": 3.25,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 2.05,
+      "draw": 3.15,
+      "away": 4.1
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 2.08,
+      "draw": 3.25,
+      "away": 4.2
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.14,
+      "draw": 3.2,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 2.04,
+      "draw": 3.05,
+      "away": 3.95
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.13,
+      "draw": 3.1,
+      "away": 3.75
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 2.05,
+      "draw": 3.25,
+      "away": 3.85
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 2.1,
+      "draw": 3.3,
+      "away": 3.85
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 2.05,
+      "draw": 3.35,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 2.15,
+      "draw": 3.25,
+      "away": 3.85
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 2.04,
+      "draw": 3.3,
+      "away": 3.96
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 2.05,
+      "draw": 3.2,
+      "away": 3.9
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 2.15,
+      "draw": 3.25,
+      "away": 3.85
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 2.16,
+      "draw": 3.29,
+      "away": 4.02
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 2.18,
+      "draw": 3.3,
+      "away": 4.1
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 2.11,
+      "draw": 3.15,
+      "away": 3.91
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 2.1,
+      "draw": 3.2,
+      "away": 3.85
+    }
+  ],
+  "Qatar|Switzerland": [
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 17.0,
+      "draw": 7.0,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 16.0,
+      "draw": 6.75,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 17.0,
+      "draw": 7.0,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 15.0,
+      "draw": 6.5,
+      "away": 1.18
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 13.8,
+      "draw": 6.55,
+      "away": 1.24
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 14.0,
+      "draw": 6.7,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 13.0,
+      "draw": 5.8,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 13.0,
+      "draw": 6.5,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 14.22,
+      "draw": 6.65,
+      "away": 1.23
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 16.5,
+      "draw": 7.2,
+      "away": 1.24
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 12.0,
+      "draw": 5.5,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 14.5,
+      "draw": 6.85,
+      "away": 1.24
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 13.5,
+      "draw": 6.1,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 11.5,
+      "draw": 6.25,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 12.0,
+      "draw": 6.5,
+      "away": 1.21
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 14.75,
+      "draw": 6.6,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 14.5,
+      "draw": 5.65,
+      "away": 1.26
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 12.98,
+      "draw": 6.09,
+      "away": 1.24
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 14.0,
+      "draw": 6.7,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 14.5,
+      "draw": 5.65,
+      "away": 1.26
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 14.7,
+      "draw": 6.35,
+      "away": 1.25
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 16.5,
+      "draw": 7.0,
+      "away": 1.25
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 14.0,
+      "draw": 6.5,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 14.0,
+      "draw": 6.2,
+      "away": 1.22
+    }
+  ],
+  "Brazil|Morocco": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.69,
+      "draw": 3.76,
+      "away": 5.58
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.74,
+      "draw": 3.9,
+      "away": 5.7
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.67,
+      "draw": 3.75,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.65,
+      "draw": 3.85,
+      "away": 5.4
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.72,
+      "draw": 3.77,
+      "away": 5.7
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.57,
+      "draw": 3.9,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.6,
+      "draw": 4.0,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.68,
+      "draw": 4.0,
+      "away": 6.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.64,
+      "draw": 3.8,
+      "away": 5.6
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.66,
+      "draw": 3.9,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.66,
+      "draw": 3.89,
+      "away": 5.7
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.66,
+      "draw": 3.7,
+      "away": 5.4
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.67,
+      "draw": 3.7,
+      "away": 5.2
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.64,
+      "draw": 3.65,
+      "away": 5.1
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.66,
+      "draw": 3.7,
+      "away": 5.2
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.65,
+      "draw": 3.83,
+      "away": 5.4
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 1.7,
+      "draw": 3.75,
+      "away": 5.45
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.61,
+      "draw": 3.86,
+      "away": 5.47
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.62,
+      "draw": 3.8,
+      "away": 5.7
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 1.7,
+      "draw": 3.75,
+      "away": 5.45
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.69,
+      "draw": 3.81,
+      "away": 5.78
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.74,
+      "draw": 3.9,
+      "away": 5.7
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.68,
+      "draw": 3.71,
+      "away": 5.47
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.68,
+      "draw": 3.75,
+      "away": 5.2
+    }
+  ],
+  "Haiti|Scotland": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 5.9,
+      "draw": 4.21,
+      "away": 1.59
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 6.2,
+      "draw": 4.4,
+      "away": 1.62
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 5.75,
+      "draw": 4.1,
+      "away": 1.57
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 6.2,
+      "draw": 4.25,
+      "away": 1.6
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 5.75,
+      "draw": 4.0,
+      "away": 1.44
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 6.0,
+      "draw": 4.2,
+      "away": 1.5
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 6.25,
+      "draw": 4.4,
+      "away": 1.57
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 6.0,
+      "draw": 4.3,
+      "away": 1.54
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 5.8,
+      "draw": 4.2,
+      "away": 1.56
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 6.25,
+      "draw": 4.4,
+      "away": 1.57
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 6.04,
+      "draw": 4.25,
+      "away": 1.58
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 5.75,
+      "draw": 4.1,
+      "away": 1.54
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 5.8,
+      "draw": 4.2,
+      "away": 1.55
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 5.4,
+      "draw": 4.3,
+      "away": 1.5
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 5.5,
+      "draw": 4.4,
+      "away": 1.52
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 6.0,
+      "draw": 4.3,
+      "away": 1.54
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 6.2,
+      "draw": 4.15,
+      "away": 1.58
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 5.48,
+      "draw": 4.23,
+      "away": 1.54
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 5.8,
+      "draw": 4.2,
+      "away": 1.55
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 6.2,
+      "draw": 4.15,
+      "away": 1.58
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 5.94,
+      "draw": 4.26,
+      "away": 1.6
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 6.2,
+      "draw": 4.4,
+      "away": 1.62
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 5.89,
+      "draw": 4.17,
+      "away": 1.57
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 5.8,
+      "draw": 4.2,
+      "away": 1.56
+    }
+  ],
+  "Australia|Turkey": [
+    {
+      "bookmaker": "Coolbet",
+      "home": 5.3,
+      "draw": 3.8,
+      "away": 1.75
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 5.5,
+      "draw": 3.9,
+      "away": 1.76
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 5.0,
+      "draw": 3.75,
+      "away": 1.73
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 5.25,
+      "draw": 3.82,
+      "away": 1.71
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 5.2,
+      "draw": 3.65,
+      "away": 1.66
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 5.25,
+      "draw": 3.9,
+      "away": 1.66
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 5.3,
+      "draw": 3.7,
+      "away": 1.68
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 5.5,
+      "draw": 3.8,
+      "away": 1.71
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 5.1,
+      "draw": 3.84,
+      "away": 1.72
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 5.6,
+      "draw": 3.9,
+      "away": 1.72
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 4.8,
+      "draw": 3.5,
+      "away": 1.67
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 4.8,
+      "draw": 3.6,
+      "away": 1.67
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 5.0,
+      "draw": 3.75,
+      "away": 1.69
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 4.7,
+      "draw": 3.8,
+      "away": 1.66
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 5.25,
+      "draw": 3.9,
+      "away": 1.66
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 5.35,
+      "draw": 3.7,
+      "away": 1.72
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 4.93,
+      "draw": 3.76,
+      "away": 1.68
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 5.35,
+      "draw": 3.7,
+      "away": 1.72
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 5.23,
+      "draw": 3.86,
+      "away": 1.74
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 5.5,
+      "draw": 3.9,
+      "away": 1.76
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 5.08,
+      "draw": 3.79,
+      "away": 1.71
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 5.0,
+      "draw": 3.75,
+      "away": 1.7
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 4.8,
+      "draw": 3.85,
+      "away": 1.68
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 5.2,
+      "draw": 3.8,
+      "away": 1.67
+    }
+  ],
+  "Germany|Curaçao": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.04,
+      "draw": 19.0,
+      "away": 41.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.06,
+      "draw": 25.0,
+      "away": 44.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.04,
+      "draw": 17.0,
+      "away": 41.0
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.03,
+      "draw": 20.0,
+      "away": 37.0
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.06,
+      "draw": 16.0,
+      "away": 45.0
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.04,
+      "draw": 15.0,
+      "away": 41.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.05,
+      "draw": 15.0,
+      "away": 36.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.05,
+      "draw": 23.0,
+      "away": 41.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.03,
+      "draw": 18.0,
+      "away": 41.0
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.05,
+      "draw": 23.0,
+      "away": 41.0
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.05,
+      "draw": 19.0,
+      "away": 33.0
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.02,
+      "draw": 17.0,
+      "away": 41.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.02,
+      "draw": 15.0,
+      "away": 63.0
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.03,
+      "draw": 15.0,
+      "away": 35.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.03,
+      "draw": 18.75,
+      "away": 38.0
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 1.05,
+      "draw": 13.5,
+      "away": 70.0
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 1.05,
+      "draw": 13.5,
+      "away": 70.0
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.04,
+      "draw": 19.5,
+      "away": 55.0
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.06,
+      "draw": 25.0,
+      "away": 46.0
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.02,
+      "draw": 19.0,
+      "away": 46.0
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.05,
+      "draw": 15.0,
+      "away": 40.0
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.05,
+      "draw": 19.0,
+      "away": 35.0
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.04,
+      "draw": 17.0,
+      "away": 35.0
+    }
+  ],
+  "Netherlands|Japan": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.01,
+      "draw": 3.65,
+      "away": 3.82
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 2.08,
+      "draw": 3.7,
+      "away": 3.95
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.0,
+      "draw": 3.6,
+      "away": 3.75
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.97,
+      "draw": 3.65,
+      "away": 3.75
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.98,
+      "draw": 3.62,
+      "away": 4.1
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.91,
+      "draw": 3.3,
+      "away": 3.7
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.95,
+      "draw": 3.4,
+      "away": 3.75
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 2.0,
+      "draw": 3.8,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.94,
+      "draw": 3.6,
+      "away": 3.8
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.97,
+      "draw": 3.7,
+      "away": 3.95
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.02,
+      "draw": 3.6,
+      "away": 3.82
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.92,
+      "draw": 3.55,
+      "away": 3.75
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.0,
+      "draw": 3.5,
+      "away": 3.65
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.96,
+      "draw": 3.6,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.97,
+      "draw": 3.63,
+      "away": 3.75
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 2.05,
+      "draw": 3.55,
+      "away": 3.8
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 2.0,
+      "draw": 3.59,
+      "away": 3.68
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 2.05,
+      "draw": 3.55,
+      "away": 3.8
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.97,
+      "draw": 3.7,
+      "away": 4.03
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 2.08,
+      "draw": 3.7,
+      "away": 3.95
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 2.02,
+      "draw": 3.6,
+      "away": 3.82
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.96,
+      "draw": 3.65,
+      "away": 3.55
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.95,
+      "draw": 3.6,
+      "away": 3.8
+    }
+  ],
+  "Ivory Coast|Ecuador": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 3.73,
+      "draw": 2.83,
+      "away": 2.43
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 3.8,
+      "draw": 2.92,
+      "away": 2.5
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 3.6,
+      "draw": 2.8,
+      "away": 2.45
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 3.7,
+      "draw": 2.85,
+      "away": 2.48
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 3.25,
+      "draw": 2.9,
+      "away": 2.3
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 3.3,
+      "draw": 2.9,
+      "away": 2.3
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 3.6,
+      "draw": 2.8,
+      "away": 2.4
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 3.75,
+      "draw": 2.9,
+      "away": 2.45
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 3.6,
+      "draw": 2.8,
+      "away": 2.4
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 3.75,
+      "draw": 2.9,
+      "away": 2.45
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 3.64,
+      "draw": 2.84,
+      "away": 2.45
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 3.5,
+      "draw": 2.75,
+      "away": 2.35
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 3.6,
+      "draw": 2.79,
+      "away": 2.37
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 3.55,
+      "draw": 2.75,
+      "away": 2.3
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 3.6,
+      "draw": 2.85,
+      "away": 2.45
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 3.63,
+      "draw": 2.85,
+      "away": 2.33
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 3.6,
+      "draw": 2.85,
+      "away": 2.45
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 3.63,
+      "draw": 2.8,
+      "away": 2.4
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 3.72,
+      "draw": 2.86,
+      "away": 2.46
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 3.8,
+      "draw": 2.92,
+      "away": 2.5
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 3.65,
+      "draw": 2.78,
+      "away": 2.39
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 3.6,
+      "draw": 2.8,
+      "away": 2.39
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 3.55,
+      "draw": 2.8,
+      "away": 2.3
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 3.3,
+      "draw": 2.9,
+      "away": 2.45
+    }
+  ],
+  "Sweden|Tunisia": [
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.93,
+      "draw": 3.45,
+      "away": 4.5
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.92,
+      "draw": 3.55,
+      "away": 4.55
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.93,
+      "draw": 3.65,
+      "away": 4.7
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.9,
+      "draw": 3.5,
+      "away": 4.33
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.89,
+      "draw": 3.56,
+      "away": 4.42
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.88,
+      "draw": 3.55,
+      "away": 4.55
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.87,
+      "draw": 3.3,
+      "away": 4.25
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.87,
+      "draw": 3.45,
+      "away": 4.4
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.89,
+      "draw": 3.4,
+      "away": 4.35
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.94,
+      "draw": 3.5,
+      "away": 4.6
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.85,
+      "draw": 3.3,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.85,
+      "draw": 3.3,
+      "away": 4.2
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.9,
+      "draw": 3.36,
+      "away": 4.2
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.86,
+      "draw": 3.45,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 1.92,
+      "draw": 3.45,
+      "away": 4.5
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.94,
+      "draw": 3.42,
+      "away": 4.33
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 1.92,
+      "draw": 3.45,
+      "away": 4.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.87,
+      "draw": 3.47,
+      "away": 4.4
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.91,
+      "draw": 3.6,
+      "away": 4.46
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.93,
+      "draw": 3.65,
+      "away": 4.7
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.91,
+      "draw": 3.45,
+      "away": 4.3
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.91,
+      "draw": 3.4,
+      "away": 4.3
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.88,
+      "draw": 3.45,
+      "away": 4.1
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.8,
+      "draw": 3.6,
+      "away": 4.5
+    }
+  ],
+  "Spain|Cape Verde": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.08,
+      "draw": 11.67,
+      "away": 28.42
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.1,
+      "draw": 15.0,
+      "away": 32.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.07,
+      "draw": 12.0,
+      "away": 29.0
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.08,
+      "draw": 12.0,
+      "away": 25.0
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.12,
+      "draw": 10.0,
+      "away": 25.0
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.08,
+      "draw": 9.5,
+      "away": 23.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.1,
+      "draw": 10.0,
+      "away": 23.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.11,
+      "draw": 12.5,
+      "away": 26.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.09,
+      "draw": 11.0,
+      "away": 26.0
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.11,
+      "draw": 12.5,
+      "away": 26.0
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.1,
+      "draw": 12.0,
+      "away": 26.0
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.08,
+      "draw": 10.5,
+      "away": 23.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.09,
+      "draw": 9.9,
+      "away": 24.0
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.05,
+      "draw": 12.0,
+      "away": 20.0
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.06,
+      "draw": 13.5,
+      "away": 22.0
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 1.11,
+      "draw": 9.3,
+      "away": 41.0
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.1,
+      "draw": 10.95,
+      "away": 21.23
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.07,
+      "draw": 12.0,
+      "away": 25.0
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 1.11,
+      "draw": 9.3,
+      "away": 41.0
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.11,
+      "draw": 11.4,
+      "away": 26.0
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.1,
+      "draw": 14.5,
+      "away": 32.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.08,
+      "draw": 11.5,
+      "away": 26.0
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.06,
+      "draw": 12.0,
+      "away": 36.0
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.09,
+      "draw": 10.0,
+      "away": 25.0
+    }
+  ],
+  "Belgium|Egypt": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.61,
+      "draw": 4.09,
+      "away": 5.9
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.6,
+      "draw": 4.0,
+      "away": 5.75
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.6,
+      "draw": 4.0,
+      "away": 5.75
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.64,
+      "draw": 4.0,
+      "away": 6.0
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.61,
+      "draw": 3.7,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.62,
+      "draw": 3.75,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.62,
+      "draw": 4.1,
+      "away": 6.1
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.6,
+      "draw": 3.95,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.62,
+      "draw": 4.1,
+      "away": 6.1
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.65,
+      "draw": 4.04,
+      "away": 5.6
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.57,
+      "draw": 3.85,
+      "away": 5.6
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.63,
+      "draw": 3.8,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.6,
+      "draw": 3.85,
+      "away": 5.1
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 1.65,
+      "draw": 3.9,
+      "away": 5.55
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.69,
+      "draw": 3.88,
+      "away": 5.59
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 1.65,
+      "draw": 3.9,
+      "away": 5.55
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.6,
+      "draw": 3.98,
+      "away": 5.75
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.64,
+      "draw": 4.04,
+      "away": 5.94
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.65,
+      "draw": 4.1,
+      "away": 6.2
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.65,
+      "draw": 4.1,
+      "away": 6.2
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.58,
+      "draw": 4.0,
+      "away": 5.75
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.64,
+      "draw": 3.85,
+      "away": 5.6
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.62,
+      "draw": 3.95,
+      "away": 5.2
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.55,
+      "draw": 4.1,
+      "away": 6.0
+    }
+  ],
+  "Saudi Arabia|Uruguay": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 8.2,
+      "draw": 4.52,
+      "away": 1.44
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 9.0,
+      "draw": 4.6,
+      "away": 1.48
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 8.0,
+      "draw": 4.5,
+      "away": 1.4
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 7.7,
+      "draw": 4.55,
+      "away": 1.43
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 8.5,
+      "draw": 4.4,
+      "away": 1.45
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 7.5,
+      "draw": 4.0,
+      "away": 1.4
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 7.5,
+      "draw": 4.2,
+      "away": 1.4
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 9.0,
+      "draw": 4.8,
+      "away": 1.41
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 8.5,
+      "draw": 4.6,
+      "away": 1.4
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 9.0,
+      "draw": 4.8,
+      "away": 1.41
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 8.1,
+      "draw": 4.55,
+      "away": 1.44
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 8.0,
+      "draw": 4.5,
+      "away": 1.38
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 7.3,
+      "draw": 4.4,
+      "away": 1.44
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 6.5,
+      "draw": 4.4,
+      "away": 1.42
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 6.75,
+      "draw": 4.5,
+      "away": 1.44
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 8.3,
+      "draw": 4.2,
+      "away": 1.47
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 7.87,
+      "draw": 4.34,
+      "away": 1.44
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 8.5,
+      "draw": 4.5,
+      "away": 1.4
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 8.3,
+      "draw": 4.2,
+      "away": 1.47
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 7.75,
+      "draw": 4.55,
+      "away": 1.43
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 8.6,
+      "draw": 4.52,
+      "away": 1.45
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 9.0,
+      "draw": 4.6,
+      "away": 1.48
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 8.0,
+      "draw": 4.45,
+      "away": 1.42
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 7.4,
+      "draw": 4.4,
+      "away": 1.45
+    }
+  ],
+  "Iran|New Zealand": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.84,
+      "draw": 3.53,
+      "away": 4.78
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.83,
+      "draw": 3.5,
+      "away": 4.75
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.8,
+      "draw": 3.5,
+      "away": 4.8
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.86,
+      "draw": 3.5,
+      "away": 4.95
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.75,
+      "draw": 3.5,
+      "away": 4.2
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.8,
+      "draw": 3.5,
+      "away": 4.33
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.83,
+      "draw": 3.6,
+      "away": 5.1
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.8,
+      "draw": 3.5,
+      "away": 4.8
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.83,
+      "draw": 3.6,
+      "away": 5.1
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.83,
+      "draw": 3.58,
+      "away": 4.75
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.88,
+      "draw": 3.6,
+      "away": 5.1
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.77,
+      "draw": 3.4,
+      "away": 4.7
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.82,
+      "draw": 3.4,
+      "away": 4.6
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 1.85,
+      "draw": 3.45,
+      "away": 4.8
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.86,
+      "draw": 3.55,
+      "away": 4.55
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 1.85,
+      "draw": 3.45,
+      "away": 4.8
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.8,
+      "draw": 3.5,
+      "away": 4.8
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.87,
+      "draw": 3.52,
+      "away": 4.83
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.88,
+      "draw": 3.6,
+      "away": 5.1
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.81,
+      "draw": 3.45,
+      "away": 4.7
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.83,
+      "draw": 3.45,
+      "away": 4.7
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.8,
+      "draw": 3.5,
+      "away": 4.4
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.78,
+      "draw": 3.4,
+      "away": 4.3
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.77,
+      "draw": 3.5,
+      "away": 4.9
+    }
+  ],
+  "France|Senegal": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.48,
+      "draw": 4.45,
+      "away": 7.3
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.51,
+      "draw": 4.6,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.45,
+      "draw": 4.4,
+      "away": 7.25
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.48,
+      "draw": 4.6,
+      "away": 7.25
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.48,
+      "draw": 4.5,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.44,
+      "draw": 4.0,
+      "away": 6.5
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.44,
+      "draw": 4.2,
+      "away": 6.5
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.48,
+      "draw": 4.5,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.45,
+      "draw": 4.35,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.48,
+      "draw": 4.5,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.47,
+      "draw": 4.48,
+      "away": 7.75
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.48,
+      "draw": 4.2,
+      "away": 7.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.46,
+      "draw": 4.4,
+      "away": 6.9
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.43,
+      "draw": 4.4,
+      "away": 6.25
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 1.49,
+      "draw": 4.3,
+      "away": 7.7
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.47,
+      "draw": 4.34,
+      "away": 7.07
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 1.49,
+      "draw": 4.3,
+      "away": 7.7
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.48,
+      "draw": 4.6,
+      "away": 7.25
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.5,
+      "draw": 4.46,
+      "away": 7.31
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.51,
+      "draw": 4.6,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.45,
+      "draw": 4.4,
+      "away": 7.25
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.47,
+      "draw": 4.4,
+      "away": 7.0
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.45,
+      "draw": 4.5,
+      "away": 6.5
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.45,
+      "draw": 4.5,
+      "away": 7.0
+    }
+  ],
+  "Iraq|Norway": [
+    {
+      "bookmaker": "Coolbet",
+      "home": 16.0,
+      "draw": 6.75,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 13.0,
+      "draw": 7.0,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 14.49,
+      "draw": 7.33,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 13.5,
+      "draw": 7.15,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 16.5,
+      "draw": 7.8,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 15.0,
+      "draw": 7.0,
+      "away": 1.17
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 14.0,
+      "draw": 7.1,
+      "away": 1.19
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 16.0,
+      "draw": 7.0,
+      "away": 1.18
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 18.0,
+      "draw": 7.5,
+      "away": 1.19
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 18.0,
+      "draw": 7.5,
+      "away": 1.19
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 13.25,
+      "draw": 6.6,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 10.5,
+      "draw": 6.5,
+      "away": 1.19
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 19.0,
+      "draw": 5.95,
+      "away": 1.23
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 13.7,
+      "draw": 6.96,
+      "away": 1.25
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 19.0,
+      "draw": 5.95,
+      "away": 1.23
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 14.5,
+      "draw": 7.0,
+      "away": 1.19
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 16.0,
+      "draw": 7.21,
+      "away": 1.21
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 13.0,
+      "draw": 6.0,
+      "away": 1.18
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 13.0,
+      "draw": 6.5,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 16.5,
+      "draw": 7.8,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 14.0,
+      "draw": 7.25,
+      "away": 1.18
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 14.0,
+      "draw": 6.8,
+      "away": 1.21
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 11.0,
+      "draw": 6.75,
+      "away": 1.21
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 15.0,
+      "draw": 7.0,
+      "away": 1.18
+    }
+  ],
+  "Argentina|Algeria": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.41,
+      "draw": 4.57,
+      "away": 9.07
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.42,
+      "draw": 4.9,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.4,
+      "draw": 4.5,
+      "away": 9.0
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.37,
+      "draw": 4.85,
+      "away": 8.8
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.4,
+      "draw": 4.75,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.4,
+      "draw": 4.0,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.4,
+      "draw": 4.2,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.38,
+      "draw": 5.0,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.36,
+      "draw": 4.75,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.38,
+      "draw": 5.0,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.4,
+      "draw": 4.8,
+      "away": 8.75
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.34,
+      "draw": 4.6,
+      "away": 9.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.38,
+      "draw": 4.6,
+      "away": 8.4
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.36,
+      "draw": 4.5,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.38,
+      "draw": 4.7,
+      "away": 7.75
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 1.42,
+      "draw": 4.45,
+      "away": 9.2
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.43,
+      "draw": 4.46,
+      "away": 8.46
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.35,
+      "draw": 4.8,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 1.42,
+      "draw": 4.45,
+      "away": 9.2
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.37,
+      "draw": 4.85,
+      "away": 8.75
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.39,
+      "draw": 4.7,
+      "away": 8.6
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.43,
+      "draw": 4.57,
+      "away": 9.1
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.42,
+      "draw": 4.9,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.38,
+      "draw": 4.5,
+      "away": 9.0
+    }
+  ],
+  "Austria|Jordan": [
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.3,
+      "draw": 5.8,
+      "away": 10.5
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.28,
+      "draw": 5.5,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.3,
+      "draw": 5.8,
+      "away": 10.5
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.3,
+      "draw": 5.6,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.34,
+      "draw": 5.47,
+      "away": 9.07
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.3,
+      "draw": 4.8,
+      "away": 8.5
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.34,
+      "draw": 5.5,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.36,
+      "draw": 6.0,
+      "away": 9.8
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.32,
+      "draw": 5.6,
+      "away": 8.9
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.33,
+      "draw": 5.64,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.33,
+      "draw": 5.0,
+      "away": 8.5
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.33,
+      "draw": 5.25,
+      "away": 9.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.32,
+      "draw": 5.3,
+      "away": 8.4
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.3,
+      "draw": 5.4,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 1.36,
+      "draw": 5.05,
+      "away": 9.9
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.34,
+      "draw": 5.41,
+      "away": 8.81
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 1.36,
+      "draw": 5.05,
+      "away": 9.9
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.31,
+      "draw": 5.6,
+      "away": 9.0
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.35,
+      "draw": 5.48,
+      "away": 9.65
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.36,
+      "draw": 6.0,
+      "away": 9.8
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.32,
+      "draw": 5.4,
+      "away": 9.0
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.33,
+      "draw": 5.4,
+      "away": 8.6
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.32,
+      "draw": 5.6,
+      "away": 7.75
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.3,
+      "draw": 5.7,
+      "away": 9.0
+    }
+  ],
+  "Portugal|DR Congo": [
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.29,
+      "draw": 5.8,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.27,
+      "draw": 5.9,
+      "away": 11.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.28,
+      "draw": 5.6,
+      "away": 11.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.29,
+      "draw": 5.8,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.32,
+      "draw": 6.0,
+      "away": 12.5
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.29,
+      "draw": 5.75,
+      "away": 11.22
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.26,
+      "draw": 5.5,
+      "away": 10.5
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.29,
+      "draw": 5.7,
+      "away": 11.5
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.3,
+      "draw": 5.75,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.28,
+      "draw": 5.75,
+      "away": 11.0
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.25,
+      "draw": 5.0,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.29,
+      "draw": 5.0,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.28,
+      "draw": 5.6,
+      "away": 10.4
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.25,
+      "draw": 5.6,
+      "away": 9.0
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.27,
+      "draw": 5.9,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.26,
+      "draw": 5.7,
+      "away": 10.33
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.25,
+      "draw": 5.8,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.26,
+      "draw": 5.9,
+      "away": 11.25
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.31,
+      "draw": 5.78,
+      "away": 11.1
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.27,
+      "draw": 5.6,
+      "away": 11.0
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.28,
+      "draw": 5.6,
+      "away": 11.0
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.32,
+      "draw": 6.0,
+      "away": 12.5
+    }
+  ],
+  "England|Croatia": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.73,
+      "draw": 3.9,
+      "away": 4.96
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.77,
+      "draw": 3.95,
+      "away": 5.4
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.7,
+      "draw": 3.85,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.7,
+      "draw": 3.8,
+      "away": 4.95
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.75,
+      "draw": 3.75,
+      "away": 5.25
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.7,
+      "draw": 3.6,
+      "away": 4.5
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.73,
+      "draw": 3.6,
+      "away": 4.6
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.75,
+      "draw": 3.85,
+      "away": 5.1
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.73,
+      "draw": 3.75,
+      "away": 4.9
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.75,
+      "draw": 3.85,
+      "away": 5.1
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.74,
+      "draw": 3.86,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.7,
+      "draw": 3.65,
+      "away": 4.75
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.72,
+      "draw": 3.7,
+      "away": 4.8
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.68,
+      "draw": 3.75,
+      "away": 4.4
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.7,
+      "draw": 3.85,
+      "away": 4.5
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 1.75,
+      "draw": 3.65,
+      "away": 5.35
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.71,
+      "draw": 3.88,
+      "away": 4.81
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.67,
+      "draw": 3.9,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 1.75,
+      "draw": 3.65,
+      "away": 5.35
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.7,
+      "draw": 3.83,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.77,
+      "draw": 3.86,
+      "away": 4.97
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.74,
+      "draw": 3.85,
+      "away": 4.85
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.74,
+      "draw": 3.75,
+      "away": 4.8
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.77,
+      "draw": 3.95,
+      "away": 5.4
+    }
+  ],
+  "Ghana|Panama": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.19,
+      "draw": 3.5,
+      "away": 3.43
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 2.28,
+      "draw": 3.5,
+      "away": 3.55
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.15,
+      "draw": 3.45,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 2.2,
+      "draw": 3.4,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 2.05,
+      "draw": 3.25,
+      "away": 3.3
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 2.1,
+      "draw": 3.3,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 2.18,
+      "draw": 3.45,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 2.15,
+      "draw": 3.35,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 2.18,
+      "draw": 3.45,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.16,
+      "draw": 3.52,
+      "away": 3.47
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 2.1,
+      "draw": 3.4,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 2.12,
+      "draw": 3.25,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.15,
+      "draw": 3.32,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 2.05,
+      "draw": 3.4,
+      "away": 3.25
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 2.1,
+      "draw": 3.5,
+      "away": 3.3
+    },
+    {
+      "bookmaker": "Betsson",
+      "home": 2.2,
+      "draw": 3.3,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 2.11,
+      "draw": 3.42,
+      "away": 3.47
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 2.1,
+      "draw": 3.4,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "Nordic Bet",
+      "home": 2.2,
+      "draw": 3.3,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 2.13,
+      "draw": 3.35,
+      "away": 3.43
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 2.17,
+      "draw": 3.35,
+      "away": 3.45
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 2.15,
+      "draw": 3.55,
+      "away": 3.57
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 2.15,
+      "draw": 3.45,
+      "away": 3.35
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 2.28,
+      "draw": 3.5,
+      "away": 3.55
+    }
+  ],
+  "Uzbekistan|Colombia": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 9.18,
+      "draw": 4.74,
+      "away": 1.39
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 10.5,
+      "draw": 4.9,
+      "away": 1.41
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 9.0,
+      "draw": 4.6,
+      "away": 1.36
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 10.0,
+      "draw": 4.75,
+      "away": 1.38
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 6.5,
+      "draw": 4.5,
+      "away": 1.33
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 6.5,
+      "draw": 4.5,
+      "away": 1.33
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 9.5,
+      "draw": 4.8,
+      "away": 1.42
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 8.5,
+      "draw": 4.6,
+      "away": 1.4
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 9.5,
+      "draw": 4.8,
+      "away": 1.42
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 9.75,
+      "draw": 4.85,
+      "away": 1.38
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 8.9,
+      "draw": 4.85,
+      "away": 1.37
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 8.5,
+      "draw": 4.4,
+      "away": 1.38
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 8.4,
+      "draw": 4.6,
+      "away": 1.38
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 7.5,
+      "draw": 4.7,
+      "away": 1.35
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 8.59,
+      "draw": 4.49,
+      "away": 1.42
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 8.5,
+      "draw": 4.7,
+      "away": 1.37
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 8.6,
+      "draw": 4.7,
+      "away": 1.39
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 9.4,
+      "draw": 4.72,
+      "away": 1.41
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 9.0,
+      "draw": 4.7,
+      "away": 1.37
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 7.75,
+      "draw": 4.8,
+      "away": 1.37
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 10.0,
+      "draw": 4.7,
+      "away": 1.35
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 10.5,
+      "draw": 4.9,
+      "away": 1.41
+    }
+  ],
+  "Czech Republic|South Africa": [
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.72,
+      "draw": 3.85,
+      "away": 4.8
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.74,
+      "draw": 4.0,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.77,
+      "draw": 3.85,
+      "away": 4.54
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.74,
+      "draw": 4.0,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.7,
+      "draw": 3.75,
+      "away": 4.7
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.81,
+      "draw": 3.91,
+      "away": 4.6
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.78,
+      "draw": 3.75,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.81,
+      "draw": 3.95,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.78,
+      "draw": 3.86,
+      "away": 4.64
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.77,
+      "draw": 3.8,
+      "away": 4.84
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.75,
+      "draw": 3.8,
+      "away": 4.65
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.66,
+      "draw": 3.5,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.73,
+      "draw": 3.85,
+      "away": 4.75
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.74,
+      "draw": 3.7,
+      "away": 4.65
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.76,
+      "draw": 3.65,
+      "away": 4.6
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.75,
+      "draw": 3.5,
+      "away": 4.2
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.75,
+      "draw": 3.6,
+      "away": 4.33
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.68,
+      "draw": 3.55,
+      "away": 4.1
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.7,
+      "draw": 3.9,
+      "away": 4.8
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.77,
+      "draw": 3.7,
+      "away": 4.6
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.75,
+      "draw": 3.8,
+      "away": 4.55
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.81,
+      "draw": 3.95,
+      "away": 5.0
+    }
+  ],
+  "Switzerland|Bosnia & Herzegovina": [
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.57,
+      "draw": 3.9,
+      "away": 6.1
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.6,
+      "draw": 4.0,
+      "away": 6.4
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.62,
+      "draw": 3.98,
+      "away": 5.52
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.6,
+      "draw": 4.0,
+      "away": 6.4
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.49,
+      "draw": 3.75,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.56,
+      "draw": 3.8,
+      "away": 6.0
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.63,
+      "draw": 4.09,
+      "away": 5.95
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.55,
+      "draw": 4.2,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.55,
+      "draw": 4.15,
+      "away": 6.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.57,
+      "draw": 4.0,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.62,
+      "draw": 4.2,
+      "away": 6.2
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.57,
+      "draw": 4.0,
+      "away": 5.38
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.57,
+      "draw": 4.2,
+      "away": 6.2
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.6,
+      "draw": 4.1,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.56,
+      "draw": 4.05,
+      "away": 5.9
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.57,
+      "draw": 3.75,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.57,
+      "draw": 3.8,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.5,
+      "draw": 3.85,
+      "away": 5.1
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.62,
+      "draw": 4.2,
+      "away": 6.2
+    }
+  ],
+  "Canada|Qatar": [
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.25,
+      "draw": 4.9,
+      "away": 8.5
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.3,
+      "draw": 5.1,
+      "away": 11.5
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.32,
+      "draw": 5.3,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.31,
+      "draw": 5.17,
+      "away": 10.23
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.32,
+      "draw": 5.3,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.24,
+      "draw": 4.7,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.29,
+      "draw": 5.0,
+      "away": 10.5
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.31,
+      "draw": 5.54,
+      "away": 11.9
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.27,
+      "draw": 5.7,
+      "away": 11.0
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.29,
+      "draw": 5.4,
+      "away": 11.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.29,
+      "draw": 5.2,
+      "away": 10.5
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.32,
+      "draw": 5.8,
+      "away": 12.5
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.27,
+      "draw": 5.26,
+      "away": 10.11
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.32,
+      "draw": 5.5,
+      "away": 10.6
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.28,
+      "draw": 5.5,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.27,
+      "draw": 5.5,
+      "away": 11.25
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.29,
+      "draw": 4.8,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.3,
+      "draw": 5.0,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.32,
+      "draw": 5.8,
+      "away": 12.5
+    }
+  ],
+  "Mexico|South Korea": [
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.95,
+      "draw": 3.45,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.97,
+      "draw": 3.55,
+      "away": 4.1
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 2.0,
+      "draw": 3.38,
+      "away": 4.18
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.97,
+      "draw": 3.55,
+      "away": 4.1
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.88,
+      "draw": 3.1,
+      "away": 3.55
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.99,
+      "draw": 3.35,
+      "away": 4.05
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.93,
+      "draw": 3.35,
+      "away": 3.9
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 2.04,
+      "draw": 3.43,
+      "away": 4.1
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.01,
+      "draw": 3.24,
+      "away": 3.95
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 2.08,
+      "draw": 3.3,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 2.1,
+      "draw": 3.4,
+      "away": 4.2
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.04,
+      "draw": 3.36,
+      "away": 4.07
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.0,
+      "draw": 3.35,
+      "away": 4.23
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.0,
+      "draw": 3.3,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.97,
+      "draw": 3.3,
+      "away": 4.05
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.95,
+      "draw": 3.1,
+      "away": 3.8
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.95,
+      "draw": 3.2,
+      "away": 3.8
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.92,
+      "draw": 3.15,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.97,
+      "draw": 3.3,
+      "away": 4.1
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 2.02,
+      "draw": 3.25,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 2.0,
+      "draw": 3.35,
+      "away": 4.23
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 2.1,
+      "draw": 3.4,
+      "away": 4.2
+    }
+  ],
+  "USA|Australia": [
+    {
+      "bookmaker": "Betfair",
+      "home": 1.77,
+      "draw": 4.0,
+      "away": 4.8
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.66,
+      "draw": 3.55,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.68,
+      "draw": 3.65,
+      "away": 4.0
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.75,
+      "draw": 3.74,
+      "away": 4.45
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.7,
+      "draw": 4.0,
+      "away": 4.6
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.76,
+      "draw": 3.94,
+      "away": 4.86
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.79,
+      "draw": 3.7,
+      "away": 4.5
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.81,
+      "draw": 3.8,
+      "away": 4.7
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.81,
+      "draw": 3.8,
+      "away": 4.7
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.73,
+      "draw": 3.9,
+      "away": 4.65
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.76,
+      "draw": 3.6,
+      "away": 4.4
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.75,
+      "draw": 3.85,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.7,
+      "draw": 3.95,
+      "away": 4.31
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.77,
+      "draw": 3.85,
+      "away": 4.77
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.73,
+      "draw": 4.1,
+      "away": 4.4
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.74,
+      "draw": 3.8,
+      "away": 4.5
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.75,
+      "draw": 3.75,
+      "away": 4.5
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.7,
+      "draw": 3.6,
+      "away": 4.5
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.73,
+      "draw": 3.6,
+      "away": 4.6
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.76,
+      "draw": 3.8,
+      "away": 4.5
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.72,
+      "draw": 4.05,
+      "away": 4.45
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 1.78,
+      "draw": 4.0,
+      "away": 4.8
+    }
+  ],
+  "Scotland|Morocco": [
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 3.65,
+      "draw": 3.15,
+      "away": 1.9
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 4.5,
+      "draw": 3.45,
+      "away": 1.93
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 3.92,
+      "draw": 3.23,
+      "away": 2.07
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 3.55,
+      "draw": 3.1,
+      "away": 1.86
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 4.5,
+      "draw": 3.45,
+      "away": 1.93
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 4.14,
+      "draw": 3.29,
+      "away": 2.08
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 4.2,
+      "draw": 3.3,
+      "away": 1.95
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 4.05,
+      "draw": 3.3,
+      "away": 1.96
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 4.25,
+      "draw": 3.25,
+      "away": 1.88
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 4.35,
+      "draw": 3.35,
+      "away": 1.91
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 4.0,
+      "draw": 3.26,
+      "away": 1.99
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 4.4,
+      "draw": 3.45,
+      "away": 1.99
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 4.05,
+      "draw": 3.18,
+      "away": 1.97
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 4.2,
+      "draw": 3.4,
+      "away": 2.0
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 4.25,
+      "draw": 3.41,
+      "away": 1.97
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 4.2,
+      "draw": 3.25,
+      "away": 2.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 4.0,
+      "draw": 3.28,
+      "away": 1.97
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 3.9,
+      "draw": 3.0,
+      "away": 1.95
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 4.0,
+      "draw": 3.1,
+      "away": 2.0
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 4.0,
+      "draw": 3.3,
+      "away": 2.01
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 4.1,
+      "draw": 3.2,
+      "away": 1.99
+    },
+    {
+      "bookmaker": "Matchbook",
+      "home": 4.4,
+      "draw": 3.5,
+      "away": 2.0
+    }
+  ],
+  "Brazil|Haiti": [
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.05,
+      "draw": 12.5,
+      "away": 30.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.08,
+      "draw": 15.0,
+      "away": 35.0
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.07,
+      "draw": 13.0,
+      "away": 22.0
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.08,
+      "draw": 15.0,
+      "away": 35.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.07,
+      "draw": 13.0,
+      "away": 34.0
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.07,
+      "draw": 15.0,
+      "away": 40.0
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.1,
+      "draw": 11.0,
+      "away": 30.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.09,
+      "draw": 15.0,
+      "away": 30.0
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.08,
+      "draw": 13.85,
+      "away": 29.0
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.04,
+      "draw": 9.5,
+      "away": 18.0
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.04,
+      "draw": 9.0,
+      "away": 17.0
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.06,
+      "draw": 12.0,
+      "away": 30.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.07,
+      "draw": 12.0,
+      "away": 34.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.07,
+      "draw": 11.5,
+      "away": 29.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.07,
+      "draw": 11.0,
+      "away": 28.0
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.06,
+      "draw": 12.0,
+      "away": 29.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.07,
+      "draw": 12.0,
+      "away": 29.0
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.08,
+      "draw": 12.0,
+      "away": 30.0
+    }
+  ],
+  "Turkey|Paraguay": [
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 2.28,
+      "draw": 3.3,
+      "away": 3.55
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 2.28,
+      "draw": 3.3,
+      "away": 3.55
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 2.24,
+      "draw": 3.19,
+      "away": 3.44
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 2.05,
+      "draw": 3.0,
+      "away": 3.1
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 2.23,
+      "draw": 3.2,
+      "away": 3.45
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 2.3,
+      "draw": 3.29,
+      "away": 3.48
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 2.2,
+      "draw": 3.2,
+      "away": 3.45
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 2.25,
+      "draw": 3.3,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 2.26,
+      "draw": 3.25,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.17,
+      "draw": 3.14,
+      "away": 3.47
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.22,
+      "draw": 3.3,
+      "away": 3.55
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.2,
+      "draw": 3.2,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 2.2,
+      "draw": 3.2,
+      "away": 3.43
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.22,
+      "draw": 3.18,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 2.2,
+      "draw": 3.0,
+      "away": 3.25
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 2.2,
+      "draw": 3.1,
+      "away": 3.3
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 2.1,
+      "draw": 3.1,
+      "away": 3.15
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 2.15,
+      "draw": 3.2,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 2.23,
+      "draw": 3.2,
+      "away": 3.45
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 2.2,
+      "draw": 3.15,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 2.2,
+      "draw": 3.15,
+      "away": 3.35
+    }
+  ],
+  "Netherlands|Sweden": [
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.62,
+      "draw": 3.85,
+      "away": 5.1
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.68,
+      "draw": 4.1,
+      "away": 5.6
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.68,
+      "draw": 4.1,
+      "away": 5.6
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.59,
+      "draw": 4.1,
+      "away": 5.4
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.64,
+      "draw": 3.91,
+      "away": 5.16
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.52,
+      "draw": 3.8,
+      "away": 4.6
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.65,
+      "draw": 3.95,
+      "away": 5.3
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.66,
+      "draw": 4.13,
+      "away": 5.48
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.61,
+      "draw": 4.0,
+      "away": 5.3
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.68,
+      "draw": 4.0,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.68,
+      "draw": 4.1,
+      "away": 5.4
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.61,
+      "draw": 4.02,
+      "away": 4.95
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.65,
+      "draw": 4.1,
+      "away": 5.35
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.62,
+      "draw": 4.1,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.59,
+      "draw": 4.05,
+      "away": 5.4
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.61,
+      "draw": 3.75,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.62,
+      "draw": 3.8,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.54,
+      "draw": 3.9,
+      "away": 4.8
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.57,
+      "draw": 4.2,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.62,
+      "draw": 4.15,
+      "away": 5.15
+    }
+  ],
+  "Germany|Ivory Coast": [
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.5,
+      "draw": 4.1,
+      "away": 6.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.55,
+      "draw": 4.35,
+      "away": 6.5
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.55,
+      "draw": 4.35,
+      "away": 6.5
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.54,
+      "draw": 4.25,
+      "away": 5.7
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.54,
+      "draw": 4.3,
+      "away": 5.56
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.53,
+      "draw": 4.25,
+      "away": 6.25
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.48,
+      "draw": 3.95,
+      "away": 4.9
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.59,
+      "draw": 4.38,
+      "away": 5.95
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.55,
+      "draw": 4.2,
+      "away": 5.6
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.54,
+      "draw": 4.3,
+      "away": 5.95
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.57,
+      "draw": 4.8,
+      "away": 5.6
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.52,
+      "draw": 4.31,
+      "away": 5.41
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.56,
+      "draw": 4.45,
+      "away": 6.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.55,
+      "draw": 4.4,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.54,
+      "draw": 4.25,
+      "away": 5.6
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.53,
+      "draw": 4.0,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.55,
+      "draw": 4.0,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.49,
+      "draw": 4.0,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.52,
+      "draw": 4.6,
+      "away": 5.7
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.56,
+      "draw": 4.3,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.53,
+      "draw": 4.45,
+      "away": 5.6
+    }
+  ],
+  "Ecuador|Curaçao": [
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.15,
+      "draw": 6.5,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.2,
+      "draw": 6.25,
+      "away": 14.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.22,
+      "draw": 6.75,
+      "away": 17.0
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.22,
+      "draw": 6.75,
+      "away": 17.0
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.18,
+      "draw": 6.9,
+      "away": 15.0
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.2,
+      "draw": 6.81,
+      "away": 14.9
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.14,
+      "draw": 6.25,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.21,
+      "draw": 6.4,
+      "away": 15.0
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.17,
+      "draw": 7.8,
+      "away": 14.0
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.17,
+      "draw": 8.0,
+      "away": 20.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.18,
+      "draw": 6.3,
+      "away": 13.5
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.21,
+      "draw": 6.75,
+      "away": 18.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.22,
+      "draw": 7.8,
+      "away": 14.5
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.18,
+      "draw": 7.23,
+      "away": 11.88
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.21,
+      "draw": 7.05,
+      "away": 15.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.18,
+      "draw": 7.5,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.19,
+      "draw": 6.75,
+      "away": 14.5
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.17,
+      "draw": 6.5,
+      "away": 15.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.18,
+      "draw": 6.5,
+      "away": 15.0
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.2,
+      "draw": 6.8,
+      "away": 15.0
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.17,
+      "draw": 7.75,
+      "away": 14.0
+    }
+  ],
+  "Tunisia|Japan": [
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 5.2,
+      "draw": 3.55,
+      "away": 1.67
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 5.6,
+      "draw": 3.8,
+      "away": 1.73
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 5.6,
+      "draw": 3.8,
+      "away": 1.73
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 5.4,
+      "draw": 3.6,
+      "away": 1.67
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 5.28,
+      "draw": 3.56,
+      "away": 1.78
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 4.6,
+      "draw": 3.4,
+      "away": 1.6
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 5.3,
+      "draw": 3.65,
+      "away": 1.7
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 5.53,
+      "draw": 3.63,
+      "away": 1.75
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 5.2,
+      "draw": 3.48,
+      "away": 1.67
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 5.5,
+      "draw": 3.6,
+      "away": 1.75
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 5.9,
+      "draw": 3.75,
+      "away": 1.69
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 5.26,
+      "draw": 3.57,
+      "away": 1.66
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 5.75,
+      "draw": 3.6,
+      "away": 1.71
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 5.5,
+      "draw": 3.65,
+      "away": 1.7
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 5.4,
+      "draw": 3.6,
+      "away": 1.68
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 5.0,
+      "draw": 3.3,
+      "away": 1.7
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 5.0,
+      "draw": 3.4,
+      "away": 1.7
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 4.7,
+      "draw": 3.45,
+      "away": 1.62
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 5.8,
+      "draw": 3.6,
+      "away": 1.65
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 5.4,
+      "draw": 3.6,
+      "away": 1.71
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 5.45,
+      "draw": 3.65,
+      "away": 1.68
+    }
+  ],
+  "Spain|Saudi Arabia": [
+    {
+      "bookmaker": "1xBet",
+      "home": 1.09,
+      "draw": 12.7,
+      "away": 34.0
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.1,
+      "draw": 9.0,
+      "away": 23.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.12,
+      "draw": 10.0,
+      "away": 30.0
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.12,
+      "draw": 10.0,
+      "away": 30.0
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.09,
+      "draw": 9.5,
+      "away": 26.0
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.1,
+      "draw": 10.0,
+      "away": 20.0
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.06,
+      "draw": 7.75,
+      "away": 15.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.11,
+      "draw": 9.5,
+      "away": 26.0
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.13,
+      "draw": 8.73,
+      "away": 21.13
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.07,
+      "draw": 8.0,
+      "away": 16.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.09,
+      "draw": 8.4,
+      "away": 22.0
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.13,
+      "draw": 9.5,
+      "away": 25.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.12,
+      "draw": 12.0,
+      "away": 19.0
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.09,
+      "draw": 10.34,
+      "away": 21.97
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.11,
+      "draw": 10.1,
+      "away": 26.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.08,
+      "draw": 11.0,
+      "away": 23.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.1,
+      "draw": 9.25,
+      "away": 25.0
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.08,
+      "draw": 10.0,
+      "away": 23.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.08,
+      "draw": 10.0,
+      "away": 23.0
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.1,
+      "draw": 9.4,
+      "away": 26.0
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.07,
+      "draw": 11.0,
+      "away": 31.0
+    }
+  ],
+  "Belgium|Iran": [
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.38,
+      "draw": 4.58,
+      "away": 7.6
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.37,
+      "draw": 5.0,
+      "away": 7.8
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.39,
+      "draw": 4.7,
+      "away": 7.8
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.39,
+      "draw": 4.5,
+      "away": 7.4
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.43,
+      "draw": 4.5,
+      "away": 8.75
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.34,
+      "draw": 4.3,
+      "away": 6.25
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.44,
+      "draw": 4.75,
+      "away": 8.1
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.36,
+      "draw": 4.4,
+      "away": 6.5
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.42,
+      "draw": 4.6,
+      "away": 7.49
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.4,
+      "draw": 4.65,
+      "away": 7.75
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.4,
+      "draw": 4.75,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.43,
+      "draw": 5.0,
+      "away": 7.6
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.41,
+      "draw": 4.9,
+      "away": 9.0
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.41,
+      "draw": 4.9,
+      "away": 9.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.4,
+      "draw": 4.7,
+      "away": 8.5
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.4,
+      "draw": 4.77,
+      "away": 9.0
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.4,
+      "draw": 4.33,
+      "away": 7.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.4,
+      "draw": 4.4,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.41,
+      "draw": 4.7,
+      "away": 7.8
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.38,
+      "draw": 4.8,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.38,
+      "draw": 4.6,
+      "away": 8.0
+    }
+  ],
+  "Uruguay|Cape Verde": [
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.43,
+      "draw": 4.2,
+      "away": 7.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.47,
+      "draw": 4.5,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.43,
+      "draw": 4.5,
+      "away": 7.2
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.47,
+      "draw": 4.5,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.4,
+      "draw": 4.7,
+      "away": 7.8
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.45,
+      "draw": 4.35,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.38,
+      "draw": 4.1,
+      "away": 5.9
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.47,
+      "draw": 4.44,
+      "away": 7.37
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.39,
+      "draw": 4.2,
+      "away": 6.0
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.48,
+      "draw": 4.53,
+      "away": 7.6
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.43,
+      "draw": 4.3,
+      "away": 6.8
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.45,
+      "draw": 4.5,
+      "away": 8.25
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.44,
+      "draw": 4.8,
+      "away": 8.4
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.4,
+      "draw": 4.43,
+      "away": 7.32
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.44,
+      "draw": 4.65,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.4,
+      "draw": 4.6,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.44,
+      "draw": 4.0,
+      "away": 6.5
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.44,
+      "draw": 4.2,
+      "away": 7.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.44,
+      "draw": 4.45,
+      "away": 7.0
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.45,
+      "draw": 4.5,
+      "away": 7.2
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.41,
+      "draw": 4.6,
+      "away": 7.75
+    }
+  ],
+  "New Zealand|Egypt": [
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 5.0,
+      "draw": 3.5,
+      "away": 1.7
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 5.4,
+      "draw": 3.7,
+      "away": 1.75
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 5.4,
+      "draw": 3.7,
+      "away": 1.75
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 5.2,
+      "draw": 3.6,
+      "away": 1.72
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 4.86,
+      "draw": 3.7,
+      "away": 1.72
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 5.01,
+      "draw": 3.74,
+      "away": 1.79
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 4.7,
+      "draw": 3.6,
+      "away": 1.69
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 5.0,
+      "draw": 3.75,
+      "away": 1.78
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 4.9,
+      "draw": 3.75,
+      "away": 1.79
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 4.33,
+      "draw": 3.81,
+      "away": 1.73
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 4.8,
+      "draw": 3.82,
+      "away": 1.77
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 4.5,
+      "draw": 3.9,
+      "away": 1.75
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 4.85,
+      "draw": 3.73,
+      "away": 1.71
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 4.5,
+      "draw": 3.5,
+      "away": 1.73
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 4.6,
+      "draw": 3.5,
+      "away": 1.75
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 4.4,
+      "draw": 3.55,
+      "away": 1.64
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 4.3,
+      "draw": 3.45,
+      "away": 1.62
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 4.95,
+      "draw": 3.7,
+      "away": 1.7
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 4.9,
+      "draw": 3.8,
+      "away": 1.7
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 4.9,
+      "draw": 3.7,
+      "away": 1.73
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 4.45,
+      "draw": 3.9,
+      "away": 1.75
+    }
+  ],
+  "Argentina|Austria": [
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.6,
+      "draw": 3.85,
+      "away": 5.4
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.64,
+      "draw": 4.0,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.61,
+      "draw": 3.9,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.64,
+      "draw": 4.0,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.62,
+      "draw": 3.9,
+      "away": 5.6
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.54,
+      "draw": 3.65,
+      "away": 4.7
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.7,
+      "draw": 3.86,
+      "away": 5.41
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.69,
+      "draw": 3.88,
+      "away": 5.69
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.6,
+      "draw": 3.75,
+      "away": 5.3
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.68,
+      "draw": 4.0,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.61,
+      "draw": 4.0,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.6,
+      "draw": 3.72,
+      "away": 5.54
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.62,
+      "draw": 4.07,
+      "away": 5.75
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.62,
+      "draw": 3.85,
+      "away": 5.75
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.65,
+      "draw": 3.5,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.67,
+      "draw": 3.6,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.61,
+      "draw": 3.88,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.56,
+      "draw": 3.7,
+      "away": 4.8
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.6,
+      "draw": 3.9,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.64,
+      "draw": 3.9,
+      "away": 5.6
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.62,
+      "draw": 3.8,
+      "away": 5.75
+    }
+  ],
+  "France|Iraq": [
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.11,
+      "draw": 8.5,
+      "away": 21.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.14,
+      "draw": 10.0,
+      "away": 23.0
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.1,
+      "draw": 9.0,
+      "away": 25.0
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.14,
+      "draw": 10.0,
+      "away": 23.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.12,
+      "draw": 9.0,
+      "away": 23.0
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.07,
+      "draw": 7.25,
+      "away": 15.0
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.13,
+      "draw": 8.47,
+      "away": 21.78
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.14,
+      "draw": 8.45,
+      "away": 30.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.1,
+      "draw": 8.0,
+      "away": 22.0
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.13,
+      "draw": 9.0,
+      "away": 30.0
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.11,
+      "draw": 8.17,
+      "away": 24.44
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.12,
+      "draw": 9.45,
+      "away": 28.5
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.12,
+      "draw": 8.5,
+      "away": 26.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.13,
+      "draw": 10.5,
+      "away": 27.0
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.12,
+      "draw": 7.5,
+      "away": 23.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.12,
+      "draw": 7.5,
+      "away": 26.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.11,
+      "draw": 8.75,
+      "away": 24.0
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.08,
+      "draw": 7.75,
+      "away": 16.0
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.09,
+      "draw": 10.5,
+      "away": 23.0
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.12,
+      "draw": 9.0,
+      "away": 24.0
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.09,
+      "draw": 8.75,
+      "away": 36.0
+    }
+  ],
+  "Norway|Senegal": [
+    {
+      "bookmaker": "1xBet",
+      "home": 2.19,
+      "draw": 3.55,
+      "away": 3.46
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 2.18,
+      "draw": 3.55,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 2.12,
+      "draw": 3.35,
+      "away": 3.3
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 2.18,
+      "draw": 3.55,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 2.15,
+      "draw": 3.45,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 2.0,
+      "draw": 3.25,
+      "away": 3.05
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 2.04,
+      "draw": 3.46,
+      "away": 3.51
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 2.1,
+      "draw": 3.45,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.1,
+      "draw": 3.34,
+      "away": 3.3
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 2.17,
+      "draw": 3.6,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 2.24,
+      "draw": 3.55,
+      "away": 3.45
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.09,
+      "draw": 3.51,
+      "away": 3.28
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.22,
+      "draw": 3.55,
+      "away": 3.3
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.1,
+      "draw": 3.6,
+      "away": 3.35
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 2.1,
+      "draw": 3.25,
+      "away": 3.25
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 2.1,
+      "draw": 3.3,
+      "away": 3.3
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 2.07,
+      "draw": 3.38,
+      "away": 3.33
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 2.0,
+      "draw": 3.3,
+      "away": 3.1
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 2.1,
+      "draw": 3.5,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 2.15,
+      "draw": 3.45,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 2.11,
+      "draw": 3.55,
+      "away": 3.3
+    }
+  ],
+  "Jordan|Algeria": [
+    {
+      "bookmaker": "1xBet",
+      "home": 6.79,
+      "draw": 4.23,
+      "away": 1.56
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 6.5,
+      "draw": 4.25,
+      "away": 1.56
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 6.0,
+      "draw": 4.0,
+      "away": 1.51
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 6.5,
+      "draw": 4.25,
+      "away": 1.56
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 6.7,
+      "draw": 4.4,
+      "away": 1.47
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 6.25,
+      "draw": 4.1,
+      "away": 1.54
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 5.5,
+      "draw": 3.9,
+      "away": 1.43
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 6.47,
+      "draw": 4.15,
+      "away": 1.56
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 5.6,
+      "draw": 4.0,
+      "away": 1.45
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 6.6,
+      "draw": 4.25,
+      "away": 1.49
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 6.2,
+      "draw": 4.0,
+      "away": 1.49
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 6.75,
+      "draw": 4.2,
+      "away": 1.55
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 6.8,
+      "draw": 4.6,
+      "away": 1.51
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 6.2,
+      "draw": 4.17,
+      "away": 1.48
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 6.55,
+      "draw": 4.4,
+      "away": 1.53
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 6.5,
+      "draw": 4.33,
+      "away": 1.5
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 6.0,
+      "draw": 3.8,
+      "away": 1.5
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 6.0,
+      "draw": 3.9,
+      "away": 1.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 6.4,
+      "draw": 4.1,
+      "away": 1.47
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 6.6,
+      "draw": 4.2,
+      "away": 1.51
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 6.5,
+      "draw": 4.3,
+      "away": 1.5
+    }
+  ],
+  "Portugal|Uzbekistan": [
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.21,
+      "draw": 5.8,
+      "away": 8.5
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.23,
+      "draw": 6.87,
+      "away": 14.7
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.24,
+      "draw": 5.75,
+      "away": 10.5
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.27,
+      "draw": 6.25,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.22,
+      "draw": 7.0,
+      "away": 10.5
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.27,
+      "draw": 6.25,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.26,
+      "draw": 6.0,
+      "away": 11.5
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.19,
+      "draw": 5.5,
+      "away": 8.5
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.25,
+      "draw": 6.17,
+      "away": 10.25
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.24,
+      "draw": 6.3,
+      "away": 11.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.24,
+      "draw": 5.9,
+      "away": 9.9
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.27,
+      "draw": 6.25,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.26,
+      "draw": 7.0,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.21,
+      "draw": 6.36,
+      "away": 10.89
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.24,
+      "draw": 6.95,
+      "away": 12.5
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.22,
+      "draw": 6.75,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.2,
+      "draw": 6.0,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.22,
+      "draw": 6.0,
+      "away": 12.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.23,
+      "draw": 6.0,
+      "away": 10.25
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.25,
+      "draw": 6.2,
+      "away": 11.0
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.21,
+      "draw": 6.75,
+      "away": 12.0
+    }
+  ],
+  "England|Ghana": [
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.28,
+      "draw": 5.0,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.33,
+      "draw": 4.8,
+      "away": 9.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.36,
+      "draw": 5.1,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.28,
+      "draw": 6.0,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.36,
+      "draw": 5.1,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.31,
+      "draw": 5.3,
+      "away": 9.0
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.26,
+      "draw": 4.8,
+      "away": 7.25
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.35,
+      "draw": 5.0,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.32,
+      "draw": 5.21,
+      "away": 9.7
+    },
+    {
+      "bookmaker": "1xBet",
+      "home": 1.31,
+      "draw": 5.7,
+      "away": 11.6
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.3,
+      "draw": 5.0,
+      "away": 8.6
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.34,
+      "draw": 5.25,
+      "away": 11.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.32,
+      "draw": 6.0,
+      "away": 9.2
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.3,
+      "draw": 5.25,
+      "away": 8.71
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.32,
+      "draw": 5.67,
+      "away": 9.75
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.3,
+      "draw": 5.5,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.29,
+      "draw": 5.0,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.3,
+      "draw": 5.0,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.3,
+      "draw": 5.1,
+      "away": 8.75
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.33,
+      "draw": 5.4,
+      "away": 9.2
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.3,
+      "draw": 5.5,
+      "away": 9.5
+    }
+  ],
+  "Panama|Croatia": [
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 5.5,
+      "draw": 3.85,
+      "away": 1.49
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 6.25,
+      "draw": 3.75,
+      "away": 1.55
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 6.75,
+      "draw": 4.0,
+      "away": 1.57
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 6.8,
+      "draw": 4.0,
+      "away": 1.52
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 6.75,
+      "draw": 4.0,
+      "away": 1.57
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 6.3,
+      "draw": 4.05,
+      "away": 1.53
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 5.3,
+      "draw": 3.75,
+      "away": 1.47
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 6.4,
+      "draw": 3.85,
+      "away": 1.56
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 6.29,
+      "draw": 3.98,
+      "away": 1.52
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 6.2,
+      "draw": 4.0,
+      "away": 1.56
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 6.0,
+      "draw": 3.85,
+      "away": 1.53
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 7.0,
+      "draw": 4.2,
+      "away": 1.55
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 6.8,
+      "draw": 4.1,
+      "away": 1.57
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 6.29,
+      "draw": 3.68,
+      "away": 1.55
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 7.2,
+      "draw": 3.98,
+      "away": 1.55
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 6.5,
+      "draw": 3.75,
+      "away": 1.57
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 6.5,
+      "draw": 3.6,
+      "away": 1.53
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 6.5,
+      "draw": 3.6,
+      "away": 1.55
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 6.1,
+      "draw": 3.93,
+      "away": 1.51
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 6.5,
+      "draw": 3.8,
+      "away": 1.57
+    }
+  ],
+  "Colombia|DR Congo": [
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.53,
+      "draw": 4.2,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.45,
+      "draw": 4.25,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.39,
+      "draw": 3.9,
+      "away": 6.25
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.49,
+      "draw": 3.95,
+      "away": 7.0
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.5,
+      "draw": 4.1,
+      "away": 7.32
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.53,
+      "draw": 4.2,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.5,
+      "draw": 4.0,
+      "away": 7.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.43,
+      "draw": 4.1,
+      "away": 7.25
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.44,
+      "draw": 4.1,
+      "away": 7.1
+    },
+    {
+      "bookmaker": "Coolbet",
+      "home": 1.5,
+      "draw": 4.2,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.5,
+      "draw": 4.5,
+      "away": 8.2
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.43,
+      "draw": 4.24,
+      "away": 7.23
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.47,
+      "draw": 4.42,
+      "away": 7.93
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.45,
+      "draw": 4.4,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.44,
+      "draw": 3.8,
+      "away": 7.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.44,
+      "draw": 3.9,
+      "away": 7.0
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.41,
+      "draw": 4.0,
+      "away": 6.25
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.42,
+      "draw": 4.5,
+      "away": 7.8
+    },
+    {
+      "bookmaker": "Codere (IT)",
+      "home": 1.47,
+      "draw": 4.2,
+      "away": 7.4
+    },
+    {
+      "bookmaker": "BetAnything",
+      "home": 1.43,
+      "draw": 4.4,
+      "away": 7.75
+    }
+  ],
+  "Bosnia & Herzegovina|Qatar": [
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.6,
+      "draw": 3.85,
+      "away": 5.7
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.57,
+      "draw": 3.7,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.49,
+      "draw": 3.35,
+      "away": 4.6
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.64,
+      "draw": 3.91,
+      "away": 5.68
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.64,
+      "draw": 3.7,
+      "away": 5.7
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.62,
+      "draw": 3.61,
+      "away": 5.59
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.65,
+      "draw": 3.85,
+      "away": 6.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.6,
+      "draw": 3.85,
+      "away": 6.1
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.63,
+      "draw": 4.0,
+      "away": 6.5
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.63,
+      "draw": 4.0,
+      "away": 6.5
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.57,
+      "draw": 3.75,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.6,
+      "draw": 3.7,
+      "away": 5.4
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.61,
+      "draw": 3.5,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.62,
+      "draw": 3.6,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.65,
+      "draw": 3.65,
+      "away": 5.75
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.58,
+      "draw": 3.75,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.52,
+      "draw": 3.55,
+      "away": 4.8
+    }
+  ],
+  "Switzerland|Canada": [
+    {
+      "bookmaker": "Tipico",
+      "home": 1.97,
+      "draw": 3.3,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.96,
+      "draw": 3.1,
+      "away": 3.15
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.9,
+      "draw": 3.0,
+      "away": 3.05
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 2.1,
+      "draw": 3.35,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 2.1,
+      "draw": 3.47,
+      "away": 3.64
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 2.14,
+      "draw": 3.35,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.07,
+      "draw": 3.36,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.2,
+      "draw": 3.4,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 2.14,
+      "draw": 3.3,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 2.2,
+      "draw": 3.45,
+      "away": 3.65
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 2.2,
+      "draw": 3.45,
+      "away": 3.65
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 2.1,
+      "draw": 3.25,
+      "away": 3.45
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.08,
+      "draw": 3.22,
+      "away": 3.46
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 2.1,
+      "draw": 3.1,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 2.1,
+      "draw": 3.2,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.15,
+      "draw": 3.4,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 2.05,
+      "draw": 3.27,
+      "away": 3.5
+    }
+  ],
+  "Scotland|Brazil": [
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 7.0,
+      "draw": 4.2,
+      "away": 1.44
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 8.0,
+      "draw": 4.5,
+      "away": 1.49
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 6.2,
+      "draw": 4.5,
+      "away": 1.42
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 8.0,
+      "draw": 4.5,
+      "away": 1.49
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 7.5,
+      "draw": 4.35,
+      "away": 1.45
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 7.0,
+      "draw": 4.42,
+      "away": 1.48
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 6.4,
+      "draw": 4.6,
+      "away": 1.48
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 5.69,
+      "draw": 4.93,
+      "away": 1.43
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 6.15,
+      "draw": 4.75,
+      "away": 1.51
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 6.0,
+      "draw": 5.0,
+      "away": 1.45
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 5.4,
+      "draw": 4.0,
+      "away": 1.33
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 5.7,
+      "draw": 4.2,
+      "away": 1.36
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 6.7,
+      "draw": 4.5,
+      "away": 1.42
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 6.0,
+      "draw": 4.33,
+      "away": 1.44
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 6.0,
+      "draw": 4.4,
+      "away": 1.44
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 7.0,
+      "draw": 4.7,
+      "away": 1.42
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 6.75,
+      "draw": 4.55,
+      "away": 1.4
+    }
+  ],
+  "Morocco|Haiti": [
+    {
+      "bookmaker": "Tipico",
+      "home": 1.32,
+      "draw": 4.9,
+      "away": 7.8
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 1.34,
+      "draw": 5.1,
+      "away": 8.5
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.26,
+      "draw": 4.2,
+      "away": 6.25
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.29,
+      "draw": 4.5,
+      "away": 6.75
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.36,
+      "draw": 5.08,
+      "away": 8.59
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 1.34,
+      "draw": 5.2,
+      "away": 9.2
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.34,
+      "draw": 4.83,
+      "away": 8.04
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.32,
+      "draw": 5.35,
+      "away": 11.25
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.32,
+      "draw": 4.9,
+      "away": 9.0
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.35,
+      "draw": 5.3,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.35,
+      "draw": 5.3,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.34,
+      "draw": 5.1,
+      "away": 9.5
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.34,
+      "draw": 4.8,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.3,
+      "draw": 4.75,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.3,
+      "draw": 4.8,
+      "away": 10.0
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.36,
+      "draw": 5.0,
+      "away": 8.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.32,
+      "draw": 4.95,
+      "away": 8.25
+    }
+  ],
+  "Czech Republic|Mexico": [
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 3.65,
+      "draw": 3.15,
+      "away": 1.68
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 4.57,
+      "draw": 3.56,
+      "away": 1.85
+    },
+    {
+      "bookmaker": "Betfair",
+      "home": 4.7,
+      "draw": 3.5,
+      "away": 1.82
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 4.5,
+      "draw": 3.51,
+      "away": 1.78
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 4.55,
+      "draw": 3.55,
+      "away": 1.88
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 4.75,
+      "draw": 3.5,
+      "away": 1.79
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 5.0,
+      "draw": 3.65,
+      "away": 1.83
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 5.0,
+      "draw": 3.65,
+      "away": 1.83
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 4.6,
+      "draw": 3.45,
+      "away": 1.77
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 4.2,
+      "draw": 3.34,
+      "away": 1.85
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 4.2,
+      "draw": 3.3,
+      "away": 1.8
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 4.2,
+      "draw": 3.4,
+      "away": 1.83
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 4.6,
+      "draw": 3.5,
+      "away": 1.83
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 4.3,
+      "draw": 3.45,
+      "away": 1.79
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 3.85,
+      "draw": 3.25,
+      "away": 1.72
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 4.5,
+      "draw": 3.4,
+      "away": 1.75
+    }
+  ],
+  "South Africa|South Korea": [
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 4.5,
+      "draw": 3.45,
+      "away": 1.48
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 5.56,
+      "draw": 3.99,
+      "away": 1.63
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 5.62,
+      "draw": 3.88,
+      "away": 1.57
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 5.85,
+      "draw": 3.97,
+      "away": 1.63
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 5.75,
+      "draw": 3.9,
+      "away": 1.62
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 6.0,
+      "draw": 4.0,
+      "away": 1.64
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 6.0,
+      "draw": 4.0,
+      "away": 1.64
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 5.5,
+      "draw": 3.8,
+      "away": 1.6
+    },
+    {
+      "bookmaker": "Unibet (FR)",
+      "home": 5.7,
+      "draw": 3.95,
+      "away": 1.58
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 5.4,
+      "draw": 3.8,
+      "away": 1.58
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 5.0,
+      "draw": 3.6,
+      "away": 1.6
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 5.0,
+      "draw": 3.75,
+      "away": 1.62
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 5.75,
+      "draw": 4.0,
+      "away": 1.6
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 5.5,
+      "draw": 3.85,
+      "away": 1.56
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 4.8,
+      "draw": 3.65,
+      "away": 1.5
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 5.8,
+      "draw": 3.7,
+      "away": 1.55
+    }
+  ],
+  "Curaçao|Ivory Coast": [
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 8.5,
+      "draw": 5.0,
+      "away": 1.15
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 14.67,
+      "draw": 6.38,
+      "away": 1.24
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 11.65,
+      "draw": 6.54,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 13.0,
+      "draw": 5.9,
+      "away": 1.27
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 13.0,
+      "draw": 6.1,
+      "away": 1.23
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 15.0,
+      "draw": 6.4,
+      "away": 1.25
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 15.0,
+      "draw": 6.4,
+      "away": 1.25
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 12.0,
+      "draw": 5.9,
+      "away": 1.21
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 15.0,
+      "draw": 6.0,
+      "away": 1.18
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 15.0,
+      "draw": 6.0,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 12.0,
+      "draw": 7.0,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 11.0,
+      "draw": 6.1,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 9.0,
+      "draw": 5.5,
+      "away": 1.17
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 12.0,
+      "draw": 5.8,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 12.5,
+      "draw": 5.8,
+      "away": 1.22
+    }
+  ],
+  "Ecuador|Germany": [
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 4.0,
+      "draw": 3.35,
+      "away": 1.56
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 4.66,
+      "draw": 3.92,
+      "away": 1.68
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 4.39,
+      "draw": 3.66,
+      "away": 1.75
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 4.65,
+      "draw": 3.69,
+      "away": 1.82
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 4.8,
+      "draw": 3.75,
+      "away": 1.74
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 5.0,
+      "draw": 3.85,
+      "away": 1.76
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 5.0,
+      "draw": 3.85,
+      "away": 1.76
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 4.7,
+      "draw": 3.65,
+      "away": 1.71
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 4.7,
+      "draw": 3.65,
+      "away": 1.69
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 4.5,
+      "draw": 3.6,
+      "away": 1.7
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 4.6,
+      "draw": 3.6,
+      "away": 1.73
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 4.5,
+      "draw": 3.75,
+      "away": 1.75
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 4.75,
+      "draw": 3.7,
+      "away": 1.67
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 4.1,
+      "draw": 3.5,
+      "away": 1.6
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 4.6,
+      "draw": 3.8,
+      "away": 1.75
+    }
+  ],
+  "Japan|Sweden": [
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.94,
+      "draw": 3.15,
+      "away": 3.15
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 2.0,
+      "draw": 3.4,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.9,
+      "draw": 3.05,
+      "away": 3.05
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 2.1,
+      "draw": 3.53,
+      "away": 3.59
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.07,
+      "draw": 3.37,
+      "away": 3.47
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.15,
+      "draw": 3.47,
+      "away": 3.55
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 2.15,
+      "draw": 3.5,
+      "away": 3.75
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 2.15,
+      "draw": 3.5,
+      "away": 3.75
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 2.1,
+      "draw": 3.35,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.06,
+      "draw": 3.28,
+      "away": 3.44
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 2.05,
+      "draw": 3.2,
+      "away": 3.3
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 2.1,
+      "draw": 3.25,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.1,
+      "draw": 3.45,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 2.03,
+      "draw": 3.32,
+      "away": 3.48
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 2.06,
+      "draw": 3.3,
+      "away": 3.5
+    }
+  ],
+  "Tunisia|Netherlands": [
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 5.0,
+      "draw": 3.7,
+      "away": 1.39
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 6.14,
+      "draw": 4.12,
+      "away": 1.61
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 6.28,
+      "draw": 4.22,
+      "away": 1.47
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 6.5,
+      "draw": 4.4,
+      "away": 1.53
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 7.0,
+      "draw": 4.6,
+      "away": 1.51
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 7.0,
+      "draw": 4.6,
+      "away": 1.51
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 6.75,
+      "draw": 4.35,
+      "away": 1.49
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 6.0,
+      "draw": 4.1,
+      "away": 1.49
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 6.0,
+      "draw": 4.0,
+      "away": 1.5
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 6.0,
+      "draw": 4.0,
+      "away": 1.5
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 6.5,
+      "draw": 4.4,
+      "away": 1.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 6.1,
+      "draw": 4.2,
+      "away": 1.47
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 5.3,
+      "draw": 3.95,
+      "away": 1.43
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 6.5,
+      "draw": 4.0,
+      "away": 1.47
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 6.4,
+      "draw": 4.2,
+      "away": 1.47
+    }
+  ],
+  "Paraguay|Australia": [
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 2.0,
+      "draw": 3.05,
+      "away": 3.1
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.96,
+      "draw": 2.95,
+      "away": 2.95
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 2.05,
+      "draw": 3.1,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 2.18,
+      "draw": 3.31,
+      "away": 3.47
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.09,
+      "draw": 3.19,
+      "away": 3.64
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.23,
+      "draw": 3.2,
+      "away": 3.65
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 2.23,
+      "draw": 3.35,
+      "away": 3.55
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 2.23,
+      "draw": 3.35,
+      "away": 3.55
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 2.2,
+      "draw": 3.25,
+      "away": 3.45
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.15,
+      "draw": 3.16,
+      "away": 3.36
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.1,
+      "draw": 3.25,
+      "away": 3.75
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 2.15,
+      "draw": 3.0,
+      "away": 3.3
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 2.2,
+      "draw": 3.0,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 2.12,
+      "draw": 3.2,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 2.16,
+      "draw": 3.2,
+      "away": 3.35
+    }
+  ],
+  "Turkey|USA": [
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 2.3,
+      "draw": 3.15,
+      "away": 2.3
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 2.71,
+      "draw": 3.41,
+      "away": 2.59
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.49,
+      "draw": 3.54,
+      "away": 2.62
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.63,
+      "draw": 3.63,
+      "away": 2.63
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 2.75,
+      "draw": 3.5,
+      "away": 2.63
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 2.75,
+      "draw": 3.5,
+      "away": 2.63
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 2.7,
+      "draw": 3.45,
+      "away": 2.55
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.53,
+      "draw": 3.38,
+      "away": 2.57
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.55,
+      "draw": 3.6,
+      "away": 2.65
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 2.5,
+      "draw": 3.3,
+      "away": 2.5
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 2.6,
+      "draw": 3.3,
+      "away": 2.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 2.48,
+      "draw": 3.43,
+      "away": 2.6
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 2.35,
+      "draw": 3.25,
+      "away": 2.4
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 2.45,
+      "draw": 3.4,
+      "away": 2.6
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 2.65,
+      "draw": 3.35,
+      "away": 2.5
+    }
+  ],
+  "Norway|France": [
+    {
+      "bookmaker": "GTbets",
+      "home": 4.39,
+      "draw": 3.66,
+      "away": 1.78
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 3.65,
+      "draw": 3.2,
+      "away": 1.66
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 4.16,
+      "draw": 3.54,
+      "away": 1.83
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 4.4,
+      "draw": 3.74,
+      "away": 1.85
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 4.4,
+      "draw": 3.75,
+      "away": 1.87
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 4.4,
+      "draw": 3.75,
+      "away": 1.87
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 4.3,
+      "draw": 3.65,
+      "away": 1.83
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 4.2,
+      "draw": 3.5,
+      "away": 1.79
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 4.33,
+      "draw": 3.6,
+      "away": 1.85
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 4.0,
+      "draw": 3.4,
+      "away": 1.8
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 4.2,
+      "draw": 3.4,
+      "away": 1.83
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 4.3,
+      "draw": 3.55,
+      "away": 1.77
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 3.8,
+      "draw": 3.35,
+      "away": 1.7
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 4.2,
+      "draw": 3.4,
+      "away": 1.8
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 4.2,
+      "draw": 3.55,
+      "away": 1.82
+    }
+  ],
+  "Senegal|Iraq": [
+    {
+      "bookmaker": "GTbets",
+      "home": 1.45,
+      "draw": 4.31,
+      "away": 7.34
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 1.35,
+      "draw": 4.6,
+      "away": 7.8
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.32,
+      "draw": 3.9,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.35,
+      "draw": 4.1,
+      "away": 6.0
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.36,
+      "draw": 4.66,
+      "away": 7.89
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.44,
+      "draw": 4.6,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.43,
+      "draw": 4.6,
+      "away": 8.5
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.42,
+      "draw": 4.5,
+      "away": 8.0
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.43,
+      "draw": 4.6,
+      "away": 8.5
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.41,
+      "draw": 4.4,
+      "away": 7.2
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.36,
+      "draw": 4.75,
+      "away": 8.5
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.4,
+      "draw": 4.33,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.4,
+      "draw": 4.2,
+      "away": 7.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.39,
+      "draw": 4.45,
+      "away": 7.25
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.4,
+      "draw": 4.35,
+      "away": 8.0
+    }
+  ],
+  "Cape Verde|Saudi Arabia": [
+    {
+      "bookmaker": "Tipico",
+      "home": 2.2,
+      "draw": 3.5,
+      "away": 2.9
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 2.05,
+      "draw": 3.15,
+      "away": 2.6
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 2.1,
+      "draw": 3.25,
+      "away": 2.65
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 2.43,
+      "draw": 3.41,
+      "away": 2.9
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.19,
+      "draw": 3.72,
+      "away": 2.94
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.2,
+      "draw": 3.8,
+      "away": 3.15
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 2.43,
+      "draw": 3.35,
+      "away": 3.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 2.43,
+      "draw": 3.35,
+      "away": 3.0
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 2.43,
+      "draw": 3.35,
+      "away": 3.0
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.28,
+      "draw": 3.4,
+      "away": 2.89
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.2,
+      "draw": 3.75,
+      "away": 3.0
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 2.25,
+      "draw": 3.3,
+      "away": 2.8
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 2.3,
+      "draw": 3.4,
+      "away": 2.88
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 2.23,
+      "draw": 3.43,
+      "away": 2.78
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 2.38,
+      "draw": 3.2,
+      "away": 2.95
+    }
+  ],
+  "Uruguay|Spain": [
+    {
+      "bookmaker": "Tipico",
+      "home": 5.3,
+      "draw": 3.8,
+      "away": 1.57
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 4.3,
+      "draw": 3.5,
+      "away": 1.49
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 4.5,
+      "draw": 3.7,
+      "away": 1.52
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 5.28,
+      "draw": 3.91,
+      "away": 1.66
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 5.15,
+      "draw": 3.87,
+      "away": 1.61
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 5.95,
+      "draw": 4.02,
+      "away": 1.62
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 5.8,
+      "draw": 4.0,
+      "away": 1.68
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 5.4,
+      "draw": 3.8,
+      "away": 1.65
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 5.8,
+      "draw": 4.0,
+      "away": 1.68
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 5.1,
+      "draw": 3.85,
+      "away": 1.6
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 5.25,
+      "draw": 4.0,
+      "away": 1.62
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 5.0,
+      "draw": 3.7,
+      "away": 1.61
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 5.0,
+      "draw": 3.75,
+      "away": 1.62
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 5.25,
+      "draw": 3.9,
+      "away": 1.58
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 5.25,
+      "draw": 3.75,
+      "away": 1.63
+    }
+  ],
+  "New Zealand|Belgium": [
+    {
+      "bookmaker": "GTbets",
+      "home": 9.85,
+      "draw": 5.58,
+      "away": 1.3
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 9.66,
+      "draw": 5.73,
+      "away": 1.25
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 9.1,
+      "draw": 5.3,
+      "away": 1.28
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 10.5,
+      "draw": 5.8,
+      "away": 1.32
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 10.0,
+      "draw": 5.6,
+      "away": 1.3
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 10.5,
+      "draw": 5.8,
+      "away": 1.32
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 9.0,
+      "draw": 5.3,
+      "away": 1.28
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 10.0,
+      "draw": 6.0,
+      "away": 1.28
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 10.0,
+      "draw": 5.5,
+      "away": 1.25
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 10.0,
+      "draw": 5.5,
+      "away": 1.25
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 9.25,
+      "draw": 5.5,
+      "away": 1.27
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 7.5,
+      "draw": 5.0,
+      "away": 1.23
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 6.75,
+      "draw": 4.6,
+      "away": 1.21
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 10.0,
+      "draw": 5.3,
+      "away": 1.25
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 9.5,
+      "draw": 5.5,
+      "away": 1.28
+    }
+  ],
+  "Egypt|Iran": [
+    {
+      "bookmaker": "GTbets",
+      "home": 2.38,
+      "draw": 3.08,
+      "away": 3.62
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 2.0,
+      "draw": 2.7,
+      "away": 3.05
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.22,
+      "draw": 2.99,
+      "away": 3.55
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.28,
+      "draw": 3.14,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 2.28,
+      "draw": 3.15,
+      "away": 3.7
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 2.23,
+      "draw": 3.1,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 2.28,
+      "draw": 3.15,
+      "away": 3.7
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.21,
+      "draw": 2.93,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.25,
+      "draw": 3.05,
+      "away": 3.6
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 2.2,
+      "draw": 2.9,
+      "away": 3.4
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 2.25,
+      "draw": 2.9,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 2.17,
+      "draw": 2.97,
+      "away": 3.53
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 2.05,
+      "draw": 2.85,
+      "away": 3.2
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 2.2,
+      "draw": 2.9,
+      "away": 3.5
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 2.2,
+      "draw": 3.0,
+      "away": 3.5
+    }
+  ],
+  "Croatia|Ghana": [
+    {
+      "bookmaker": "Tipico",
+      "home": 1.57,
+      "draw": 3.7,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 1.52,
+      "draw": 3.35,
+      "away": 4.3
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 1.56,
+      "draw": 3.5,
+      "away": 4.5
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 1.74,
+      "draw": 3.72,
+      "away": 5.21
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 1.6,
+      "draw": 3.78,
+      "away": 5.51
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 1.67,
+      "draw": 3.73,
+      "away": 6.0
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 1.66,
+      "draw": 3.75,
+      "away": 5.5
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 1.68,
+      "draw": 3.9,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 1.68,
+      "draw": 3.9,
+      "away": 5.8
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 1.64,
+      "draw": 3.65,
+      "away": 5.1
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 1.62,
+      "draw": 3.9,
+      "away": 5.75
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 1.61,
+      "draw": 3.5,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 1.65,
+      "draw": 3.6,
+      "away": 5.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 1.62,
+      "draw": 3.7,
+      "away": 5.25
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 1.63,
+      "draw": 3.65,
+      "away": 5.4
+    }
+  ],
+  "Panama|England": [
+    {
+      "bookmaker": "Tipico",
+      "home": 8.0,
+      "draw": 5.7,
+      "away": 1.27
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 7.0,
+      "draw": 4.8,
+      "away": 1.2
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 7.5,
+      "draw": 5.2,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 9.69,
+      "draw": 5.87,
+      "away": 1.32
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 7.57,
+      "draw": 6.39,
+      "away": 1.27
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 8.0,
+      "draw": 6.5,
+      "away": 1.32
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 10.5,
+      "draw": 5.6,
+      "away": 1.29
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 12.0,
+      "draw": 6.0,
+      "away": 1.3
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 12.0,
+      "draw": 6.0,
+      "away": 1.3
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 9.1,
+      "draw": 5.5,
+      "away": 1.26
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 8.0,
+      "draw": 6.75,
+      "away": 1.28
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 10.0,
+      "draw": 5.5,
+      "away": 1.25
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 10.0,
+      "draw": 5.8,
+      "away": 1.25
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 9.25,
+      "draw": 5.75,
+      "away": 1.25
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 10.0,
+      "draw": 5.4,
+      "away": 1.27
+    }
+  ],
+  "Colombia|Portugal": [
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 3.6,
+      "draw": 3.3,
+      "away": 2.12
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 3.7,
+      "draw": 3.4,
+      "away": 2.16
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 3.5,
+      "draw": 3.25,
+      "away": 2.1
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 3.0,
+      "draw": 3.0,
+      "away": 1.92
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 3.7,
+      "draw": 3.4,
+      "away": 2.16
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 3.52,
+      "draw": 3.37,
+      "away": 2.2
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 3.38,
+      "draw": 3.2,
+      "away": 2.03
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 3.46,
+      "draw": 3.27,
+      "away": 2.12
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 3.5,
+      "draw": 3.4,
+      "away": 2.2
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 3.42,
+      "draw": 3.24,
+      "away": 2.09
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 3.5,
+      "draw": 3.35,
+      "away": 2.15
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 3.4,
+      "draw": 3.1,
+      "away": 2.1
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 3.4,
+      "draw": 3.2,
+      "away": 2.1
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 3.15,
+      "draw": 3.1,
+      "away": 1.98
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 3.5,
+      "draw": 3.1,
+      "away": 2.1
+    }
+  ],
+  "DR Congo|Uzbekistan": [
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 2.15,
+      "draw": 3.1,
+      "away": 2.8
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 2.3,
+      "draw": 3.2,
+      "away": 2.95
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 2.05,
+      "draw": 2.95,
+      "away": 2.7
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 2.36,
+      "draw": 3.28,
+      "away": 3.06
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 2.29,
+      "draw": 3.32,
+      "away": 3.05
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 2.36,
+      "draw": 3.25,
+      "away": 3.3
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 2.32,
+      "draw": 3.2,
+      "away": 3.25
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 2.35,
+      "draw": 3.3,
+      "away": 3.3
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 2.28,
+      "draw": 3.15,
+      "away": 3.15
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 2.35,
+      "draw": 3.3,
+      "away": 3.3
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 2.28,
+      "draw": 3.2,
+      "away": 3.04
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 2.3,
+      "draw": 3.35,
+      "away": 3.1
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 2.3,
+      "draw": 3.1,
+      "away": 3.0
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 2.3,
+      "draw": 3.2,
+      "away": 3.0
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 2.22,
+      "draw": 3.15,
+      "away": 3.0
+    }
+  ],
+  "Algeria|Austria": [
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 3.05,
+      "draw": 2.9,
+      "away": 1.94
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 3.54,
+      "draw": 3.15,
+      "away": 2.19
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 3.74,
+      "draw": 3.03,
+      "away": 2.13
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 3.85,
+      "draw": 3.15,
+      "away": 2.18
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 3.5,
+      "draw": 3.25,
+      "away": 2.2
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 3.6,
+      "draw": 3.35,
+      "away": 2.23
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 3.6,
+      "draw": 3.35,
+      "away": 2.23
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 3.48,
+      "draw": 3.12,
+      "away": 2.12
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 3.85,
+      "draw": 3.1,
+      "away": 2.15
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 3.5,
+      "draw": 3.0,
+      "away": 2.1
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 3.6,
+      "draw": 3.0,
+      "away": 2.15
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 3.43,
+      "draw": 3.08,
+      "away": 2.07
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 3.2,
+      "draw": 3.0,
+      "away": 2.0
+    },
+    {
+      "bookmaker": "Tipico",
+      "home": 3.6,
+      "draw": 3.0,
+      "away": 2.1
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 3.4,
+      "draw": 3.2,
+      "away": 2.15
+    }
+  ],
+  "Jordan|Argentina": [
+    {
+      "bookmaker": "Tipico",
+      "home": 13.0,
+      "draw": 6.7,
+      "away": 1.16
+    },
+    {
+      "bookmaker": "Winamax (FR)",
+      "home": 9.5,
+      "draw": 5.3,
+      "away": 1.12
+    },
+    {
+      "bookmaker": "Winamax (DE)",
+      "home": 10.0,
+      "draw": 5.9,
+      "away": 1.14
+    },
+    {
+      "bookmaker": "GTbets",
+      "home": 14.93,
+      "draw": 6.79,
+      "away": 1.21
+    },
+    {
+      "bookmaker": "Pinnacle",
+      "home": 13.38,
+      "draw": 7.16,
+      "away": 1.16
+    },
+    {
+      "bookmaker": "BetOnline.ag",
+      "home": 14.0,
+      "draw": 7.25,
+      "away": 1.21
+    },
+    {
+      "bookmaker": "LeoVegas (SE)",
+      "home": 15.0,
+      "draw": 6.75,
+      "away": 1.21
+    },
+    {
+      "bookmaker": "Unibet (NL)",
+      "home": 16.0,
+      "draw": 7.0,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "Unibet (SE)",
+      "home": 16.0,
+      "draw": 7.0,
+      "away": 1.22
+    },
+    {
+      "bookmaker": "MyBookie.ag",
+      "home": 13.5,
+      "draw": 6.4,
+      "away": 1.17
+    },
+    {
+      "bookmaker": "Everygame",
+      "home": 13.0,
+      "draw": 7.5,
+      "away": 1.18
+    },
+    {
+      "bookmaker": "888sport",
+      "home": 13.0,
+      "draw": 6.5,
+      "away": 1.17
+    },
+    {
+      "bookmaker": "William Hill",
+      "home": 15.0,
+      "draw": 7.0,
+      "away": 1.18
+    },
+    {
+      "bookmaker": "Betclic (FR)",
+      "home": 13.0,
+      "draw": 6.25,
+      "away": 1.16
+    },
+    {
+      "bookmaker": "PMU (FR)",
+      "home": 14.0,
+      "draw": 6.4,
+      "away": 1.19
+    }
+  ]
+}

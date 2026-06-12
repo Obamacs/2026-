@@ -1,0 +1,3145 @@
+{
+  "groups": [
+    {
+      "group": "Group A",
+      "predictions": [
+        {
+          "home_team": "Mexico",
+          "away_team": "South Africa",
+          "datetime": "2026-06-11T13:00:00-06:00",
+          "venue": "Mexico City",
+          "group": "Group A",
+          "probabilities": {
+            "home": 0.6452692805475696,
+            "draw": 0.210534544185165,
+            "away": 0.14419617526726533
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.57,
+            "draw": 3.9,
+            "away": 6.5
+          },
+          "actual_score": {
+            "home": 2,
+            "away": 0
+          },
+          "result_status": "completed",
+          "result_source": "official result",
+          "xgb_probabilities": {
+            "home": 0.9378268718719482,
+            "draw": 0.003736617974936962,
+            "away": 0.058436520397663116
+          },
+          "context_probabilities": {
+            "home": 0.543240001132247,
+            "draw": 0.07339449541284403,
+            "away": 0.3833655034549089
+          }
+        },
+        {
+          "home_team": "South Korea",
+          "away_team": "Czech Republic",
+          "datetime": "2026-06-11T20:00:00-06:00",
+          "venue": "Guadalajara (Zapopan)",
+          "group": "Group A",
+          "probabilities": {
+            "home": 0.2689896898476613,
+            "draw": 0.2717141564582423,
+            "away": 0.4592961536940964
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 2.4,
+            "draw": 3.1,
+            "away": 2.85
+          },
+          "actual_score": {
+            "home": 2,
+            "away": 1
+          },
+          "result_status": "completed",
+          "result_source": "official result",
+          "xgb_probabilities": {
+            "home": 0.0708165317773819,
+            "draw": 0.0038772246334701777,
+            "away": 0.9253062605857849
+          },
+          "context_probabilities": {
+            "home": 0.4884883911589377,
+            "draw": 0.07339449541284403,
+            "away": 0.4381171134282182
+          }
+        },
+        {
+          "home_team": "Czech Republic",
+          "away_team": "South Africa",
+          "datetime": "2026-06-18T12:00:00-04:00",
+          "venue": "Atlanta",
+          "group": "Group A",
+          "probabilities": {
+            "home": 0.5566921929259594,
+            "draw": 0.23337536330116135,
+            "away": 0.20993244377287928
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.75,
+            "draw": 3.8,
+            "away": 4.65
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.7456098794937134,
+            "draw": 0.05041966959834099,
+            "away": 0.20397038757801056
+          },
+          "context_probabilities": {
+            "home": 0.5596330275229358,
+            "draw": 0.07339449541284403,
+            "away": 0.36697247706422015
+          }
+        },
+        {
+          "home_team": "Mexico",
+          "away_team": "South Korea",
+          "datetime": "2026-06-18T19:00:00-06:00",
+          "venue": "Guadalajara (Zapopan)",
+          "group": "Group A",
+          "probabilities": {
+            "home": 0.5793385865842062,
+            "draw": 0.26177959046206817,
+            "away": 0.15888182295372566
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.995,
+            "draw": 3.35,
+            "away": 4.05
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.9909586906433105,
+            "draw": 0.0008207339560613036,
+            "away": 0.008220566436648369
+          },
+          "context_probabilities": {
+            "home": 0.6144180274649446,
+            "draw": 0.07339449541284403,
+            "away": 0.31218747712221123
+          }
+        },
+        {
+          "home_team": "Czech Republic",
+          "away_team": "Mexico",
+          "datetime": "2026-06-24T19:00:00-06:00",
+          "venue": "Mexico City",
+          "group": "Group A",
+          "probabilities": {
+            "home": 0.1742436939626809,
+            "draw": 0.24901691100833895,
+            "away": 0.5767393950289802
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 4.525,
+            "draw": 3.475,
+            "away": 1.81
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.016229091212153435,
+            "draw": 0.0009753663325682282,
+            "away": 0.9827955365180969
+          },
+          "context_probabilities": {
+            "home": 0.5026315585007805,
+            "draw": 0.07339449541284403,
+            "away": 0.42397394608637545
+          }
+        },
+        {
+          "home_team": "South Africa",
+          "away_team": "South Korea",
+          "datetime": "2026-06-24T19:00:00-06:00",
+          "venue": "Monterrey (Guadalupe)",
+          "group": "Group A",
+          "probabilities": {
+            "home": 0.4372955645104208,
+            "draw": 0.2098797729435172,
+            "away": 0.352824662546062
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 5.59,
+            "draw": 3.865,
+            "away": 1.6
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.9854561686515808,
+            "draw": 0.00848478265106678,
+            "away": 0.00605903472751379
+          },
+          "context_probabilities": {
+            "home": 0.5573831684740898,
+            "draw": 0.07339449541284403,
+            "away": 0.3692223361130661
+          }
+        }
+      ],
+      "standings": [
+        {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "goals_for": 6,
+          "goals_against": 3,
+          "points": 9,
+          "team": "Mexico",
+          "goal_diff": 3
+        },
+        {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "goals_for": 5,
+          "goals_against": 4,
+          "points": 6,
+          "team": "Czech Republic",
+          "goal_diff": 1
+        },
+        {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "loss": 2,
+          "goals_for": 4,
+          "goals_against": 5,
+          "points": 3,
+          "team": "South Africa",
+          "goal_diff": -1
+        },
+        {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "goals_for": 3,
+          "goals_against": 6,
+          "points": 0,
+          "team": "South Korea",
+          "goal_diff": -3
+        }
+      ]
+    },
+    {
+      "group": "Group B",
+      "predictions": [
+        {
+          "home_team": "Canada",
+          "away_team": "Bosnia & Herzegovina",
+          "datetime": "2026-06-12T15:00:00-04:00",
+          "venue": "Toronto",
+          "group": "Group B",
+          "probabilities": {
+            "home": 0.5455712088880228,
+            "draw": 0.24800179237717562,
+            "away": 0.2064269987348016
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.62,
+            "draw": 3.32,
+            "away": 4.75
+          },
+          "actual_score": {
+            "home": 1,
+            "away": 1
+          },
+          "result_status": "completed",
+          "result_source": "official result",
+          "xgb_probabilities": {
+            "home": 0.7456098794937134,
+            "draw": 0.05041966959834099,
+            "away": 0.20397038757801056
+          },
+          "context_probabilities": {
+            "home": 0.5045871559633027,
+            "draw": 0.07339449541284403,
+            "away": 0.4220183486238531
+          }
+        },
+        {
+          "home_team": "Qatar",
+          "away_team": "Switzerland",
+          "datetime": "2026-06-13T12:00:00-07:00",
+          "venue": "San Francisco Bay Area (Santa Clara)",
+          "group": "Group B",
+          "probabilities": {
+            "home": 0.11478700391009779,
+            "draw": 0.09317143187094862,
+            "away": 0.7920415642189537
+          },
+          "predicted_score": {
+            "home": 0,
+            "away": 3
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 14.11,
+            "draw": 6.5,
+            "away": 1.22
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.026623006910085678,
+            "draw": 0.0038110192399472,
+            "away": 0.9695659279823303
+          },
+          "context_probabilities": {
+            "home": 0.4631827348282498,
+            "draw": 0.07339449541284403,
+            "away": 0.4634227697589061
+          }
+        },
+        {
+          "home_team": "Switzerland",
+          "away_team": "Bosnia & Herzegovina",
+          "datetime": "2026-06-18T12:00:00-07:00",
+          "venue": "Los Angeles (Inglewood)",
+          "group": "Group B",
+          "probabilities": {
+            "home": 0.519127366194051,
+            "draw": 0.2991478613197067,
+            "away": 0.18172477248624236
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.57,
+            "draw": 4.0,
+            "away": 5.9
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.02878645993769169,
+            "draw": 0.9135345816612244,
+            "away": 0.05767897143959999
+          },
+          "context_probabilities": {
+            "home": 0.6193860725111996,
+            "draw": 0.07339449541284403,
+            "away": 0.30721943207595626
+          }
+        },
+        {
+          "home_team": "Canada",
+          "away_team": "Qatar",
+          "datetime": "2026-06-18T15:00:00-07:00",
+          "venue": "Vancouver",
+          "group": "Group B",
+          "probabilities": {
+            "home": 0.7105304877012091,
+            "draw": 0.12420003892038434,
+            "away": 0.1652694733784066
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.29,
+            "draw": 5.3,
+            "away": 10.6
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.7456098794937134,
+            "draw": 0.05041966959834099,
+            "away": 0.20397038757801056
+          },
+          "context_probabilities": {
+            "home": 0.5596330275229358,
+            "draw": 0.07339449541284403,
+            "away": 0.36697247706422015
+          }
+        },
+        {
+          "home_team": "Switzerland",
+          "away_team": "Canada",
+          "datetime": "2026-06-24T12:00:00-07:00",
+          "venue": "Vancouver",
+          "group": "Group B",
+          "probabilities": {
+            "home": 0.41098744746521343,
+            "draw": 0.3395101183527288,
+            "away": 0.24950243418205773
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 2.1,
+            "draw": 3.3,
+            "away": 3.5
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.02878645993769169,
+            "draw": 0.9135345816612244,
+            "away": 0.05767897143959999
+          },
+          "context_probabilities": {
+            "home": 0.6193860725111996,
+            "draw": 0.07339449541284403,
+            "away": 0.30721943207595626
+          }
+        },
+        {
+          "home_team": "Bosnia & Herzegovina",
+          "away_team": "Qatar",
+          "datetime": "2026-06-24T12:00:00-07:00",
+          "venue": "Seattle",
+          "group": "Group B",
+          "probabilities": {
+            "home": 0.5748339792772711,
+            "draw": 0.23563329713148284,
+            "away": 0.189532723591246
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.61,
+            "draw": 3.7,
+            "away": 5.68
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.7456098794937134,
+            "draw": 0.05041966959834099,
+            "away": 0.20397038757801056
+          },
+          "context_probabilities": {
+            "home": 0.5596330275229358,
+            "draw": 0.07339449541284403,
+            "away": 0.36697247706422015
+          }
+        }
+      ],
+      "standings": [
+        {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "goals_for": 7,
+          "goals_against": 2,
+          "points": 9,
+          "team": "Switzerland",
+          "goal_diff": 5
+        },
+        {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "goals_for": 5,
+          "goals_against": 4,
+          "points": 6,
+          "team": "Canada",
+          "goal_diff": 1
+        },
+        {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "loss": 2,
+          "goals_for": 4,
+          "goals_against": 5,
+          "points": 3,
+          "team": "Bosnia & Herzegovina",
+          "goal_diff": -1
+        },
+        {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "goals_for": 2,
+          "goals_against": 7,
+          "points": 0,
+          "team": "Qatar",
+          "goal_diff": -5
+        }
+      ]
+    },
+    {
+      "group": "Group C",
+      "predictions": [
+        {
+          "home_team": "Brazil",
+          "away_team": "Morocco",
+          "datetime": "2026-06-13T18:00:00-04:00",
+          "venue": "New York/New Jersey (East Rutherford)",
+          "group": "Group C",
+          "probabilities": {
+            "home": 0.6018825205882687,
+            "draw": 0.2510009126565582,
+            "away": 0.14711656675517315
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 0
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.665,
+            "draw": 3.8,
+            "away": 5.47
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.6352059841156006,
+            "draw": 0.33898621797561646,
+            "away": 0.0258078221231699
+          },
+          "context_probabilities": {
+            "home": 0.6379367763288134,
+            "draw": 0.07339449541284403,
+            "away": 0.2886687282583425
+          }
+        },
+        {
+          "home_team": "Haiti",
+          "away_team": "Scotland",
+          "datetime": "2026-06-13T21:00:00-04:00",
+          "venue": "Boston (Foxborough)",
+          "group": "Group C",
+          "probabilities": {
+            "home": 0.39103965935795343,
+            "draw": 0.15087076620340487,
+            "away": 0.45808957443864173
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 5.92,
+            "draw": 4.220000000000001,
+            "away": 1.565
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.7456098794937134,
+            "draw": 0.05041966959834099,
+            "away": 0.20397038757801056
+          },
+          "context_probabilities": {
+            "home": 0.5229357798165137,
+            "draw": 0.07339449541284403,
+            "away": 0.40366972477064217
+          }
+        },
+        {
+          "home_team": "Scotland",
+          "away_team": "Morocco",
+          "datetime": "2026-06-19T18:00:00-04:00",
+          "venue": "Boston (Foxborough)",
+          "group": "Group C",
+          "probabilities": {
+            "home": 0.45173027537968685,
+            "draw": 0.2655106774636642,
+            "away": 0.28275904715664896
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 4.119999999999999,
+            "draw": 3.285,
+            "away": 1.97
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.9818927049636841,
+            "draw": 0.011177723295986652,
+            "away": 0.0069295065477490425
+          },
+          "context_probabilities": {
+            "home": 0.5828764206339216,
+            "draw": 0.07339449541284403,
+            "away": 0.34372908395323415
+          }
+        },
+        {
+          "home_team": "Brazil",
+          "away_team": "Haiti",
+          "datetime": "2026-06-19T20:30:00-04:00",
+          "venue": "Philadelphia",
+          "group": "Group C",
+          "probabilities": {
+            "home": 0.8101009532988181,
+            "draw": 0.12302150976132295,
+            "away": 0.0668775369398589
+          },
+          "predicted_score": {
+            "home": 3,
+            "away": 0
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.07,
+            "draw": 12.0,
+            "away": 30.0
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.4939970076084137,
+            "draw": 0.4988807439804077,
+            "away": 0.007122194394469261
+          },
+          "context_probabilities": {
+            "home": 0.6525712463770429,
+            "draw": 0.07339449541284403,
+            "away": 0.2740342582101129
+          }
+        },
+        {
+          "home_team": "Scotland",
+          "away_team": "Brazil",
+          "datetime": "2026-06-24T18:00:00-04:00",
+          "venue": "Miami (Miami Gardens)",
+          "group": "Group C",
+          "probabilities": {
+            "home": 0.21525240099282086,
+            "draw": 0.12821681422684766,
+            "away": 0.6565307847803314
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 6.2,
+            "draw": 4.5,
+            "away": 1.44
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.2098463922739029,
+            "draw": 0.0127481110394001,
+            "away": 0.7774055004119873
+          },
+          "context_probabilities": {
+            "home": 0.4666948086688284,
+            "draw": 0.07339449541284403,
+            "away": 0.4599106959183275
+          }
+        },
+        {
+          "home_team": "Morocco",
+          "away_team": "Haiti",
+          "datetime": "2026-06-24T18:00:00-04:00",
+          "venue": "Atlanta",
+          "group": "Group C",
+          "probabilities": {
+            "home": 0.4535494658259685,
+            "draw": 0.1297092176630045,
+            "away": 0.41674131651102686
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.29,
+            "draw": 4.5,
+            "away": 6.75
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.003035253379493952,
+            "draw": 0.040027718991041183,
+            "away": 0.9569370746612549
+          },
+          "context_probabilities": {
+            "home": 0.5363896344119498,
+            "draw": 0.07339449541284403,
+            "away": 0.3902158701752061
+          }
+        }
+      ],
+      "standings": [
+        {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "goals_for": 7,
+          "goals_against": 1,
+          "points": 9,
+          "team": "Brazil",
+          "goal_diff": 6
+        },
+        {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "goals_for": 5,
+          "goals_against": 4,
+          "points": 6,
+          "team": "Scotland",
+          "goal_diff": 1
+        },
+        {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "loss": 2,
+          "goals_for": 3,
+          "goals_against": 5,
+          "points": 3,
+          "team": "Morocco",
+          "goal_diff": -2
+        },
+        {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "goals_for": 2,
+          "goals_against": 7,
+          "points": 0,
+          "team": "Haiti",
+          "goal_diff": -5
+        }
+      ]
+    },
+    {
+      "group": "Group D",
+      "predictions": [
+        {
+          "home_team": "USA",
+          "away_team": "Paraguay",
+          "datetime": "2026-06-12T18:00:00-07:00",
+          "venue": "Los Angeles (Inglewood)",
+          "group": "Group D",
+          "probabilities": {
+            "home": 0.30246739148900836,
+            "draw": 0.2772228762398872,
+            "away": 0.42030973227110446
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 2.1,
+            "draw": 3.25,
+            "away": 3.955
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.0053899516351521015,
+            "draw": 0.08233951777219772,
+            "away": 0.9122704863548279
+          },
+          "context_probabilities": {
+            "home": 0.5398729710656316,
+            "draw": 0.07339449541284403,
+            "away": 0.3867325335215243
+          }
+        },
+        {
+          "home_team": "Australia",
+          "away_team": "Turkey",
+          "datetime": "2026-06-13T21:00:00-07:00",
+          "venue": "Vancouver",
+          "group": "Group D",
+          "probabilities": {
+            "home": 0.15891969356811397,
+            "draw": 0.23291756338545452,
+            "away": 0.6081627430464315
+          },
+          "predicted_score": {
+            "home": 0,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 5.215,
+            "draw": 3.8,
+            "away": 1.705
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.002399964490905404,
+            "draw": 0.012785658240318298,
+            "away": 0.984814465045929
+          },
+          "context_probabilities": {
+            "home": 0.48877047143343205,
+            "draw": 0.07339449541284403,
+            "away": 0.4378350331537239
+          }
+        },
+        {
+          "home_team": "USA",
+          "away_team": "Australia",
+          "datetime": "2026-06-19T12:00:00-07:00",
+          "venue": "Seattle",
+          "group": "Group D",
+          "probabilities": {
+            "home": 0.4665023427823791,
+            "draw": 0.29217242326933757,
+            "away": 0.24132523394828334
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.75,
+            "draw": 3.8,
+            "away": 4.5
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.0732680931687355,
+            "draw": 0.7478735446929932,
+            "away": 0.1788584142923355
+          },
+          "context_probabilities": {
+            "home": 0.628688514211714,
+            "draw": 0.07339449541284403,
+            "away": 0.29791699037544184
+          }
+        },
+        {
+          "home_team": "Turkey",
+          "away_team": "Paraguay",
+          "datetime": "2026-06-19T20:00:00-07:00",
+          "venue": "San Francisco Bay Area (Santa Clara)",
+          "group": "Group D",
+          "probabilities": {
+            "home": 0.4867929890036239,
+            "draw": 0.2742920719948338,
+            "away": 0.23891493900154223
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 2.2,
+            "draw": 3.2,
+            "away": 3.45
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.7456098794937134,
+            "draw": 0.05041966959834099,
+            "away": 0.20397038757801056
+          },
+          "context_probabilities": {
+            "home": 0.5596330275229358,
+            "draw": 0.07339449541284403,
+            "away": 0.36697247706422015
+          }
+        },
+        {
+          "home_team": "Turkey",
+          "away_team": "USA",
+          "datetime": "2026-06-25T19:00:00-07:00",
+          "venue": "Los Angeles (Inglewood)",
+          "group": "Group D",
+          "probabilities": {
+            "home": 0.4326304890998956,
+            "draw": 0.2570020335003888,
+            "away": 0.31036747739971554
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 2.55,
+            "draw": 3.41,
+            "away": 2.59
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.6384653449058533,
+            "draw": 0.09580535441637039,
+            "away": 0.26572927832603455
+          },
+          "context_probabilities": {
+            "home": 0.5243472124206068,
+            "draw": 0.07339449541284403,
+            "away": 0.40225829216654907
+          }
+        },
+        {
+          "home_team": "Paraguay",
+          "away_team": "Australia",
+          "datetime": "2026-06-25T19:00:00-07:00",
+          "venue": "San Francisco Bay Area (Santa Clara)",
+          "group": "Group D",
+          "probabilities": {
+            "home": 0.5510122101962639,
+            "draw": 0.2693039891325899,
+            "away": 0.1796838006711462
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 0
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 2.15,
+            "draw": 3.2,
+            "away": 3.45
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.9767104983329773,
+            "draw": 0.011692698113620281,
+            "away": 0.011596748605370522
+          },
+          "context_probabilities": {
+            "home": 0.5937983359060175,
+            "draw": 0.07339449541284403,
+            "away": 0.3328071686811384
+          }
+        }
+      ],
+      "standings": [
+        {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "goals_for": 6,
+          "goals_against": 2,
+          "points": 9,
+          "team": "Turkey",
+          "goal_diff": 4
+        },
+        {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "goals_for": 5,
+          "goals_against": 3,
+          "points": 6,
+          "team": "Paraguay",
+          "goal_diff": 2
+        },
+        {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "loss": 2,
+          "goals_for": 4,
+          "goals_against": 5,
+          "points": 3,
+          "team": "USA",
+          "goal_diff": -1
+        },
+        {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "goals_for": 1,
+          "goals_against": 6,
+          "points": 0,
+          "team": "Australia",
+          "goal_diff": -5
+        }
+      ]
+    },
+    {
+      "group": "Group E",
+      "predictions": [
+        {
+          "home_team": "Germany",
+          "away_team": "Curaçao",
+          "datetime": "2026-06-14T12:00:00-05:00",
+          "venue": "Houston",
+          "group": "Group E",
+          "probabilities": {
+            "home": 0.7795417474823141,
+            "draw": 0.05993062025317235,
+            "away": 0.1605276322645136
+          },
+          "predicted_score": {
+            "home": 3,
+            "away": 0
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.04,
+            "draw": 18.0,
+            "away": 41.0
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.6124691963195801,
+            "draw": 0.06527658551931381,
+            "away": 0.3222542107105255
+          },
+          "context_probabilities": {
+            "home": 0.5867984268988937,
+            "draw": 0.07339449541284403,
+            "away": 0.3398070776882622
+          }
+        },
+        {
+          "home_team": "Ivory Coast",
+          "away_team": "Ecuador",
+          "datetime": "2026-06-14T19:00:00-04:00",
+          "venue": "Philadelphia",
+          "group": "Group E",
+          "probabilities": {
+            "home": 0.38335933191798144,
+            "draw": 0.2936541422357427,
+            "away": 0.32298652584627585
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 3.6,
+            "draw": 2.8449999999999998,
+            "away": 2.415
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.6820273399353027,
+            "draw": 0.05687103047966957,
+            "away": 0.261101633310318
+          },
+          "context_probabilities": {
+            "home": 0.5059985885673959,
+            "draw": 0.07339449541284403,
+            "away": 0.4206069160197601
+          }
+        },
+        {
+          "home_team": "Germany",
+          "away_team": "Ivory Coast",
+          "datetime": "2026-06-20T16:00:00-04:00",
+          "venue": "Toronto",
+          "group": "Group E",
+          "probabilities": {
+            "home": 0.6140397639160762,
+            "draw": 0.15120446627923337,
+            "away": 0.23475576980469035
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.54,
+            "draw": 4.3,
+            "away": 5.6
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.6124691963195801,
+            "draw": 0.06527658551931381,
+            "away": 0.3222542107105255
+          },
+          "context_probabilities": {
+            "home": 0.6234956746053157,
+            "draw": 0.07339449541284403,
+            "away": 0.30310982998184016
+          }
+        },
+        {
+          "home_team": "Ecuador",
+          "away_team": "Curaçao",
+          "datetime": "2026-06-20T19:00:00-05:00",
+          "venue": "Kansas City",
+          "group": "Group E",
+          "probabilities": {
+            "home": 0.6354111835712247,
+            "draw": 0.21077414168838976,
+            "away": 0.1538146747403856
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.18,
+            "draw": 6.75,
+            "away": 14.9
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.0028956150636076927,
+            "draw": 0.852118730545044,
+            "away": 0.1449856162071228
+          },
+          "context_probabilities": {
+            "home": 0.5949188426252645,
+            "draw": 0.07339449541284403,
+            "away": 0.3316866619618913
+          }
+        },
+        {
+          "home_team": "Curaçao",
+          "away_team": "Ivory Coast",
+          "datetime": "2026-06-25T16:00:00-04:00",
+          "venue": "Philadelphia",
+          "group": "Group E",
+          "probabilities": {
+            "home": 0.34863013498102435,
+            "draw": 0.11155634291869447,
+            "away": 0.5398135221002811
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 12.5,
+            "draw": 6.0,
+            "away": 1.21
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.7456098794937134,
+            "draw": 0.05041966959834099,
+            "away": 0.20397038757801056
+          },
+          "context_probabilities": {
+            "home": 0.5596330275229358,
+            "draw": 0.07339449541284403,
+            "away": 0.36697247706422015
+          }
+        },
+        {
+          "home_team": "Ecuador",
+          "away_team": "Germany",
+          "datetime": "2026-06-25T16:00:00-04:00",
+          "venue": "New York/New Jersey (East Rutherford)",
+          "group": "Group E",
+          "probabilities": {
+            "home": 0.24439545085034198,
+            "draw": 0.31527237521237816,
+            "away": 0.44033217393727986
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 4.65,
+            "draw": 3.69,
+            "away": 1.73
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.0448792539536953,
+            "draw": 0.9223932027816772,
+            "away": 0.03272758424282074
+          },
+          "context_probabilities": {
+            "home": 0.5307468454854339,
+            "draw": 0.07339449541284405,
+            "away": 0.395858659101722
+          }
+        }
+      ],
+      "standings": [
+        {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "goals_for": 7,
+          "goals_against": 2,
+          "points": 9,
+          "team": "Germany",
+          "goal_diff": 5
+        },
+        {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "goals_for": 5,
+          "goals_against": 4,
+          "points": 6,
+          "team": "Ivory Coast",
+          "goal_diff": 1
+        },
+        {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "loss": 2,
+          "goals_for": 4,
+          "goals_against": 5,
+          "points": 3,
+          "team": "Ecuador",
+          "goal_diff": -1
+        },
+        {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "goals_for": 2,
+          "goals_against": 7,
+          "points": 0,
+          "team": "Curaçao",
+          "goal_diff": -5
+        }
+      ]
+    },
+    {
+      "group": "Group F",
+      "predictions": [
+        {
+          "home_team": "Netherlands",
+          "away_team": "Japan",
+          "datetime": "2026-06-14T15:00:00-05:00",
+          "venue": "Dallas (Arlington)",
+          "group": "Group F",
+          "probabilities": {
+            "home": 0.5330048386758486,
+            "draw": 0.18581177168314383,
+            "away": 0.2811833896410075
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.98,
+            "draw": 3.6,
+            "away": 3.8
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.6384653449058533,
+            "draw": 0.09580535441637039,
+            "away": 0.26572927832603455
+          },
+          "context_probabilities": {
+            "home": 0.5059985885673959,
+            "draw": 0.07339449541284403,
+            "away": 0.4206069160197601
+          }
+        },
+        {
+          "home_team": "Sweden",
+          "away_team": "Tunisia",
+          "datetime": "2026-06-14T20:00:00-06:00",
+          "venue": "Monterrey (Guadalupe)",
+          "group": "Group F",
+          "probabilities": {
+            "home": 0.5957748925422618,
+            "draw": 0.2550660391915729,
+            "away": 0.1491590682661653
+          },
+          "predicted_score": {
+            "home": 3,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.9,
+            "draw": 3.45,
+            "away": 4.4
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.9920945763587952,
+            "draw": 0.0013004590291529894,
+            "away": 0.0066049969755113125
+          },
+          "context_probabilities": {
+            "home": 0.6227407267931508,
+            "draw": 0.07339449541284403,
+            "away": 0.30386477779400506
+          }
+        },
+        {
+          "home_team": "Netherlands",
+          "away_team": "Sweden",
+          "datetime": "2026-06-20T12:00:00-05:00",
+          "venue": "Houston",
+          "group": "Group F",
+          "probabilities": {
+            "home": 0.4388518140888985,
+            "draw": 0.20262389048736212,
+            "away": 0.3585242954237394
+          },
+          "predicted_score": {
+            "home": 3,
+            "away": 2
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.62,
+            "draw": 4.035,
+            "away": 5.3
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.2638179659843445,
+            "draw": 0.006014237646013498,
+            "away": 0.730167806148529
+          },
+          "context_probabilities": {
+            "home": 0.4720512866173771,
+            "draw": 0.07339449541284405,
+            "away": 0.4545542179697788
+          }
+        },
+        {
+          "home_team": "Tunisia",
+          "away_team": "Japan",
+          "datetime": "2026-06-20T22:00:00-06:00",
+          "venue": "Monterrey (Guadalupe)",
+          "group": "Group F",
+          "probabilities": {
+            "home": 0.16063825161212422,
+            "draw": 0.24276600681366417,
+            "away": 0.5965957415742117
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 5.4,
+            "draw": 3.6,
+            "away": 1.7
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.00792581308633089,
+            "draw": 0.0016308428021147847,
+            "away": 0.9904432892799377
+          },
+          "context_probabilities": {
+            "home": 0.5306567862286842,
+            "draw": 0.07339449541284403,
+            "away": 0.39594871835847173
+          }
+        },
+        {
+          "home_team": "Japan",
+          "away_team": "Sweden",
+          "datetime": "2026-06-25T18:00:00-05:00",
+          "venue": "Dallas (Arlington)",
+          "group": "Group F",
+          "probabilities": {
+            "home": 0.29236852788292905,
+            "draw": 0.2566306279540243,
+            "away": 0.45100084416304664
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 2.07,
+            "draw": 3.35,
+            "away": 3.48
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.011371355503797531,
+            "draw": 0.005165249574929476,
+            "away": 0.9834633469581604
+          },
+          "context_probabilities": {
+            "home": 0.5065575942830461,
+            "draw": 0.07339449541284403,
+            "away": 0.42004791030410976
+          }
+        },
+        {
+          "home_team": "Tunisia",
+          "away_team": "Netherlands",
+          "datetime": "2026-06-25T18:00:00-05:00",
+          "venue": "Kansas City",
+          "group": "Group F",
+          "probabilities": {
+            "home": 0.15699039604910572,
+            "draw": 0.19165038643775478,
+            "away": 0.6513592175131395
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 6.28,
+            "draw": 4.2,
+            "away": 1.49
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.00458527123555541,
+            "draw": 0.0005415495834313333,
+            "away": 0.9948731064796448
+          },
+          "context_probabilities": {
+            "home": 0.5659734098368793,
+            "draw": 0.07339449541284403,
+            "away": 0.3606320947502765
+          }
+        }
+      ],
+      "standings": [
+        {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "goals_for": 7,
+          "goals_against": 4,
+          "points": 9,
+          "team": "Netherlands",
+          "goal_diff": 3
+        },
+        {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "goals_for": 7,
+          "goals_against": 5,
+          "points": 6,
+          "team": "Sweden",
+          "goal_diff": 2
+        },
+        {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "loss": 2,
+          "goals_for": 4,
+          "goals_against": 5,
+          "points": 3,
+          "team": "Japan",
+          "goal_diff": -1
+        },
+        {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "goals_for": 3,
+          "goals_against": 7,
+          "points": 0,
+          "team": "Tunisia",
+          "goal_diff": -4
+        }
+      ]
+    },
+    {
+      "group": "Group G",
+      "predictions": [
+        {
+          "home_team": "Belgium",
+          "away_team": "Egypt",
+          "datetime": "2026-06-15T12:00:00-07:00",
+          "venue": "Seattle",
+          "group": "Group G",
+          "probabilities": {
+            "home": 0.6764334749039497,
+            "draw": 0.20730443658569137,
+            "away": 0.11626208851035898
+          },
+          "predicted_score": {
+            "home": 4,
+            "away": 0
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.62,
+            "draw": 3.99,
+            "away": 5.75
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.9846698045730591,
+            "draw": 0.0073808166198432446,
+            "away": 0.007949383929371834
+          },
+          "context_probabilities": {
+            "home": 0.7191079115509976,
+            "draw": 0.07339449541284403,
+            "away": 0.20749759303615825
+          }
+        },
+        {
+          "home_team": "Iran",
+          "away_team": "New Zealand",
+          "datetime": "2026-06-15T18:00:00-07:00",
+          "venue": "Los Angeles (Inglewood)",
+          "group": "Group G",
+          "probabilities": {
+            "home": 0.41986457051085807,
+            "draw": 0.3145849785977598,
+            "away": 0.26555045089138213
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.83,
+            "draw": 3.5,
+            "away": 4.79
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.004095124080777168,
+            "draw": 0.7569776773452759,
+            "away": 0.2389272302389145
+          },
+          "context_probabilities": {
+            "home": 0.5618828865717816,
+            "draw": 0.07339449541284403,
+            "away": 0.36472261801537414
+          }
+        },
+        {
+          "home_team": "Belgium",
+          "away_team": "Iran",
+          "datetime": "2026-06-21T12:00:00-07:00",
+          "venue": "Los Angeles (Inglewood)",
+          "group": "Group G",
+          "probabilities": {
+            "home": 0.754905710064505,
+            "draw": 0.12534491503658507,
+            "away": 0.11974937489890981
+          },
+          "predicted_score": {
+            "home": 3,
+            "away": 0
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.395,
+            "draw": 4.59,
+            "away": 7.55
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.9463207125663757,
+            "draw": 0.006837303284555674,
+            "away": 0.046841926872730255
+          },
+          "context_probabilities": {
+            "home": 0.6770472400599004,
+            "draw": 0.07339449541284403,
+            "away": 0.24955826452725546
+          }
+        },
+        {
+          "home_team": "New Zealand",
+          "away_team": "Egypt",
+          "datetime": "2026-06-21T18:00:00-07:00",
+          "venue": "Vancouver",
+          "group": "Group G",
+          "probabilities": {
+            "home": 0.40315332399282794,
+            "draw": 0.24002741885235676,
+            "away": 0.3568192571548153
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 4.86,
+            "draw": 3.7,
+            "away": 1.73
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.8000343441963196,
+            "draw": 0.07491591572761536,
+            "away": 0.12504975497722626
+          },
+          "context_probabilities": {
+            "home": 0.6035739768493691,
+            "draw": 0.07339449541284403,
+            "away": 0.32303152773778676
+          }
+        },
+        {
+          "home_team": "Egypt",
+          "away_team": "Iran",
+          "datetime": "2026-06-26T20:00:00-07:00",
+          "venue": "Seattle",
+          "group": "Group G",
+          "probabilities": {
+            "home": 0.2702869297721705,
+            "draw": 0.2871665078580663,
+            "away": 0.4425465623697632
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 2.22,
+            "draw": 2.99,
+            "away": 3.53
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.0022210832685232162,
+            "draw": 0.0007346994243562222,
+            "away": 0.9970442652702332
+          },
+          "context_probabilities": {
+            "home": 0.5134639106334685,
+            "draw": 0.07339449541284403,
+            "away": 0.4131415939536873
+          }
+        },
+        {
+          "home_team": "New Zealand",
+          "away_team": "Belgium",
+          "datetime": "2026-06-26T20:00:00-07:00",
+          "venue": "Vancouver",
+          "group": "Group G",
+          "probabilities": {
+            "home": 0.17054091961723636,
+            "draw": 0.11048169527578201,
+            "away": 0.7189773851069817
+          },
+          "predicted_score": {
+            "home": 0,
+            "away": 3
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 7.125,
+            "draw": 4.8,
+            "away": 1.22
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.12817780673503876,
+            "draw": 0.004667573608458042,
+            "away": 0.867154598236084
+          },
+          "context_probabilities": {
+            "home": 0.44011899621632466,
+            "draw": 0.07339449541284403,
+            "away": 0.4864865083708313
+          }
+        }
+      ],
+      "standings": [
+        {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "goals_for": 10,
+          "goals_against": 0,
+          "points": 9,
+          "team": "Belgium",
+          "goal_diff": 10
+        },
+        {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "goals_for": 4,
+          "goals_against": 5,
+          "points": 6,
+          "team": "Iran",
+          "goal_diff": -1
+        },
+        {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "loss": 2,
+          "goals_for": 3,
+          "goals_against": 6,
+          "points": 3,
+          "team": "New Zealand",
+          "goal_diff": -3
+        },
+        {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "goals_for": 2,
+          "goals_against": 8,
+          "points": 0,
+          "team": "Egypt",
+          "goal_diff": -6
+        }
+      ]
+    },
+    {
+      "group": "Group H",
+      "predictions": [
+        {
+          "home_team": "Spain",
+          "away_team": "Cape Verde",
+          "datetime": "2026-06-15T12:00:00-04:00",
+          "venue": "Atlanta",
+          "group": "Group H",
+          "probabilities": {
+            "home": 0.6816720505556499,
+            "draw": 0.10369482524838314,
+            "away": 0.21463312419596695
+          },
+          "predicted_score": {
+            "home": 3,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.09,
+            "draw": 11.585,
+            "away": 26.0
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.008922540582716465,
+            "draw": 0.19457414746284485,
+            "away": 0.7965033054351807
+          },
+          "context_probabilities": {
+            "home": 0.5860357577431453,
+            "draw": 0.07339449541284403,
+            "away": 0.34056974684401065
+          }
+        },
+        {
+          "home_team": "Saudi Arabia",
+          "away_team": "Uruguay",
+          "datetime": "2026-06-15T18:00:00-04:00",
+          "venue": "Miami (Miami Gardens)",
+          "group": "Group H",
+          "probabilities": {
+            "home": 0.130685834463694,
+            "draw": 0.18460220789146245,
+            "away": 0.6847119576448436
+          },
+          "predicted_score": {
+            "home": 0,
+            "away": 3
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 7.5,
+            "draw": 4.4,
+            "away": 1.43
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.007392216939479113,
+            "draw": 0.0008968511829152703,
+            "away": 0.991710901260376
+          },
+          "context_probabilities": {
+            "home": 0.45438025393047576,
+            "draw": 0.07339449541284403,
+            "away": 0.4722252506566802
+          }
+        },
+        {
+          "home_team": "Spain",
+          "away_team": "Saudi Arabia",
+          "datetime": "2026-06-21T12:00:00-04:00",
+          "venue": "Atlanta",
+          "group": "Group H",
+          "probabilities": {
+            "home": 0.8227687369071657,
+            "draw": 0.07601372490086292,
+            "away": 0.10121753819197134
+          },
+          "predicted_score": {
+            "home": 4,
+            "away": 0
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.1,
+            "draw": 10.0,
+            "away": 23.0
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.8525500297546387,
+            "draw": 0.042504843324422836,
+            "away": 0.1049451231956482
+          },
+          "context_probabilities": {
+            "home": 0.6131704193943591,
+            "draw": 0.07339449541284403,
+            "away": 0.3134350851927967
+          }
+        },
+        {
+          "home_team": "Uruguay",
+          "away_team": "Cape Verde",
+          "datetime": "2026-06-21T18:00:00-04:00",
+          "venue": "Miami (Miami Gardens)",
+          "group": "Group H",
+          "probabilities": {
+            "home": 0.6007542889172108,
+            "draw": 0.1338693363678454,
+            "away": 0.2653763747149437
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.43,
+            "draw": 4.43,
+            "away": 7.2
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.4692774713039398,
+            "draw": 0.020553741604089737,
+            "away": 0.510168731212616
+          },
+          "context_probabilities": {
+            "home": 0.6564288703996444,
+            "draw": 0.07339449541284403,
+            "away": 0.2701766341875115
+          }
+        },
+        {
+          "home_team": "Uruguay",
+          "away_team": "Spain",
+          "datetime": "2026-06-26T18:00:00-06:00",
+          "venue": "Guadalajara (Zapopan)",
+          "group": "Group H",
+          "probabilities": {
+            "home": 0.44727394715751073,
+            "draw": 0.20925456402914983,
+            "away": 0.3434714888133394
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 5.25,
+            "draw": 3.85,
+            "away": 1.62
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.9766712784767151,
+            "draw": 0.0038796316366642714,
+            "away": 0.01944912225008011
+          },
+          "context_probabilities": {
+            "home": 0.6127714333860806,
+            "draw": 0.07339449541284403,
+            "away": 0.3138340712010752
+          }
+        },
+        {
+          "home_team": "Cape Verde",
+          "away_team": "Saudi Arabia",
+          "datetime": "2026-06-26T19:00:00-05:00",
+          "venue": "Houston",
+          "group": "Group H",
+          "probabilities": {
+            "home": 0.5254430800763614,
+            "draw": 0.24948740521987395,
+            "away": 0.22506951470376463
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 2.25,
+            "draw": 3.4,
+            "away": 2.9
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.9204078316688538,
+            "draw": 0.003993269521743059,
+            "away": 0.07559890300035477
+          },
+          "context_probabilities": {
+            "home": 0.5685202565215929,
+            "draw": 0.07339449541284403,
+            "away": 0.35808524806556297
+          }
+        }
+      ],
+      "standings": [
+        {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "goals_for": 7,
+          "goals_against": 2,
+          "points": 9,
+          "team": "Uruguay",
+          "goal_diff": 5
+        },
+        {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "goals_for": 8,
+          "goals_against": 3,
+          "points": 6,
+          "team": "Spain",
+          "goal_diff": 5
+        },
+        {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "loss": 2,
+          "goals_for": 4,
+          "goals_against": 6,
+          "points": 3,
+          "team": "Cape Verde",
+          "goal_diff": -2
+        },
+        {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "goals_for": 1,
+          "goals_against": 9,
+          "points": 0,
+          "team": "Saudi Arabia",
+          "goal_diff": -8
+        }
+      ]
+    },
+    {
+      "group": "Group I",
+      "predictions": [
+        {
+          "home_team": "France",
+          "away_team": "Senegal",
+          "datetime": "2026-06-16T15:00:00-04:00",
+          "venue": "New York/New Jersey (East Rutherford)",
+          "group": "Group I",
+          "probabilities": {
+            "home": 0.678394568011354,
+            "draw": 0.2000091125010048,
+            "away": 0.12159631948764127
+          },
+          "predicted_score": {
+            "home": 3,
+            "away": 0
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.47,
+            "draw": 4.4,
+            "away": 7.25
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.7592995166778564,
+            "draw": 0.2314571887254715,
+            "away": 0.009243274107575417
+          },
+          "context_probabilities": {
+            "home": 0.6181981704558717,
+            "draw": 0.07339449541284403,
+            "away": 0.3084073341312842
+          }
+        },
+        {
+          "home_team": "Iraq",
+          "away_team": "Norway",
+          "datetime": "2026-06-16T18:00:00-04:00",
+          "venue": "Boston (Foxborough)",
+          "group": "Group I",
+          "probabilities": {
+            "home": 0.3439318428408112,
+            "draw": 0.10131011344872198,
+            "away": 0.5547580437104669
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 14.495000000000001,
+            "draw": 7.0,
+            "away": 1.2
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.7456098794937134,
+            "draw": 0.05041966959834099,
+            "away": 0.20397038757801056
+          },
+          "context_probabilities": {
+            "home": 0.5596330275229358,
+            "draw": 0.07339449541284403,
+            "away": 0.36697247706422015
+          }
+        },
+        {
+          "home_team": "France",
+          "away_team": "Iraq",
+          "datetime": "2026-06-22T17:00:00-04:00",
+          "venue": "Philadelphia",
+          "group": "Group I",
+          "probabilities": {
+            "home": 0.7778047840338073,
+            "draw": 0.15068726516857586,
+            "away": 0.07150795079761685
+          },
+          "predicted_score": {
+            "home": 3,
+            "away": 0
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.12,
+            "draw": 8.75,
+            "away": 24.0
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.46914759278297424,
+            "draw": 0.524088442325592,
+            "away": 0.0067639281041920185
+          },
+          "context_probabilities": {
+            "home": 0.6525712463770429,
+            "draw": 0.07339449541284403,
+            "away": 0.2740342582101129
+          }
+        },
+        {
+          "home_team": "Norway",
+          "away_team": "Senegal",
+          "datetime": "2026-06-22T20:00:00-04:00",
+          "venue": "New York/New Jersey (East Rutherford)",
+          "group": "Group I",
+          "probabilities": {
+            "home": 0.47436450808299513,
+            "draw": 0.25520220307557195,
+            "away": 0.2704332888414329
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 2.1,
+            "draw": 3.46,
+            "away": 3.35
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.6384653449058533,
+            "draw": 0.09580535441637039,
+            "away": 0.26572927832603455
+          },
+          "context_probabilities": {
+            "home": 0.5243472124206068,
+            "draw": 0.07339449541284403,
+            "away": 0.40225829216654907
+          }
+        },
+        {
+          "home_team": "Norway",
+          "away_team": "France",
+          "datetime": "2026-06-26T15:00:00-04:00",
+          "venue": "Boston (Foxborough)",
+          "group": "Group I",
+          "probabilities": {
+            "home": 0.20464213397591444,
+            "draw": 0.2425150277143184,
+            "away": 0.5528428383097672
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 4.2,
+            "draw": 3.55,
+            "away": 1.82
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.11596052348613739,
+            "draw": 0.009562465362250805,
+            "away": 0.8744770288467407
+          },
+          "context_probabilities": {
+            "home": 0.4666948086688284,
+            "draw": 0.07339449541284403,
+            "away": 0.4599106959183275
+          }
+        },
+        {
+          "home_team": "Senegal",
+          "away_team": "Iraq",
+          "datetime": "2026-06-26T15:00:00-04:00",
+          "venue": "Toronto",
+          "group": "Group I",
+          "probabilities": {
+            "home": 0.45499929893745483,
+            "draw": 0.15260729754476932,
+            "away": 0.3923934035177757
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.39,
+            "draw": 4.33,
+            "away": 7.34
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.0053899516351521015,
+            "draw": 0.08233951777219772,
+            "away": 0.9122704863548279
+          },
+          "context_probabilities": {
+            "home": 0.5949188426252645,
+            "draw": 0.07339449541284403,
+            "away": 0.3316866619618913
+          }
+        }
+      ],
+      "standings": [
+        {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "goals_for": 8,
+          "goals_against": 1,
+          "points": 9,
+          "team": "France",
+          "goal_diff": 7
+        },
+        {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "goals_for": 5,
+          "goals_against": 4,
+          "points": 6,
+          "team": "Norway",
+          "goal_diff": 1
+        },
+        {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "loss": 2,
+          "goals_for": 3,
+          "goals_against": 6,
+          "points": 3,
+          "team": "Senegal",
+          "goal_diff": -3
+        },
+        {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "goals_for": 2,
+          "goals_against": 7,
+          "points": 0,
+          "team": "Iraq",
+          "goal_diff": -5
+        }
+      ]
+    },
+    {
+      "group": "Group J",
+      "predictions": [
+        {
+          "home_team": "Argentina",
+          "away_team": "Algeria",
+          "datetime": "2026-06-16T20:00:00-05:00",
+          "venue": "Kansas City",
+          "group": "Group J",
+          "probabilities": {
+            "home": 0.7565025298965098,
+            "draw": 0.12453006060543496,
+            "away": 0.1189674094980551
+          },
+          "predicted_score": {
+            "home": 3,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.37,
+            "draw": 4.6,
+            "away": 7.625
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.9883657693862915,
+            "draw": 0.008849557489156723,
+            "away": 0.002784673823043704
+          },
+          "context_probabilities": {
+            "home": 0.5849461626656863,
+            "draw": 0.07339449541284403,
+            "away": 0.3416593419214695
+          }
+        },
+        {
+          "home_team": "Austria",
+          "away_team": "Jordan",
+          "datetime": "2026-06-16T21:00:00-07:00",
+          "venue": "San Francisco Bay Area (Santa Clara)",
+          "group": "Group J",
+          "probabilities": {
+            "home": 0.6977029754860972,
+            "draw": 0.11904386030777754,
+            "away": 0.18325316420612536
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.31,
+            "draw": 5.5,
+            "away": 7.625
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.7456098794937134,
+            "draw": 0.05041966959834099,
+            "away": 0.20397038757801056
+          },
+          "context_probabilities": {
+            "home": 0.5596330275229358,
+            "draw": 0.07339449541284403,
+            "away": 0.36697247706422015
+          }
+        },
+        {
+          "home_team": "Argentina",
+          "away_team": "Austria",
+          "datetime": "2026-06-22T12:00:00-05:00",
+          "venue": "Dallas (Arlington)",
+          "group": "Group J",
+          "probabilities": {
+            "home": 0.6596400650622724,
+            "draw": 0.21032357940856788,
+            "away": 0.13003635552915982
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 0
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.62,
+            "draw": 3.88,
+            "away": 5.54
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.9870283603668213,
+            "draw": 0.007170471362769604,
+            "away": 0.005801147781312466
+          },
+          "context_probabilities": {
+            "home": 0.6293223439686753,
+            "draw": 0.07339449541284403,
+            "away": 0.2972831606184806
+          }
+        },
+        {
+          "home_team": "Jordan",
+          "away_team": "Algeria",
+          "datetime": "2026-06-22T20:00:00-07:00",
+          "venue": "San Francisco Bay Area (Santa Clara)",
+          "group": "Group J",
+          "probabilities": {
+            "home": 0.30929604605531735,
+            "draw": 0.16473296395073025,
+            "away": 0.5259709899939524
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 6.5,
+            "draw": 4.2,
+            "away": 1.5
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.5071099996566772,
+            "draw": 0.10007122904062271,
+            "away": 0.39281877875328064
+          },
+          "context_probabilities": {
+            "home": 0.5148816734495152,
+            "draw": 0.07339449541284403,
+            "away": 0.4117238311376406
+          }
+        },
+        {
+          "home_team": "Algeria",
+          "away_team": "Austria",
+          "datetime": "2026-06-27T21:00:00-05:00",
+          "venue": "Kansas City",
+          "group": "Group J",
+          "probabilities": {
+            "home": 0.2204781550838099,
+            "draw": 0.2708256944249496,
+            "away": 0.5086961504912404
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 3.54,
+            "draw": 3.1,
+            "away": 2.15
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.006084623280912638,
+            "draw": 0.12401234358549118,
+            "away": 0.869903028011322
+          },
+          "context_probabilities": {
+            "home": 0.6043843815963562,
+            "draw": 0.07339449541284403,
+            "away": 0.32222112299079964
+          }
+        },
+        {
+          "home_team": "Jordan",
+          "away_team": "Argentina",
+          "datetime": "2026-06-27T21:00:00-05:00",
+          "venue": "Dallas (Arlington)",
+          "group": "Group J",
+          "probabilities": {
+            "home": 0.12015779588721524,
+            "draw": 0.08769860510080442,
+            "away": 0.7921435990119804
+          },
+          "predicted_score": {
+            "home": 0,
+            "away": 3
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 13.5,
+            "draw": 6.75,
+            "away": 1.18
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.028597941622138023,
+            "draw": 0.0017190678045153618,
+            "away": 0.9696829319000244
+          },
+          "context_probabilities": {
+            "home": 0.4899437110771962,
+            "draw": 0.07339449541284403,
+            "away": 0.43666179350995965
+          }
+        }
+      ],
+      "standings": [
+        {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "goals_for": 8,
+          "goals_against": 1,
+          "points": 9,
+          "team": "Argentina",
+          "goal_diff": 7
+        },
+        {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "goals_for": 4,
+          "goals_against": 4,
+          "points": 6,
+          "team": "Austria",
+          "goal_diff": 0
+        },
+        {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "loss": 2,
+          "goals_for": 4,
+          "goals_against": 6,
+          "points": 3,
+          "team": "Algeria",
+          "goal_diff": -2
+        },
+        {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "goals_for": 2,
+          "goals_against": 7,
+          "points": 0,
+          "team": "Jordan",
+          "goal_diff": -5
+        }
+      ]
+    },
+    {
+      "group": "Group K",
+      "predictions": [
+        {
+          "home_team": "Portugal",
+          "away_team": "DR Congo",
+          "datetime": "2026-06-17T12:00:00-05:00",
+          "venue": "Houston",
+          "group": "Group K",
+          "probabilities": {
+            "home": 0.5059456642879289,
+            "draw": 0.13622317722132107,
+            "away": 0.35783115849075015
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.28,
+            "draw": 5.75,
+            "away": 11.0
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.024771178141236305,
+            "draw": 0.11258212476968765,
+            "away": 0.862646758556366
+          },
+          "context_probabilities": {
+            "home": 0.5850103038260626,
+            "draw": 0.07339449541284403,
+            "away": 0.34159520076109334
+          }
+        },
+        {
+          "home_team": "Uzbekistan",
+          "away_team": "Colombia",
+          "datetime": "2026-06-17T20:00:00-06:00",
+          "venue": "Mexico City",
+          "group": "Group K",
+          "probabilities": {
+            "home": 0.22096095962491683,
+            "draw": 0.12086890651827524,
+            "away": 0.6581701338568079
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 7.0,
+            "draw": 4.6,
+            "away": 1.34
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.2638179659843445,
+            "draw": 0.006014237646013498,
+            "away": 0.730167806148529
+          },
+          "context_probabilities": {
+            "home": 0.4720512866173771,
+            "draw": 0.07339449541284405,
+            "away": 0.4545542179697788
+          }
+        },
+        {
+          "home_team": "Portugal",
+          "away_team": "Uzbekistan",
+          "datetime": "2026-06-23T12:00:00-05:00",
+          "venue": "Houston",
+          "group": "Group K",
+          "probabilities": {
+            "home": 0.5162432218066894,
+            "draw": 0.12832218179670957,
+            "away": 0.35543459639660113
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.24,
+            "draw": 6.25,
+            "away": 11.5
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.024771178141236305,
+            "draw": 0.11258212476968765,
+            "away": 0.862646758556366
+          },
+          "context_probabilities": {
+            "home": 0.5850103038260626,
+            "draw": 0.07339449541284403,
+            "away": 0.34159520076109334
+          }
+        },
+        {
+          "home_team": "Colombia",
+          "away_team": "DR Congo",
+          "datetime": "2026-06-23T20:00:00-06:00",
+          "venue": "Guadalajara (Zapopan)",
+          "group": "Group K",
+          "probabilities": {
+            "home": 0.5349316402149369,
+            "draw": 0.15126606328499484,
+            "away": 0.31380229650006836
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.4449999999999998,
+            "draw": 4.15,
+            "away": 7.285
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.27406045794487,
+            "draw": 0.05476214736700058,
+            "away": 0.6711774468421936
+          },
+          "context_probabilities": {
+            "home": 0.6472147684284945,
+            "draw": 0.07339449541284403,
+            "away": 0.27939073615866145
+          }
+        },
+        {
+          "home_team": "Colombia",
+          "away_team": "Portugal",
+          "datetime": "2026-06-27T19:30:00-04:00",
+          "venue": "Miami (Miami Gardens)",
+          "group": "Group K",
+          "probabilities": {
+            "home": 0.4656912113513964,
+            "draw": 0.26488702560656785,
+            "away": 0.26942176304203574
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 3.5,
+            "draw": 3.25,
+            "away": 2.1
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.9437766671180725,
+            "draw": 0.015072816051542759,
+            "away": 0.0411505289375782
+          },
+          "context_probabilities": {
+            "home": 0.6225015482873432,
+            "draw": 0.07339449541284403,
+            "away": 0.3041039562998127
+          }
+        },
+        {
+          "home_team": "DR Congo",
+          "away_team": "Uzbekistan",
+          "datetime": "2026-06-27T19:30:00-04:00",
+          "venue": "Atlanta",
+          "group": "Group K",
+          "probabilities": {
+            "home": 0.4755232751216237,
+            "draw": 0.269724633071266,
+            "away": 0.2547520918071104
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 2.3,
+            "draw": 3.2,
+            "away": 3.05
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.7456098794937134,
+            "draw": 0.05041966959834099,
+            "away": 0.20397038757801056
+          },
+          "context_probabilities": {
+            "home": 0.5596330275229358,
+            "draw": 0.07339449541284403,
+            "away": 0.36697247706422015
+          }
+        }
+      ],
+      "standings": [
+        {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "goals_for": 6,
+          "goals_against": 3,
+          "points": 9,
+          "team": "Colombia",
+          "goal_diff": 3
+        },
+        {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "goals_for": 5,
+          "goals_against": 4,
+          "points": 6,
+          "team": "Portugal",
+          "goal_diff": 1
+        },
+        {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "loss": 2,
+          "goals_for": 4,
+          "goals_against": 5,
+          "points": 3,
+          "team": "DR Congo",
+          "goal_diff": -1
+        },
+        {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "goals_for": 3,
+          "goals_against": 6,
+          "points": 0,
+          "team": "Uzbekistan",
+          "goal_diff": -3
+        }
+      ]
+    },
+    {
+      "group": "Group L",
+      "predictions": [
+        {
+          "home_team": "England",
+          "away_team": "Croatia",
+          "datetime": "2026-06-17T15:00:00-05:00",
+          "venue": "Dallas (Arlington)",
+          "group": "Group L",
+          "probabilities": {
+            "home": 0.35674680970645256,
+            "draw": 0.23021684950490454,
+            "away": 0.4130363407886429
+          },
+          "predicted_score": {
+            "home": 1,
+            "away": 2
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 1.73,
+            "draw": 3.84,
+            "away": 4.965
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.05288701131939888,
+            "draw": 0.0020003425888717175,
+            "away": 0.9451126456260681
+          },
+          "context_probabilities": {
+            "home": 0.4841746353174381,
+            "draw": 0.07339449541284405,
+            "away": 0.44243086926971786
+          }
+        },
+        {
+          "home_team": "Ghana",
+          "away_team": "Panama",
+          "datetime": "2026-06-17T19:00:00-04:00",
+          "venue": "Toronto",
+          "group": "Group L",
+          "probabilities": {
+            "home": 0.4953350599524694,
+            "draw": 0.25940266402776985,
+            "away": 0.24526227601976083
+          },
+          "predicted_score": {
+            "home": 2,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 2.15,
+            "draw": 3.4,
+            "away": 3.47
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.7234222292900085,
+            "draw": 0.027843285351991653,
+            "away": 0.24873453378677368
+          },
+          "context_probabilities": {
+            "home": 0.6088467103357366,
+            "draw": 0.07339449541284403,
+            "away": 0.3177587942514193
+          }
+        },
+        {
+          "home_team": "England",
+          "away_team": "Ghana",
+          "datetime": "2026-06-23T16:00:00-04:00",
+          "venue": "Boston (Foxborough)",
+          "group": "Group L",
+          "probabilities": {
+            "home": 0.6185026782627769,
+            "draw": 0.23925018992238659,
+            "away": 0.14224713181483653
+          },
+          "predicted_score": {
+            "home": 3,
+            "away": 1
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.27,
+            "draw": 4.9,
+            "away": 7.375
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.17222674190998077,
+            "draw": 0.7889912128448486,
+            "away": 0.038782015442848206
+          },
+          "context_probabilities": {
+            "home": 0.6316592937612768,
+            "draw": 0.07339449541284403,
+            "away": 0.294946210825879
+          }
+        },
+        {
+          "home_team": "Panama",
+          "away_team": "Croatia",
+          "datetime": "2026-06-23T19:00:00-04:00",
+          "venue": "Toronto",
+          "group": "Group L",
+          "probabilities": {
+            "home": 0.12807972505607484,
+            "draw": 0.20879057323228373,
+            "away": 0.6631297017116414
+          },
+          "predicted_score": {
+            "home": 0,
+            "away": 4
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 6.45,
+            "draw": 3.89,
+            "away": 1.55
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.006054304074496031,
+            "draw": 0.0008380779763683677,
+            "away": 0.9931076169013977
+          },
+          "context_probabilities": {
+            "home": 0.3729263180700499,
+            "draw": 0.07339449541284403,
+            "away": 0.5536791865171061
+          }
+        },
+        {
+          "home_team": "Panama",
+          "away_team": "England",
+          "datetime": "2026-06-27T17:00:00-04:00",
+          "venue": "New York/New Jersey (East Rutherford)",
+          "group": "Group L",
+          "probabilities": {
+            "home": 0.13391224509276511,
+            "draw": 0.10375352551647339,
+            "away": 0.7623342293907613
+          },
+          "predicted_score": {
+            "home": 0,
+            "away": 4
+          },
+          "best_outcome": "Away Win",
+          "bookmaker_odds": {
+            "home": 7.5,
+            "draw": 5.2,
+            "away": 1.22
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.012743132188916206,
+            "draw": 0.0013157946523278952,
+            "away": 0.9859411120414734
+          },
+          "context_probabilities": {
+            "home": 0.4404016182277941,
+            "draw": 0.07339449541284403,
+            "away": 0.48620388635936185
+          }
+        },
+        {
+          "home_team": "Croatia",
+          "away_team": "Ghana",
+          "datetime": "2026-06-27T17:00:00-04:00",
+          "venue": "Philadelphia",
+          "group": "Group L",
+          "probabilities": {
+            "home": 0.684908788996759,
+            "draw": 0.17338466507533334,
+            "away": 0.14170654592790766
+          },
+          "predicted_score": {
+            "home": 4,
+            "away": 0
+          },
+          "best_outcome": "Home Win",
+          "bookmaker_odds": {
+            "home": 1.63,
+            "draw": 3.7,
+            "away": 5.4
+          },
+          "actual_score": null,
+          "result_status": "predicted",
+          "result_source": null,
+          "xgb_probabilities": {
+            "home": 0.8791339993476868,
+            "draw": 0.07771789282560349,
+            "away": 0.043148040771484375
+          },
+          "context_probabilities": {
+            "home": 0.703404187796263,
+            "draw": 0.07339449541284403,
+            "away": 0.22320131679089283
+          }
+        }
+      ],
+      "standings": [
+        {
+          "played": 3,
+          "win": 3,
+          "draw": 0,
+          "loss": 0,
+          "goals_for": 10,
+          "goals_against": 1,
+          "points": 9,
+          "team": "Croatia",
+          "goal_diff": 9
+        },
+        {
+          "played": 3,
+          "win": 2,
+          "draw": 0,
+          "loss": 1,
+          "goals_for": 8,
+          "goals_against": 3,
+          "points": 6,
+          "team": "England",
+          "goal_diff": 5
+        },
+        {
+          "played": 3,
+          "win": 1,
+          "draw": 0,
+          "loss": 2,
+          "goals_for": 3,
+          "goals_against": 8,
+          "points": 3,
+          "team": "Ghana",
+          "goal_diff": -5
+        },
+        {
+          "played": 3,
+          "win": 0,
+          "draw": 0,
+          "loss": 3,
+          "goals_for": 1,
+          "goals_against": 10,
+          "points": 0,
+          "team": "Panama",
+          "goal_diff": -9
+        }
+      ]
+    }
+  ]
+}
