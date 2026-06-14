@@ -2,6 +2,7 @@
 """
 定时更新博彩赔率和预测结果的脚本
 根据最新赔率和权重融合算法，实时更新预测
+所有时间基准: 北京时间 (UTC+8)
 """
 
 import json
@@ -11,9 +12,14 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 
+# 导入北京时间工具
+import sys
+sys.path.insert(0, str(ROOT))
+from beijing_time import get_beijing_timestamp, get_today_range_beijing, to_beijing_time
+
 def log_update(message):
-    """记录更新日志"""
-    timestamp = datetime.now(timezone.utc).isoformat()
+    """记录更新日志（北京时间）"""
+    timestamp = get_beijing_timestamp()
     log_file = ROOT / 'update_log.txt'
     with open(log_file, 'a') as f:
         f.write(f"[{timestamp}] {message}\n")
@@ -65,26 +71,23 @@ def check_odds_updated():
         return False
 
 def get_today_matches_count():
-    """获取今日比赛数量"""
+    """获取今日比赛数量（北京时间）"""
     try:
         with open(ROOT / 'predictions.json', 'r') as f:
             data = json.load(f)
 
-        today = datetime.now()
-        bjToday = datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=8)))
-        todayStart = datetime(bjToday.year, bjToday.month, bjToday.day, 0, 0, 0)
-        todayEnd = datetime(bjToday.year, bjToday.month, bjToday.day, 23, 59, 59)
-
+        today_start, today_end = get_today_range_beijing()
         count = 0
         for group in data['groups']:
             for match in group['predictions']:
-                matchDate = datetime.fromisoformat(match['datetime'].replace('Z', '+00:00'))
-                bjDate = matchDate.astimezone(timezone(timedelta(hours=8)))
-                if todayStart <= bjDate <= todayEnd:
+                match_dt = datetime.fromisoformat(match['datetime'].replace('Z', '+00:00'))
+                bj_match_dt = to_beijing_time(match_dt)
+                if today_start <= bj_match_dt <= today_end:
                     count += 1
 
         return count
-    except:
+    except Exception as e:
+        log_update(f"⚠️ 获取今日比赛失败: {e}")
         return 0
 
 def determine_update_interval():

@@ -2,6 +2,7 @@
 """
 世界杯比赛成绩更新工具
 支持手动输入新的比赛结果，自动更新predictions和权重配置
+所有时间基准: 北京时间 (UTC+8)
 """
 
 import json
@@ -10,6 +11,9 @@ from pathlib import Path
 from datetime import datetime, timezone, timedelta
 
 ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(ROOT))
+
+from beijing_time import get_beijing_timestamp
 
 def load_actual_results():
     """加载当前的ACTUAL_RESULTS"""
@@ -161,6 +165,8 @@ def regenerate_predictions():
 def main():
     print("\n" + "="*80)
     print("🌍 世界杯AI预测系统 - 比赛成绩更新工具")
+    print(f"📍 时区: 北京时间 (UTC+8)")
+    print(f"⏰ 更新时间: {get_beijing_timestamp()}")
     print("="*80)
 
     # 显示当前成绩

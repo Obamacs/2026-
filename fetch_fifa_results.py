@@ -7,11 +7,15 @@
 
 import json
 import urllib.request
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Dict, List, Tuple
+import sys
 
 ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(ROOT))
+
+from beijing_time import get_beijing_timestamp
 
 # 球队名称标准化映射
 TEAM_NORMALIZATION = {
@@ -185,6 +189,8 @@ def print_summary(results: Dict[Tuple[str, str], Dict]):
 def main():
     print("\n" + "="*80)
     print("🌍 FIFA 2026年世界杯 - 官方数据同步工具")
+    print(f"📍 时区: 北京时间 (UTC+8)")
+    print(f"⏰ 同步时间: {get_beijing_timestamp()}")
     print("="*80 + "\n")
 
     # 加载当前的结果
