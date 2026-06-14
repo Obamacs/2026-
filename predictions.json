@@ -582,9 +582,9 @@
           "venue": "Boston (Foxborough)",
           "group": "Group C",
           "probabilities": {
-            "home": 0.28597009818222835,
-            "draw": 0.19420444837472386,
-            "away": 0.5198254534430479
+            "home": 0.27779128755226457,
+            "draw": 0.17395464603205815,
+            "away": 0.5482540664156773
           },
           "predicted_score": {
             "home": 1,
@@ -592,9 +592,9 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 14.0,
-            "draw": 4.65,
-            "away": 1.27
+            "home": 21.0,
+            "draw": 5.225,
+            "away": 1.205
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -617,9 +617,9 @@
           "venue": "Boston (Foxborough)",
           "group": "Group C",
           "probabilities": {
-            "home": 0.39114529259735575,
-            "draw": 0.25265867199963604,
-            "away": 0.35619603540300826
+            "home": 0.39291079538595186,
+            "draw": 0.24810559781765357,
+            "away": 0.3589836067963945
           },
           "predicted_score": {
             "home": 2,
@@ -628,7 +628,7 @@
           "best_outcome": "Home Win",
           "bookmaker_odds": {
             "home": 4.75,
-            "draw": 3.5,
+            "draw": 3.59,
             "away": 1.81
           },
           "actual_score": null,
@@ -846,9 +846,9 @@
           "venue": "Vancouver",
           "group": "Group D",
           "probabilities": {
-            "home": 0.22488339926665393,
-            "draw": 0.2343636674421143,
-            "away": 0.5407529332912316
+            "home": 0.22412584849927653,
+            "draw": 0.23558388504891825,
+            "away": 0.5402902664518052
           },
           "predicted_score": {
             "home": 0,
@@ -856,9 +856,9 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 5.35,
-            "draw": 3.815,
-            "away": 1.6949999999999998
+            "home": 5.4,
+            "draw": 3.8049999999999997,
+            "away": 1.7
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1086,9 +1086,12 @@
             "draw": 18.0,
             "away": 41.0
           },
-          "actual_score": null,
-          "result_status": "predicted",
-          "result_source": null,
+          "actual_score": {
+            "home": 3,
+            "away": 0
+          },
+          "result_status": "completed",
+          "result_source": "official result",
           "xgb_probabilities": {
             "home": 0.6124691963195801,
             "draw": 0.06527658551931381,
@@ -1247,9 +1250,9 @@
           "venue": "New York/New Jersey (East Rutherford)",
           "group": "Group E",
           "probabilities": {
-            "home": 0.27699748590456097,
-            "draw": 0.300229652311761,
-            "away": 0.4227728617836781
+            "home": 0.27692102015262554,
+            "draw": 0.3005120893954992,
+            "away": 0.4225668904518753
           },
           "predicted_score": {
             "home": 1,
@@ -1258,7 +1261,7 @@
           "best_outcome": "Away Win",
           "bookmaker_odds": {
             "home": 4.66,
-            "draw": 3.7,
+            "draw": 3.69,
             "away": 1.73
           },
           "actual_score": null,
@@ -1347,9 +1350,12 @@
             "draw": 3.6,
             "away": 3.8
           },
-          "actual_score": null,
-          "result_status": "predicted",
-          "result_source": null,
+          "actual_score": {
+            "home": 2,
+            "away": 1
+          },
+          "result_status": "completed",
+          "result_source": "official result",
           "xgb_probabilities": {
             "home": 0.6384653449058533,
             "draw": 0.09580535441637039,

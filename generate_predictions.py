@@ -29,12 +29,14 @@ TEAM_NORMALIZATION = {
 SCHEDULE_API = 'https://worldcupjson.net/matches?year=2026'
 
 ACTUAL_RESULTS = {
-    ('Mexico', 'South Africa'): {'home': 2, 'away': 0, 'status': 'completed', 'source': 'official result'},
-    ('South Korea', 'Czech Republic'): {'home': 2, 'away': 1, 'status': 'completed', 'source': 'official result'},
-    ('Canada', 'Bosnia & Herzegovina'): {'home': 1, 'away': 1, 'status': 'completed', 'source': 'official result'},
-    ('USA', 'Paraguay'): {'home': 4, 'away': 1, 'status': 'completed', 'source': 'official result'},
     ('Brazil', 'Morocco'): {'home': 1, 'away': 1, 'status': 'completed', 'source': 'official result'},
+    ('Canada', 'Bosnia & Herzegovina'): {'home': 1, 'away': 1, 'status': 'completed', 'source': 'official result'},
+    ('Germany', 'Curaçao'): {'home': 3, 'away': 0, 'status': 'completed', 'source': 'official result'},
+    ('Mexico', 'South Africa'): {'home': 2, 'away': 0, 'status': 'completed', 'source': 'official result'},
+    ('Netherlands', 'Japan'): {'home': 2, 'away': 1, 'status': 'completed', 'source': 'official result'},
     ('Qatar', 'Switzerland'): {'home': 1, 'away': 1, 'status': 'completed', 'source': 'official result'},
+    ('South Korea', 'Czech Republic'): {'home': 2, 'away': 1, 'status': 'completed', 'source': 'official result'},
+    ('USA', 'Paraguay'): {'home': 4, 'away': 1, 'status': 'completed', 'source': 'official result'},
 }
 
 BOOKMAKER_API_KEY = os.environ.get('ODDS_API_KEY')
