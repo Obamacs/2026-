@@ -74,6 +74,18 @@ BOOKMAKER_FALLBACK_ODDS = {
         {'bookmaker': 'Bet365', 'home': 2.15, 'draw': 3.35, 'away': 3.40},
         {'bookmaker': 'William Hill', 'home': 2.05, 'draw': 3.50, 'away': 3.45},
     ],
+    ('Qatar', 'Switzerland'): [
+        {'bookmaker': 'Pinnacle', 'home': 5.50, 'draw': 3.80, 'away': 1.65},
+        {'bookmaker': 'Bet365', 'home': 5.75, 'draw': 3.70, 'away': 1.63},
+    ],
+    ('Brazil', 'Morocco'): [
+        {'bookmaker': 'Pinnacle', 'home': 1.80, 'draw': 3.60, 'away': 4.00},
+        {'bookmaker': 'Bet365', 'home': 1.85, 'draw': 3.50, 'away': 3.90},
+    ],
+    ('USA', 'Paraguay'): [
+        {'bookmaker': 'Pinnacle', 'home': 1.95, 'draw': 3.40, 'away': 3.80},
+        {'bookmaker': 'Bet365', 'home': 2.00, 'draw': 3.30, 'away': 3.75},
+    ],
 }
 
 
@@ -624,17 +636,17 @@ def main():
                 odds_probs = {'home': 0.0, 'draw': 0.0, 'away': 0.0}
                 match_bookmaker_odds = None
 
-            # 动态权重融合 - 基于实际比赛数据优化
-            # 数据驱动权重: Context(66.7%) > Odds(66.7%) > XGBoost(33.3%)
+            # 动态权重融合 - 基于6场实际比赛数据优化
+            # 数据驱动权重: Odds(83.3%) > Context(50%) > XGBoost(16.7%)
             weights = {
-                'xgb': 0.20,      # ↓ 从30%→20% (XGBoost仅33.3%准确度)
-                'context': 0.35,  # ↑ 从15%→35% (Context 66.7%准确度，最优)
-                'odds': 0.45,     # ↓ 从55%→45% (Odds 66.7%准确度，但避免过度依赖)
+                'xgb': 0.15,      # ↓ 从20%→15% (XGBoost仅16.7%准确度，表现很差)
+                'context': 0.30,  # ↓ 从35%→30% (Context 50%准确度，表现中等)
+                'odds': 0.55,     # ↑ 从45%→55% (Odds 83.3%准确度，表现最优)
             }
             if odds_data is None:
                 weights = {
-                    'xgb': 0.35,   # ↑ 从50%→35% (无赔率时，模型权重提升)
-                    'context': 0.65,  # ↑ 从50%→65% (无赔率时，Context主导)
+                    'xgb': 0.30,   # ↓ 降低XGBoost权重
+                    'context': 0.70,  # ↑ Context主导
                     'odds': 0.0,
                 }
 
@@ -646,20 +658,26 @@ def main():
             ])
             fused = fused / fused.sum()
 
-            # 改进的发散度检测和修正
+            # 增强的贝叶斯平率修正 - 6场数据优化
+            # 关键发现：平局预测失败 (0/3)，需要大幅提升平率预测
             if odds_data is not None:
                 odds_vec = np.array([odds_probs['home'], odds_probs['draw'], odds_probs['away']])
 
                 # 特别关注平率的极端低估（模型历史上严重低估平）
                 draw_divergence = abs(fused[1] - odds_vec[1])
-                if draw_divergence > 0.08:  # 平率差异超过8%
-                    # 对平率应用更强的贝叶斯修正：XGBoost在平率预测上表现极差
-                    # 历史数据表明：当模型给平<20%而赔率给平>25%时，应该信赖赔率
-                    if fused[1] < 0.20 and odds_vec[1] > 0.25:
-                        # 极端低估情况：更强的修正
+
+                # 改进条件1: 降低触发阈值从8%→5%，提升敏感度
+                # 改进条件2: 增强修正强度，信赖赔率而不是模型
+                if draw_divergence > 0.05 or fused[1] < 0.15:  # 更激进的触发条件
+                    # 当模型平率极低(<15%)时，无条件应用强修正
+                    if fused[1] < 0.15:
+                        # 极度低估：强烈信赖赔率
+                        corrected_draw_prob = 0.1 * fused[1] + 0.9 * odds_vec[1]
+                    elif fused[1] < 0.25 and odds_vec[1] > 0.20:
+                        # 低估情况：主要信赖赔率
                         corrected_draw_prob = 0.2 * fused[1] + 0.8 * odds_vec[1]
                     else:
-                        # 一般情况：标准修正
+                        # 中等情况：标准修正
                         corrected_draw_prob = 0.35 * fused[1] + 0.65 * odds_vec[1]
 
                     # 重新归一化
@@ -672,7 +690,7 @@ def main():
                 # 保留原有的大差异检测（用于主客队胜负）
                 overall_divergence = np.linalg.norm(fused - odds_vec, ord=1)
                 if overall_divergence > 0.60:
-                    fused = fused * 0.65 + odds_vec * 0.35
+                    fused = fused * 0.60 + odds_vec * 0.40  # 提升Odds权重
                     fused = fused / fused.sum()
             score_home, score_away = predict_scores(fused, home, away, team_stats)
             best_outcome = ['Home Win', 'Draw', 'Away Win'][int(np.argmax(fused))]

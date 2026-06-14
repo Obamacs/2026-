@@ -6,7 +6,10 @@
       "Bash(chmod +x /Users/hubin/Downloads/AI世界杯/pull_updates.sh)",
       "Bash(python3 /tmp/verify_weights.py)",
       "Bash(curl -s http://localhost:8888)",
-      "Bash(python3 /Users/hubin/Downloads/AI世界杯/fetch_fifa_results.py)"
+      "Bash(python3 /Users/hubin/Downloads/AI世界杯/fetch_fifa_results.py)",
+      "Bash(git add *)",
+      "Bash(git commit -m '权重调整与平率预测优化 - 显著改进 *)",
+      "Bash(git push *)"
     ]
   }
 }
