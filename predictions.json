@@ -86,9 +86,9 @@
           "venue": "Atlanta",
           "group": "Group A",
           "probabilities": {
-            "home": 0.5333649854376236,
-            "draw": 0.23028850005125248,
-            "away": 0.23634651451112398
+            "home": 0.5333042745265737,
+            "draw": 0.23019001670029823,
+            "away": 0.23650570877312801
           },
           "predicted_score": {
             "home": 2,
@@ -98,7 +98,7 @@
           "bookmaker_odds": {
             "home": 1.75,
             "draw": 3.8,
-            "away": 4.65
+            "away": 4.64
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -121,9 +121,9 @@
           "venue": "Guadalajara (Zapopan)",
           "group": "Group A",
           "probabilities": {
-            "home": 0.5508356185058745,
-            "draw": 0.25899503215744957,
-            "away": 0.190169349336676
+            "home": 0.5519585052377569,
+            "draw": 0.25807747618816324,
+            "away": 0.18996401857407985
           },
           "predicted_score": {
             "home": 2,
@@ -131,7 +131,7 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 1.995,
+            "home": 1.98,
             "draw": 3.35,
             "away": 4.05
           },
@@ -156,9 +156,9 @@
           "venue": "Mexico City",
           "group": "Group A",
           "probabilities": {
-            "home": 0.24129766878490666,
-            "draw": 0.24650996243805845,
-            "away": 0.5121923687770349
+            "home": 0.24134312910348155,
+            "draw": 0.24689931104993304,
+            "away": 0.5117575598465854
           },
           "predicted_score": {
             "home": 1,
@@ -166,9 +166,9 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 4.525,
-            "draw": 3.475,
-            "away": 1.81
+            "home": 4.5,
+            "draw": 3.455,
+            "away": 1.8050000000000002
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -191,9 +191,9 @@
           "venue": "Monterrey (Guadalupe)",
           "group": "Group A",
           "probabilities": {
-            "home": 0.43038820539511136,
-            "draw": 0.2061984643712163,
-            "away": 0.3634133302336724
+            "home": 0.4301503002752545,
+            "draw": 0.20631653736987232,
+            "away": 0.36353316235487315
           },
           "predicted_score": {
             "home": 2,
@@ -201,7 +201,7 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 5.59,
+            "home": 5.609999999999999,
             "draw": 3.865,
             "away": 1.6
           },
@@ -315,9 +315,9 @@
           "venue": "San Francisco Bay Area (Santa Clara)",
           "group": "Group B",
           "probabilities": {
-            "home": 0.19797530792251752,
-            "draw": 0.09273851159199205,
-            "away": 0.7092861804854904
+            "home": 0.1974350558908857,
+            "draw": 0.09239677359542775,
+            "away": 0.7101681705136865
           },
           "predicted_score": {
             "home": 1,
@@ -325,8 +325,8 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 14.11,
-            "draw": 6.5,
+            "home": 14.4,
+            "draw": 6.55,
             "away": 1.22
           },
           "actual_score": null,
@@ -385,9 +385,9 @@
           "venue": "Vancouver",
           "group": "Group B",
           "probabilities": {
-            "home": 0.6761017917031874,
-            "draw": 0.11583379555262638,
-            "away": 0.20806441274418616
+            "home": 0.673471003430728,
+            "draw": 0.11641244535076466,
+            "away": 0.21011655121850747
           },
           "predicted_score": {
             "home": 2,
@@ -395,9 +395,9 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 1.29,
-            "draw": 5.335,
-            "away": 11.0
+            "home": 1.295,
+            "draw": 5.275,
+            "away": 10.405000000000001
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -455,9 +455,9 @@
           "venue": "Seattle",
           "group": "Group B",
           "probabilities": {
-            "home": 0.5477527467928334,
-            "draw": 0.2324968089602728,
-            "away": 0.21975044424689386
+            "home": 0.5476877284231857,
+            "draw": 0.2323984416118957,
+            "away": 0.2199138299649186
           },
           "predicted_score": {
             "home": 2,
@@ -467,7 +467,7 @@
           "bookmaker_odds": {
             "home": 1.61,
             "draw": 3.7,
-            "away": 5.68
+            "away": 5.665
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -541,9 +541,9 @@
           "venue": "New York/New Jersey (East Rutherford)",
           "group": "Group C",
           "probabilities": {
-            "home": 0.6086853949040617,
-            "draw": 0.20669055952509763,
-            "away": 0.18462404557084058
+            "home": 0.6091581063364756,
+            "draw": 0.2060533329497392,
+            "away": 0.18478856071378524
           },
           "predicted_score": {
             "home": 2,
@@ -551,9 +551,9 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 1.665,
-            "draw": 3.8,
-            "away": 5.484999999999999
+            "home": 1.67,
+            "draw": 3.84,
+            "away": 5.5
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -576,9 +576,9 @@
           "venue": "Boston (Foxborough)",
           "group": "Group C",
           "probabilities": {
-            "home": 0.37738053535634314,
-            "draw": 0.19487558734159485,
-            "away": 0.42774387730206204
+            "home": 0.37717504468616664,
+            "draw": 0.19468940021261,
+            "away": 0.4281355551012233
           },
           "predicted_score": {
             "home": 1,
@@ -586,8 +586,8 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 5.970000000000001,
-            "draw": 4.24,
+            "home": 6.0,
+            "draw": 4.25,
             "away": 1.56
           },
           "actual_score": null,
@@ -611,9 +611,9 @@
           "venue": "Boston (Foxborough)",
           "group": "Group C",
           "probabilities": {
-            "home": 0.441320346022219,
-            "draw": 0.26245063518777934,
-            "away": 0.2962290187900017
+            "home": 0.44162381351134233,
+            "draw": 0.2624408622136094,
+            "away": 0.29593532427504826
           },
           "predicted_score": {
             "home": 2,
@@ -621,8 +621,8 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 4.119999999999999,
-            "draw": 3.285,
+            "home": 4.1,
+            "draw": 3.28,
             "away": 1.97
           },
           "actual_score": null,
@@ -646,9 +646,9 @@
           "venue": "Philadelphia",
           "group": "Group C",
           "probabilities": {
-            "home": 0.7733914270850685,
-            "draw": 0.10792381347130556,
-            "away": 0.11868475944362596
+            "home": 0.7740641387838034,
+            "draw": 0.10665035833422745,
+            "away": 0.11928550288196914
           },
           "predicted_score": {
             "home": 3,
@@ -657,8 +657,8 @@
           "best_outcome": "Home Win",
           "bookmaker_odds": {
             "home": 1.07,
-            "draw": 12.0,
-            "away": 30.0
+            "draw": 12.25,
+            "away": 29.0
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -681,9 +681,9 @@
           "venue": "Miami (Miami Gardens)",
           "group": "Group C",
           "probabilities": {
-            "home": 0.2554774952575908,
-            "draw": 0.17635035875439642,
-            "away": 0.5681721459880128
+            "home": 0.2544809214553197,
+            "draw": 0.17637205827712865,
+            "away": 0.5691470202675517
           },
           "predicted_score": {
             "home": 1,
@@ -691,9 +691,9 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 6.2,
+            "home": 6.300000000000001,
             "draw": 4.5,
-            "away": 1.44
+            "away": 1.435
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -802,23 +802,22 @@
           "venue": "Los Angeles (Inglewood)",
           "group": "Group D",
           "probabilities": {
-            "home": 0.3498640581688362,
-            "draw": 0.2720020849314656,
-            "away": 0.37813385689969825
+            "home": 0.35280392299818475,
+            "draw": 0.07652525476542624,
+            "away": 0.5706708222363891
           },
           "predicted_score": {
             "home": 1,
             "away": 2
           },
           "best_outcome": "Away Win",
-          "bookmaker_odds": {
-            "home": 2.1,
-            "draw": 3.25,
-            "away": 3.92
+          "bookmaker_odds": null,
+          "actual_score": {
+            "home": 4,
+            "away": 1
           },
-          "actual_score": null,
-          "result_status": "predicted",
-          "result_source": null,
+          "result_status": "completed",
+          "result_source": "official result",
           "xgb_probabilities": {
             "home": 0.0053899516351521015,
             "draw": 0.08233951777219772,
@@ -837,9 +836,9 @@
           "venue": "Vancouver",
           "group": "Group D",
           "probabilities": {
-            "home": 0.22859751817988622,
-            "draw": 0.22985335006137605,
-            "away": 0.5415491317587376
+            "home": 0.22892539152829844,
+            "draw": 0.229652202801769,
+            "away": 0.5414224056699325
           },
           "predicted_score": {
             "home": 1,
@@ -847,7 +846,7 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 5.175000000000001,
+            "home": 5.15,
             "draw": 3.8,
             "away": 1.7
           },
@@ -872,19 +871,19 @@
           "venue": "Seattle",
           "group": "Group D",
           "probabilities": {
-            "home": 0.4780147502027091,
-            "draw": 0.28731811748198666,
-            "away": 0.23466713231530414
+            "home": 0.5030475827246192,
+            "draw": 0.27933138055084267,
+            "away": 0.21762103672453798
           },
           "predicted_score": {
             "home": 2,
-            "away": 1
+            "away": 0
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 1.75,
-            "draw": 3.8,
-            "away": 4.5
+            "home": 1.59,
+            "draw": 4.1,
+            "away": 5.5
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -907,9 +906,9 @@
           "venue": "San Francisco Bay Area (Santa Clara)",
           "group": "Group D",
           "probabilities": {
-            "home": 0.47277696360591553,
-            "draw": 0.27030594038658806,
-            "away": 0.2569170960074964
+            "home": 0.48506409810841267,
+            "draw": 0.26985796408457624,
+            "away": 0.24507793780701115
           },
           "predicted_score": {
             "home": 2,
@@ -917,9 +916,9 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 2.2,
+            "home": 2.05,
             "draw": 3.2,
-            "away": 3.45
+            "away": 3.87
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -942,9 +941,9 @@
           "venue": "Los Angeles (Inglewood)",
           "group": "Group D",
           "probabilities": {
-            "home": 0.42754917874736015,
-            "draw": 0.2525480387851522,
-            "away": 0.31990278246748766
+            "home": 0.4234701048901782,
+            "draw": 0.2510687992788384,
+            "away": 0.32546109583098337
           },
           "predicted_score": {
             "home": 2,
@@ -952,9 +951,9 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 2.55,
-            "draw": 3.41,
-            "away": 2.59
+            "home": 2.63,
+            "draw": 3.4299999999999997,
+            "away": 2.5
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -977,9 +976,9 @@
           "venue": "San Francisco Bay Area (Santa Clara)",
           "group": "Group D",
           "probabilities": {
-            "home": 0.5233703378959024,
-            "draw": 0.2661509566043605,
-            "away": 0.21047870549973713
+            "home": 0.5227245695029833,
+            "draw": 0.2678190555953557,
+            "away": 0.20945637490166097
           },
           "predicted_score": {
             "home": 2,
@@ -988,8 +987,8 @@
           "best_outcome": "Home Win",
           "bookmaker_odds": {
             "home": 2.15,
-            "draw": 3.2,
-            "away": 3.45
+            "draw": 3.1799999999999997,
+            "away": 3.475
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1035,21 +1034,21 @@
           "draw": 0,
           "loss": 2,
           "goals_for": 4,
-          "goals_against": 5,
+          "goals_against": 4,
           "points": 3,
           "team": "USA",
-          "goal_diff": -1
+          "goal_diff": 0
         },
         {
           "played": 3,
           "win": 0,
           "draw": 0,
           "loss": 3,
-          "goals_for": 2,
+          "goals_for": 1,
           "goals_against": 6,
           "points": 0,
           "team": "Australia",
-          "goal_diff": -4
+          "goal_diff": -5
         }
       ]
     },
@@ -1063,9 +1062,9 @@
           "venue": "Houston",
           "group": "Group E",
           "probabilities": {
-            "home": 0.7433306538460612,
-            "draw": 0.06274759367404593,
-            "away": 0.19392175247989296
+            "home": 0.7420311076371439,
+            "draw": 0.06408010398192111,
+            "away": 0.19388878838093504
           },
           "predicted_score": {
             "home": 2,
@@ -1074,7 +1073,7 @@
           "best_outcome": "Home Win",
           "bookmaker_odds": {
             "home": 1.04,
-            "draw": 18.0,
+            "draw": 17.0,
             "away": 41.0
           },
           "actual_score": null,
@@ -1098,9 +1097,9 @@
           "venue": "Philadelphia",
           "group": "Group E",
           "probabilities": {
-            "home": 0.3699804076542161,
-            "draw": 0.30724418550990135,
-            "away": 0.32277540683588263
+            "home": 0.3684720346836015,
+            "draw": 0.31066965242386557,
+            "away": 0.3208583128925329
           },
           "predicted_score": {
             "home": 2,
@@ -1109,8 +1108,8 @@
           "best_outcome": "Home Win",
           "bookmaker_odds": {
             "home": 3.6,
-            "draw": 2.8449999999999998,
-            "away": 2.415
+            "draw": 2.8,
+            "away": 2.42
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1168,9 +1167,9 @@
           "venue": "Kansas City",
           "group": "Group E",
           "probabilities": {
-            "home": 0.6268120410119327,
-            "draw": 0.18163621483483333,
-            "away": 0.19155174415323392
+            "home": 0.626735625770142,
+            "draw": 0.18161242224258622,
+            "away": 0.19165195198727186
           },
           "predicted_score": {
             "home": 2,
@@ -1180,7 +1179,7 @@
           "bookmaker_odds": {
             "home": 1.185,
             "draw": 6.75,
-            "away": 15.0
+            "away": 14.95
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1203,9 +1202,9 @@
           "venue": "Philadelphia",
           "group": "Group E",
           "probabilities": {
-            "home": 0.2721438381267993,
-            "draw": 0.12303937512975337,
-            "away": 0.6048167867434474
+            "home": 0.27118352594670997,
+            "draw": 0.12217014366015913,
+            "away": 0.6066463303931309
           },
           "predicted_score": {
             "home": 1,
@@ -1213,9 +1212,9 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 12.5,
-            "draw": 6.0,
-            "away": 1.21
+            "home": 12.75,
+            "draw": 6.05,
+            "away": 1.205
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1238,9 +1237,9 @@
           "venue": "New York/New Jersey (East Rutherford)",
           "group": "Group E",
           "probabilities": {
-            "home": 0.28568264259344067,
-            "draw": 0.324772700246534,
-            "away": 0.38954465716002534
+            "home": 0.28544552585692834,
+            "draw": 0.32494045453174003,
+            "away": 0.38961401961133174
           },
           "predicted_score": {
             "home": 1,
@@ -1249,8 +1248,8 @@
           "best_outcome": "Away Win",
           "bookmaker_odds": {
             "home": 4.65,
-            "draw": 3.69,
-            "away": 1.73
+            "draw": 3.675,
+            "away": 1.725
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1324,9 +1323,9 @@
           "venue": "Dallas (Arlington)",
           "group": "Group F",
           "probabilities": {
-            "home": 0.471487391353918,
-            "draw": 0.2453230691815339,
-            "away": 0.2831895394645481
+            "home": 0.47184198511021747,
+            "draw": 0.24503450476679725,
+            "away": 0.2831235101229853
           },
           "predicted_score": {
             "home": 2,
@@ -1334,7 +1333,7 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 1.98,
+            "home": 1.975,
             "draw": 3.6,
             "away": 3.8
           },
@@ -1359,9 +1358,9 @@
           "venue": "Monterrey (Guadalupe)",
           "group": "Group F",
           "probabilities": {
-            "home": 0.5664729779949653,
-            "draw": 0.25242006979516757,
-            "away": 0.1811069522098672
+            "home": 0.5662331133688261,
+            "draw": 0.2518026577390532,
+            "away": 0.18196422889212072
           },
           "predicted_score": {
             "home": 3,
@@ -1371,7 +1370,7 @@
           "bookmaker_odds": {
             "home": 1.9,
             "draw": 3.45,
-            "away": 4.4
+            "away": 4.35
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1429,9 +1428,9 @@
           "venue": "Monterrey (Guadalupe)",
           "group": "Group F",
           "probabilities": {
-            "home": 0.2368283333599429,
-            "draw": 0.24038419577638265,
-            "away": 0.5227874708636745
+            "home": 0.23677878684841785,
+            "draw": 0.23999662294487645,
+            "away": 0.5232245902067058
           },
           "predicted_score": {
             "home": 1,
@@ -1441,7 +1440,7 @@
           "bookmaker_odds": {
             "home": 5.4,
             "draw": 3.6,
-            "away": 1.7
+            "away": 1.6949999999999998
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1464,9 +1463,9 @@
           "venue": "Dallas (Arlington)",
           "group": "Group F",
           "probabilities": {
-            "home": 0.33708434006894117,
-            "draw": 0.2538780729084811,
-            "away": 0.40903758702257775
+            "home": 0.33629995554377706,
+            "draw": 0.2554162957576833,
+            "away": 0.4082837486985396
           },
           "predicted_score": {
             "home": 1,
@@ -1474,9 +1473,9 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 2.07,
-            "draw": 3.35,
-            "away": 3.48
+            "home": 2.075,
+            "draw": 3.33,
+            "away": 3.49
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1499,9 +1498,9 @@
           "venue": "Kansas City",
           "group": "Group F",
           "probabilities": {
-            "home": 0.24692257862703954,
-            "draw": 0.18896974611991552,
-            "away": 0.564107675253045
+            "home": 0.2463833622342368,
+            "draw": 0.18922389159444852,
+            "away": 0.5643927461713147
           },
           "predicted_score": {
             "home": 1,
@@ -1509,7 +1508,7 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 6.28,
+            "home": 6.34,
             "draw": 4.2,
             "away": 1.49
           },
@@ -1585,9 +1584,9 @@
           "venue": "Seattle",
           "group": "Group G",
           "probabilities": {
-            "home": 0.6587077239593058,
-            "draw": 0.20376393814723986,
-            "away": 0.13752833789345442
+            "home": 0.6599098059452528,
+            "draw": 0.20268355966617624,
+            "away": 0.13740663438857095
           },
           "predicted_score": {
             "home": 4,
@@ -1595,8 +1594,8 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 1.62,
-            "draw": 3.99,
+            "home": 1.61,
+            "draw": 4.0,
             "away": 5.75
           },
           "actual_score": null,
@@ -1620,9 +1619,9 @@
           "venue": "Los Angeles (Inglewood)",
           "group": "Group G",
           "probabilities": {
-            "home": 0.4334622058087882,
-            "draw": 0.3004696259313223,
-            "away": 0.2660681682598896
+            "home": 0.4338092673471787,
+            "draw": 0.30065108953568076,
+            "away": 0.2655396431171407
           },
           "predicted_score": {
             "home": 2,
@@ -1632,7 +1631,7 @@
           "bookmaker_odds": {
             "home": 1.83,
             "draw": 3.5,
-            "away": 4.765000000000001
+            "away": 4.8
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1655,9 +1654,9 @@
           "venue": "Los Angeles (Inglewood)",
           "group": "Group G",
           "probabilities": {
-            "home": 0.6827038204607347,
-            "draw": 0.17432357257930708,
-            "away": 0.14297260695995814
+            "home": 0.6831334858442222,
+            "draw": 0.1743462593234608,
+            "away": 0.14252025483231706
           },
           "predicted_score": {
             "home": 3,
@@ -1665,9 +1664,9 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 1.395,
-            "draw": 4.59,
-            "away": 7.55
+            "home": 1.39,
+            "draw": 4.58,
+            "away": 7.6
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1690,9 +1689,9 @@
           "venue": "Vancouver",
           "group": "Group G",
           "probabilities": {
-            "home": 0.41542798538138864,
-            "draw": 0.23633673503740427,
-            "away": 0.3482352795812071
+            "home": 0.41598667672302003,
+            "draw": 0.23601405479271154,
+            "away": 0.34799926848426843
           },
           "predicted_score": {
             "home": 2,
@@ -1700,7 +1699,7 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 4.86,
+            "home": 4.824999999999999,
             "draw": 3.7,
             "away": 1.73
           },
@@ -1725,9 +1724,9 @@
           "venue": "Seattle",
           "group": "Group G",
           "probabilities": {
-            "home": 0.3179370229206074,
-            "draw": 0.2838256035252251,
-            "away": 0.3982373735541675
+            "home": 0.31801531666389293,
+            "draw": 0.2837762330360815,
+            "away": 0.3982084503000255
           },
           "predicted_score": {
             "home": 1,
@@ -1735,9 +1734,9 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 2.22,
-            "draw": 2.99,
-            "away": 3.53
+            "home": 2.215,
+            "draw": 2.9850000000000003,
+            "away": 3.525
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1846,9 +1845,9 @@
           "venue": "Atlanta",
           "group": "Group H",
           "probabilities": {
-            "home": 0.6030202021029701,
-            "draw": 0.10187301603966142,
-            "away": 0.29510678185736844
+            "home": 0.6024885077843347,
+            "draw": 0.10242700062011667,
+            "away": 0.2950844915955487
           },
           "predicted_score": {
             "home": 3,
@@ -1857,7 +1856,7 @@
           "best_outcome": "Home Win",
           "bookmaker_odds": {
             "home": 1.09,
-            "draw": 11.585,
+            "draw": 11.4,
             "away": 26.0
           },
           "actual_score": null,
@@ -1916,9 +1915,9 @@
           "venue": "Atlanta",
           "group": "Group H",
           "probabilities": {
-            "home": 0.7737790600973351,
-            "draw": 0.07694157693786623,
-            "away": 0.1492793629647986
+            "home": 0.7737432780759042,
+            "draw": 0.0778344646620576,
+            "away": 0.14842225726203828
           },
           "predicted_score": {
             "home": 3,
@@ -1926,9 +1925,9 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 1.1,
-            "draw": 10.0,
-            "away": 23.0
+            "home": 1.0950000000000002,
+            "draw": 9.75,
+            "away": 24.0
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1951,9 +1950,9 @@
           "venue": "Miami (Miami Gardens)",
           "group": "Group H",
           "probabilities": {
-            "home": 0.5793895372825307,
-            "draw": 0.18175765557899343,
-            "away": 0.2388528071384758
+            "home": 0.5780412950977782,
+            "draw": 0.18266906645533826,
+            "away": 0.23928963844688345
           },
           "predicted_score": {
             "home": 2,
@@ -1962,8 +1961,8 @@
           "best_outcome": "Home Win",
           "bookmaker_odds": {
             "home": 1.43,
-            "draw": 4.43,
-            "away": 7.2
+            "draw": 4.39,
+            "away": 7.1
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -1986,9 +1985,9 @@
           "venue": "Guadalajara (Zapopan)",
           "group": "Group H",
           "probabilities": {
-            "home": 0.4505161065071616,
-            "draw": 0.2057403208936304,
-            "away": 0.343743572599208
+            "home": 0.45040465550787884,
+            "draw": 0.2055822398527207,
+            "away": 0.34401310463940044
           },
           "predicted_score": {
             "home": 2,
@@ -1997,8 +1996,8 @@
           "best_outcome": "Home Win",
           "bookmaker_odds": {
             "home": 5.25,
-            "draw": 3.85,
-            "away": 1.62
+            "draw": 3.8449999999999998,
+            "away": 1.6150000000000002
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2021,9 +2020,9 @@
           "venue": "Houston",
           "group": "Group H",
           "probabilities": {
-            "home": 0.5021497866476106,
-            "draw": 0.24691373810522957,
-            "away": 0.2509364752471599
+            "home": 0.5012678725059373,
+            "draw": 0.2475719469731156,
+            "away": 0.2511601805209471
           },
           "predicted_score": {
             "home": 2,
@@ -2031,7 +2030,7 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 2.25,
+            "home": 2.2649999999999997,
             "draw": 3.4,
             "away": 2.9
           },
@@ -2142,9 +2141,9 @@
           "venue": "Boston (Foxborough)",
           "group": "Group I",
           "probabilities": {
-            "home": 0.2666553787177175,
-            "draw": 0.11106991625750678,
-            "away": 0.6222747050247757
+            "home": 0.26664171970323786,
+            "draw": 0.11107191513767456,
+            "away": 0.6222863651590876
           },
           "predicted_score": {
             "home": 1,
@@ -2152,7 +2151,7 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 14.495000000000001,
+            "home": 14.5,
             "draw": 7.0,
             "away": 1.2
           },
@@ -2177,9 +2176,9 @@
           "venue": "Philadelphia",
           "group": "Group I",
           "probabilities": {
-            "home": 0.7053168610980487,
-            "draw": 0.17954095020021393,
-            "away": 0.11514218870173748
+            "home": 0.7049552686417365,
+            "draw": 0.18071038364613018,
+            "away": 0.11433434771213319
           },
           "predicted_score": {
             "home": 3,
@@ -2187,9 +2186,9 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 1.12,
-            "draw": 8.75,
-            "away": 24.0
+            "home": 1.1150000000000002,
+            "draw": 8.5,
+            "away": 25.0
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2212,9 +2211,9 @@
           "venue": "New York/New Jersey (East Rutherford)",
           "group": "Group I",
           "probabilities": {
-            "home": 0.46116274870440505,
-            "draw": 0.25078776507148853,
-            "away": 0.2880494862241065
+            "home": 0.4604826069875443,
+            "draw": 0.2518613844117085,
+            "away": 0.28765600860074714
           },
           "predicted_score": {
             "home": 2,
@@ -2222,9 +2221,9 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 2.1,
-            "draw": 3.46,
-            "away": 3.35
+            "home": 2.1100000000000003,
+            "draw": 3.455,
+            "away": 3.365
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2247,9 +2246,9 @@
           "venue": "Boston (Foxborough)",
           "group": "Group I",
           "probabilities": {
-            "home": 0.25522767635310817,
-            "draw": 0.23999055949007017,
-            "away": 0.5047817641568215
+            "home": 0.25416847935442677,
+            "draw": 0.23993914383125903,
+            "away": 0.5058923768143142
           },
           "predicted_score": {
             "home": 1,
@@ -2257,9 +2256,9 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 4.2,
+            "home": 4.25,
             "draw": 3.55,
-            "away": 1.82
+            "away": 1.81
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2438,9 +2437,9 @@
           "venue": "Dallas (Arlington)",
           "group": "Group J",
           "probabilities": {
-            "home": 0.6258764465930238,
-            "draw": 0.20666410104938446,
-            "away": 0.1674594523575917
+            "home": 0.6254475497449467,
+            "draw": 0.20689600908207173,
+            "away": 0.16765644117298156
           },
           "predicted_score": {
             "home": 2,
@@ -2449,8 +2448,8 @@
           "best_outcome": "Home Win",
           "bookmaker_odds": {
             "home": 1.62,
-            "draw": 3.88,
-            "away": 5.54
+            "draw": 3.87,
+            "away": 5.515000000000001
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2473,9 +2472,9 @@
           "venue": "San Francisco Bay Area (Santa Clara)",
           "group": "Group J",
           "probabilities": {
-            "home": 0.3470285110110482,
-            "draw": 0.14691339172578832,
-            "away": 0.5060580972631634
+            "home": 0.347165624631417,
+            "draw": 0.14712559137635897,
+            "away": 0.5057087839922241
           },
           "predicted_score": {
             "home": 1,
@@ -2485,7 +2484,7 @@
           "bookmaker_odds": {
             "home": 6.5,
             "draw": 4.2,
-            "away": 1.5
+            "away": 1.505
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2508,9 +2507,9 @@
           "venue": "Kansas City",
           "group": "Group J",
           "probabilities": {
-            "home": 0.2939612355004416,
-            "draw": 0.278367019241468,
-            "away": 0.4276717452580903
+            "home": 0.29355646974658084,
+            "draw": 0.27721348843310284,
+            "away": 0.4292300418203164
           },
           "predicted_score": {
             "home": 2,
@@ -2518,9 +2517,9 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 3.54,
-            "draw": 3.1,
-            "away": 2.15
+            "home": 3.5700000000000003,
+            "draw": 3.12,
+            "away": 2.1399999999999997
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2543,9 +2542,9 @@
           "venue": "Dallas (Arlington)",
           "group": "Group J",
           "probabilities": {
-            "home": 0.20836186169866983,
-            "draw": 0.08835583162950998,
-            "away": 0.7032823066718202
+            "home": 0.20722197071262524,
+            "draw": 0.08829990752422891,
+            "away": 0.7044781217631458
           },
           "predicted_score": {
             "home": 1,
@@ -2553,9 +2552,9 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 13.5,
+            "home": 14.0,
             "draw": 6.75,
-            "away": 1.18
+            "away": 1.1749999999999998
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2629,9 +2628,9 @@
           "venue": "Houston",
           "group": "Group K",
           "probabilities": {
-            "home": 0.5457864729695052,
-            "draw": 0.12301852475306888,
-            "away": 0.3311950022774259
+            "home": 0.5452970620253895,
+            "draw": 0.12356488533431793,
+            "away": 0.33113805264029245
           },
           "predicted_score": {
             "home": 2,
@@ -2640,7 +2639,7 @@
           "best_outcome": "Home Win",
           "bookmaker_odds": {
             "home": 1.28,
-            "draw": 5.75,
+            "draw": 5.7,
             "away": 11.0
           },
           "actual_score": null,
@@ -2699,9 +2698,9 @@
           "venue": "Houston",
           "group": "Group K",
           "probabilities": {
-            "home": 0.5542117474529076,
-            "draw": 0.1165540738361227,
-            "away": 0.3292341787109699
+            "home": 0.5534892368683842,
+            "draw": 0.11668353491025658,
+            "away": 0.3298272282213591
           },
           "predicted_score": {
             "home": 2,
@@ -2709,9 +2708,9 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 1.24,
-            "draw": 6.25,
-            "away": 11.5
+            "home": 1.2349999999999999,
+            "draw": 6.2,
+            "away": 11.25
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2734,9 +2733,9 @@
           "venue": "Guadalajara (Zapopan)",
           "group": "Group K",
           "probabilities": {
-            "home": 0.5356225614987062,
-            "draw": 0.1934599243313957,
-            "away": 0.27091751416989807
+            "home": 0.5349639666935638,
+            "draw": 0.19486447379565328,
+            "away": 0.27017155951078287
           },
           "predicted_score": {
             "home": 2,
@@ -2744,9 +2743,9 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 1.45,
-            "draw": 4.2,
-            "away": 7.32
+            "home": 1.4449999999999998,
+            "draw": 4.15,
+            "away": 7.36
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2769,9 +2768,9 @@
           "venue": "Miami (Miami Gardens)",
           "group": "Group K",
           "probabilities": {
-            "home": 0.46199401534388823,
-            "draw": 0.2617679245222716,
-            "away": 0.27623806013384017
+            "home": 0.4626072019974196,
+            "draw": 0.2615522595482882,
+            "away": 0.2758405384542922
           },
           "predicted_score": {
             "home": 2,
@@ -2779,9 +2778,9 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 3.5,
-            "draw": 3.25,
-            "away": 2.1
+            "home": 3.49,
+            "draw": 3.26,
+            "away": 2.1100000000000003
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2804,9 +2803,9 @@
           "venue": "Atlanta",
           "group": "Group K",
           "probabilities": {
-            "home": 0.4642017752031699,
-            "draw": 0.2658388847400172,
-            "away": 0.2699593400568128
+            "home": 0.4647551864385914,
+            "draw": 0.2651105185369605,
+            "away": 0.27013429502444813
           },
           "predicted_score": {
             "home": 2,
@@ -2815,8 +2814,8 @@
           "best_outcome": "Home Win",
           "bookmaker_odds": {
             "home": 2.3,
-            "draw": 3.2,
-            "away": 3.05
+            "draw": 3.215,
+            "away": 3.0549999999999997
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2890,9 +2889,9 @@
           "venue": "Dallas (Arlington)",
           "group": "Group L",
           "probabilities": {
-            "home": 0.3855669296506102,
-            "draw": 0.22810394191658356,
-            "away": 0.38632912843280626
+            "home": 0.38526957574843823,
+            "draw": 0.22849629878658237,
+            "away": 0.3862341254649794
           },
           "predicted_score": {
             "home": 1,
@@ -2901,8 +2900,8 @@
           "best_outcome": "Away Win",
           "bookmaker_odds": {
             "home": 1.73,
-            "draw": 3.84,
-            "away": 4.965
+            "draw": 3.83,
+            "away": 4.96
           },
           "actual_score": null,
           "result_status": "predicted",
@@ -2995,9 +2994,9 @@
           "venue": "Toronto",
           "group": "Group L",
           "probabilities": {
-            "home": 0.1824401918341075,
-            "draw": 0.20364907560070586,
-            "away": 0.6139107325651866
+            "home": 0.18126748776698778,
+            "draw": 0.20561051494741553,
+            "away": 0.6131219972855966
           },
           "predicted_score": {
             "home": 0,
@@ -3005,8 +3004,8 @@
           },
           "best_outcome": "Away Win",
           "bookmaker_odds": {
-            "home": 6.4,
-            "draw": 3.93,
+            "home": 6.5,
+            "draw": 3.89,
             "away": 1.55
           },
           "actual_score": null,
@@ -3065,9 +3064,9 @@
           "venue": "Philadelphia",
           "group": "Group L",
           "probabilities": {
-            "home": 0.6172762757068023,
-            "draw": 0.23327089060638775,
-            "away": 0.14945283368680995
+            "home": 0.6183311993001597,
+            "draw": 0.23277772992337986,
+            "away": 0.14889107077646044
           },
           "predicted_score": {
             "home": 4,
@@ -3075,9 +3074,9 @@
           },
           "best_outcome": "Home Win",
           "bookmaker_odds": {
-            "home": 1.63,
-            "draw": 3.7,
-            "away": 5.4
+            "home": 1.625,
+            "draw": 3.71,
+            "away": 5.45
           },
           "actual_score": null,
           "result_status": "predicted",

@@ -32,6 +32,7 @@ ACTUAL_RESULTS = {
     ('Mexico', 'South Africa'): {'home': 2, 'away': 0, 'status': 'completed', 'source': 'official result'},
     ('South Korea', 'Czech Republic'): {'home': 2, 'away': 1, 'status': 'completed', 'source': 'official result'},
     ('Canada', 'Bosnia & Herzegovina'): {'home': 1, 'away': 1, 'status': 'completed', 'source': 'official result'},
+    ('USA', 'Paraguay'): {'home': 4, 'away': 1, 'status': 'completed', 'source': 'official result'},
 }
 
 BOOKMAKER_API_KEY = os.environ.get('ODDS_API_KEY')

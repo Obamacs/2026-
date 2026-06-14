@@ -1,0 +1,450 @@
+{
+  "Qatar vs Ecuador": {
+    "home": 0,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-20"
+  },
+  "England vs Iran": {
+    "home": 6,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-21"
+  },
+  "Senegal vs Netherlands": {
+    "home": 0,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-21"
+  },
+  "USA vs Wales": {
+    "home": 1,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-21"
+  },
+  "Argentina vs Saudi Arabia": {
+    "home": 1,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-22"
+  },
+  "Denmark vs Tunisia": {
+    "home": 0,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-22"
+  },
+  "Mexico vs Poland": {
+    "home": 0,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-22"
+  },
+  "France vs Australia": {
+    "home": 4,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-22"
+  },
+  "Morocco vs Croatia": {
+    "home": 0,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-23"
+  },
+  "Germany vs Japan": {
+    "home": 1,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-23"
+  },
+  "Spain vs Costa Rica": {
+    "home": 7,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-23"
+  },
+  "Belgium vs Canada": {
+    "home": 1,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-23"
+  },
+  "Switzerland vs Cameroon": {
+    "home": 1,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-24"
+  },
+  "Uruguay vs South Korea": {
+    "home": 0,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-24"
+  },
+  "Portugal vs Ghana": {
+    "home": 3,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-24"
+  },
+  "Brazil vs Serbia": {
+    "home": 2,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-24"
+  },
+  "Wales vs Iran": {
+    "home": 0,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-25"
+  },
+  "Qatar vs Senegal": {
+    "home": 1,
+    "away": 3,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-25"
+  },
+  "Netherlands vs Ecuador": {
+    "home": 1,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-25"
+  },
+  "England vs USA": {
+    "home": 0,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-25"
+  },
+  "Tunisia vs Australia": {
+    "home": 0,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-26"
+  },
+  "Poland vs Saudi Arabia": {
+    "home": 2,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-26"
+  },
+  "France vs Denmark": {
+    "home": 2,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-26"
+  },
+  "Argentina vs Mexico": {
+    "home": 2,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-26"
+  },
+  "Japan vs Costa Rica": {
+    "home": 0,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-27"
+  },
+  "Belgium vs Morocco": {
+    "home": 0,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-27"
+  },
+  "Croatia vs Canada": {
+    "home": 4,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-27"
+  },
+  "Spain vs Germany": {
+    "home": 1,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-27"
+  },
+  "Cameroon vs Serbia": {
+    "home": 3,
+    "away": 3,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-28"
+  },
+  "South Korea vs Ghana": {
+    "home": 2,
+    "away": 3,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-28"
+  },
+  "Brazil vs Switzerland": {
+    "home": 1,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-28"
+  },
+  "Portugal vs Uruguay": {
+    "home": 2,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-28"
+  },
+  "Netherlands vs Qatar": {
+    "home": 2,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-29"
+  },
+  "Ecuador vs Senegal": {
+    "home": 1,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-29"
+  },
+  "Wales vs England": {
+    "home": 0,
+    "away": 3,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-29"
+  },
+  "Iran vs USA": {
+    "home": 0,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-29"
+  },
+  "Tunisia vs France": {
+    "home": 1,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-30"
+  },
+  "Australia vs Denmark": {
+    "home": 1,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-30"
+  },
+  "Saudi Arabia vs Mexico": {
+    "home": 1,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-30"
+  },
+  "Poland vs Argentina": {
+    "home": 0,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-11-30"
+  },
+  "Croatia vs Belgium": {
+    "home": 0,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-01"
+  },
+  "Canada vs Morocco": {
+    "home": 1,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-01"
+  },
+  "Japan vs Spain": {
+    "home": 2,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-01"
+  },
+  "Costa Rica vs Germany": {
+    "home": 2,
+    "away": 4,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-01"
+  },
+  "Ghana vs Uruguay": {
+    "home": 0,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-02"
+  },
+  "South Korea vs Portugal": {
+    "home": 2,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-02"
+  },
+  "Cameroon vs Brazil": {
+    "home": 1,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-02"
+  },
+  "Serbia vs Switzerland": {
+    "home": 2,
+    "away": 3,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-02"
+  },
+  "Netherlands vs USA": {
+    "home": 3,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-03"
+  },
+  "Argentina vs Australia": {
+    "home": 2,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-03"
+  },
+  "France vs Poland": {
+    "home": 3,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-04"
+  },
+  "England vs Senegal": {
+    "home": 3,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-04"
+  },
+  "Japan vs Croatia": {
+    "home": 1,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-05"
+  },
+  "Brazil vs South Korea": {
+    "home": 4,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-05"
+  },
+  "Morocco vs Spain": {
+    "home": 0,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-06"
+  },
+  "Portugal vs Switzerland": {
+    "home": 6,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-06"
+  },
+  "Croatia vs Brazil": {
+    "home": 1,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-09"
+  },
+  "Netherlands vs Argentina": {
+    "home": 2,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-09"
+  },
+  "Morocco vs Portugal": {
+    "home": 1,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-10"
+  },
+  "England vs France": {
+    "home": 1,
+    "away": 2,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-10"
+  },
+  "Argentina vs Croatia": {
+    "home": 3,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-13"
+  },
+  "France vs Morocco": {
+    "home": 2,
+    "away": 0,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-14"
+  },
+  "Croatia vs Morocco": {
+    "home": 2,
+    "away": 1,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-17"
+  },
+  "Argentina vs France": {
+    "home": 3,
+    "away": 3,
+    "status": "completed",
+    "source": "official result",
+    "date": "2022-12-18"
+  }
+}
